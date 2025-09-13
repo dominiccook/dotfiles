@@ -87,6 +87,7 @@ fi
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
+alias ls='ls -hN --color=auto --group-directories-first'
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
@@ -178,4 +179,30 @@ scrapeURLs()
 export -f scrapeURLs
 
 # --- comfy ---
-alias comfy='mpv --loop-file /home/dominic/Pictures/comfy_cabin.webm'
+alias comfy='mpv --loop-file home/Pictures/comfy_cabin.webm'
+
+# --- set background pattern ---
+xsetroot -mod 13 7
+
+# Created by `pipx` on 2025-03-15 00:09:41
+export PATH="$PATH:/home/dominic/.local/bin"
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/dominic/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/dominic/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/dominic/anaconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/dominic/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+#python aliases
+alias python='python3'
+
+alias fraggin='ioquake3/ioquake3.x86_64'
