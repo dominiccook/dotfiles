@@ -1,0 +1,64 @@
+**** BEGIN LOGGING AT Thu Jul  3 13:56:14 2025
+
+Jul 03 13:56:14 *	Connecting to irc.irc-nerds.net (148.135.58.238:6697)
+Jul 03 13:56:15 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 13:56:15 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 13:56:15 *	* Subject: /C=US/O=Let's Encrypt/CN=R11
+Jul 03 13:56:15 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 13:56:15 *	* Subject: /CN=irc-nerds.net
+Jul 03 13:56:15 *	* Issuer: /C=US/O=Let's Encrypt/CN=R11
+Jul 03 13:56:15 *	* Certification info:
+Jul 03 13:56:15 *	  Subject:
+Jul 03 13:56:15 *	    CN=irc-nerds.net
+Jul 03 13:56:15 *	  Issuer:
+Jul 03 13:56:15 *	    C=US
+Jul 03 13:56:15 *	    O=Let's Encrypt
+Jul 03 13:56:15 *	    CN=R11
+Jul 03 13:56:15 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 03 13:56:15 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 13:56:15 *	  Valid since Jun 29 22:32:22 2025 GM to Sep 27 22:32:21 2025 GM
+Jul 03 13:56:15 *	* Cipher info:
+Jul 03 13:56:15 *	  Version: TLSv1.3, cipher TLS_CHACHA20_POLY1305_SHA256 (256 bits)
+Jul 03 13:56:15 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Thu Jul  3 14:34:31 2025
+
+Jul 03 14:34:31 *	dug sets mode +i on dug
+Jul 03 14:34:31 *	dug sets mode +w on dug
+Jul 03 14:34:31 *	dug sets mode +x on dug
+Jul 03 14:34:31 *	dug sets mode +z on dug
+Jul 03 14:34:31 -NickServ-	This nickname is registered and protected.  If it is your
+Jul 03 14:34:31 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Jul 03 14:34:31 -NickServ-	please choose a different nick.
+Jul 03 14:34:31 -NickServ-	If you do not change within 1 minute, I will change your nick.
+Jul 03 14:34:31 -Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+Jul 03 14:34:31 -Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+Jul 03 14:34:31 -Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+**** ENDING LOGGING AT Thu Jul  3 14:34:32 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:43:41 2025
+
+Jul 03 14:43:41 *	dug sets mode +i on dug
+Jul 03 14:43:41 *	dug sets mode +w on dug
+Jul 03 14:43:41 *	dug sets mode +x on dug
+Jul 03 14:43:41 *	dug sets mode +z on dug
+Jul 03 14:43:41 -NickServ-	This nickname is registered and protected.  If it is your
+Jul 03 14:43:41 -NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+Jul 03 14:43:41 -NickServ-	please choose a different nick.
+Jul 03 14:43:41 -NickServ-	If you do not change within 1 minute, I will change your nick.
+Jul 03 14:43:41 -Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+Jul 03 14:43:41 -Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+Jul 03 14:43:41 -Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+**** ENDING LOGGING AT Thu Jul  3 14:43:42 2025
+
+**** BEGIN LOGGING AT Fri Jul  4 16:29:45 2025
+
+Jul 04 16:29:45 *	Guest33538 is already in use. Retrying with dug_...
+Jul 04 16:29:47 *	dug_ sets mode +i on dug_
+Jul 04 16:29:47 *	dug_ sets mode +w on dug_
+Jul 04 16:29:47 *	dug_ sets mode +x on dug_
+Jul 04 16:29:47 *	dug_ sets mode +z on dug_
+Jul 04 16:29:48 -Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+Jul 04 16:29:48 -Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+Jul 04 16:29:48 -Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+**** ENDING LOGGING AT Fri Jul  4 16:29:49 2025
+

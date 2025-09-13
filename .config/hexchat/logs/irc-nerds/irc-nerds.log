@@ -1,0 +1,818 @@
+**** BEGIN LOGGING AT Thu Jul  3 13:56:15 2025
+
+Jul 03 13:56:15 *	*** Looking up your hostname...
+Jul 03 13:56:15 *	*** Found your hostname
+Jul 03 13:56:15 *	Capabilities supported: unrealircd.org/link-security=1 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny unrealircd.org/history-storage=memory extended-join chghost cap-notify userhost-in-names multi-prefix away-notify sasl=EXTERNAL,PLAIN tls account-notify message-tags batch server-time account-tag echo-message labeled-response draft/chathistory
+Jul 03 13:56:15 *	Capabilities requested: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 03 13:56:15 *	Capabilities acknowledged: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+**** ENDING LOGGING AT Thu Jul  3 13:56:15 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 13:56:15 2025
+
+Jul 03 13:56:15 *	Welcome to the IRC-nERDs IRC Network dug!dug___@syn-023-240-201-077.res.spectrum.com
+Jul 03 13:56:15 *	Your host is pinkyandthebrain.irc-nerds.net, running version UnrealIRCd-5.2.1.1
+Jul 03 13:56:15 *	This server was created Tue Mar 19 2024 at 01:21:54 EDT
+Jul 03 13:56:15 *	pinkyandthebrain.irc-nerds.net UnrealIRCd-5.2.1.1 iowrsxzdHtIPNcDZRqpWGTSB lvhopsmntikraqbeIjJuHzMQNRTOVKDdGLPZSCcf
+Jul 03 13:56:15 *	AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:50 CHANMODES=beI,kLf,ljJH,psmntiruzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/reply DEAF=d ELIST=MNUCT EXCEPTS :are supported by this server
+Jul 03 13:56:15 *	EXTBAN=~,IGptmTSOcarnqjf INVEX KICKLEN=307 KNOCK MAP MAXCHANNELS=50 MAXLIST=b:500,e:500,I:500 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 NAMESX NETWORK=IRC-nERDs :are supported by this server
+Jul 03 13:56:15 *	NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,TAGMSG:1,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=340 UHNAMES USERIP WALLCHOPS WATCH=128 :are supported by this server
+Jul 03 13:56:15 *	WATCHOPTS=A WHOX :are supported by this server
+Jul 03 13:56:15 *	nerd-9A4D825.res.spectrum.com :is now your displayed host
+Jul 03 13:56:15 *	*** You are connected to pinkyandthebrain.irc-nerds.net with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+Jul 03 13:56:15 *	There are 2 users and 1288 invisible on 64 servers
+Jul 03 13:56:15 *	42 :operator(s) online
+Jul 03 13:56:15 *	248 :channels formed
+Jul 03 13:56:15 *	I have 3 clients and 1 servers
+Jul 03 13:56:15 *	3 12 :Current local users 3, max 12
+Jul 03 13:56:15 *	1290 4562 :Current global users 1290, max 4562
+Jul 03 13:56:15 *	- pinkyandthebrain.irc-nerds.net Message of the Day - 
+Jul 03 13:56:15 *	- 23/5/2022 6:41
+Jul 03 13:56:15 *	-  ___ ____   ____            _____ ____  ____
+Jul 03 13:56:15 *	- |_ _|  _ \ / ___|     _ __ | ____|  _ \|  _ \ ___
+Jul 03 13:56:15 *	- |  || |_) | |   _____| '_ \|  _| | |_) | | | / __|
+Jul 03 13:56:15 *	- |  ||  _ <| |__|_____| | | | |___|  _ <| |_| \__ \
+Jul 03 13:56:15 *	- |___|_| \_\\____|    |_| |_|_____|_| \_\____/|___/.net
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [Network Information]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-             irc.irc-nerds.net /  irc6.irc-nerds.net
+Jul 03 13:56:15 *	-             Ports 6667 (plain text) / 6697 (SSL)
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                 [Official Network Channels]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                 #help (Strictly a help channel)
+Jul 03 13:56:15 *	-                 #nerds (Network Chat/Help)
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [Services Help]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- Want to register your nick?
+Jul 03 13:56:15 *	-         /msg nickserv help register
+Jul 03 13:56:15 *	- Want to register your channel?
+Jul 03 13:56:15 *	-         /msg chanserv help register
+Jul 03 13:56:15 *	- Want to change your vhost? (Must have a registered nick):
+Jul 03 13:56:15 *	-         /msg hostserv help request
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [Rules]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- ** If you get butthurt over words this isnt the place for you!
+Jul 03 13:56:15 *	- Golden Rule: Follow the law!
+Jul 03 13:56:15 *	- Rules: https://www.irc-nerds.net/rules.txt
+Jul 03 13:56:15 *	- --------------------------------------------------------------
+Jul 03 13:56:15 *	- Keep getting PMs and dont like them, someone annoying you? Try
+Jul 03 13:56:15 *	- usermode: +P (More on usermodes can be found on the wiki)
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-         ** 420 Friendly Network **
+Jul 03 13:56:15 *	- ** No opers are needed, please dont ask. **
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	- ** Feel free to bring noob friends, do your part
+Jul 03 13:56:15 *	-     to keep the IRC protocol alive. Webchat with quick
+Jul 03 13:56:15 *	-     connect available for noobs or your mobile device
+Jul 03 13:56:15 *	-         @ https://webchat.irc-nerds.net **
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [Network Channels]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- #nerds #help #linux #hardware #videogames #marijuana #news
+Jul 03 13:56:15 *	- #security #cinema #radio
+Jul 03 13:56:15 *	-  [x]    Check the wiki for more popular channels or use /list
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [IRC-nERDs!Radio]
+Jul 03 13:56:15 *	-                 IRC-nERDs Streaming Radio Station
+Jul 03 13:56:15 *	- --------------------------------------------------------------
+Jul 03 13:56:15 *	- Channel: #radio
+Jul 03 13:56:15 *	- URL: https://radio.irc-nerds.net
+Jul 03 13:56:15 *	- Streaming Media URL: https://radio.irc-nerds.net/radio.ogg
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [Hosting Providers]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	- XtremeProvider - Affordable Stable Hosting. Alot of Locations!
+Jul 03 13:56:15 *	-  [x]     [( http://xp.irc-nerds.net )]
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                 [More Hosting]
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	-  [x]  https://hosting.irc-nerds.net
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	-                     [Disclaimer]
+Jul 03 13:56:15 *	-     This Network is a transit service. We do not condone nor
+Jul 03 13:56:15 *	-     endorse content found on this server. This network may be
+Jul 03 13:56:15 *	-     open to all but it is still a private network, you may be
+Jul 03 13:56:15 *	-     removed at anytime, for any reason.
+Jul 03 13:56:15 *	- ==============================================================
+Jul 03 13:56:15 *	- 
+Jul 03 13:56:15 *	-  "A friend with weed, is a friend indeed."
+Jul 03 13:56:15 *	- ░░______________________________________░░
+Jul 03 13:56:15 *	- ░░___________________0__________________░░
+Jul 03 13:56:15 *	- ░░__________________00__________________░░
+Jul 03 13:56:15 *	- ░░_________________0000_________________░░
+Jul 03 13:56:15 *	- ░░_____0__________000000___________0____░░
+Jul 03 13:56:15 *	- ░░_____00_________000000___________0____░░
+Jul 03 13:56:15 *	- ░░______0000______000000__________00____░░
+Jul 03 13:56:15 *	- ░░______000000____0000000_____00000_____░░
+Jul 03 13:56:15 *	- ░░___0_____0000000_000000_00000000___0__░░
+Jul 03 13:56:15 *	- ░░__00______000000_00000_0000000____00__░░
+Jul 03 13:56:15 *	- ░░__0000_____000000_000_000000____0000__░░
+Jul 03 13:56:15 *	- ░░___000000000__0000_0_000_0_000000000__░░
+Jul 03 13:56:15 *	- ░░______000000000__0_0_0_00000000000____░░
+Jul 03 13:56:15 *	- ░░__________000000000000000000000_______░░
+Jul 03 13:56:15 *	- ░░________________000_0_0000____________░░
+Jul 03 13:56:15 *	- ░░______________00000_0__00000__________░░
+Jul 03 13:56:15 *	- ░░____________00_______0_______00_______░░
+Jul 03 13:56:15 *	- ░░_____________________0________________░░
+Jul 03 13:56:15 *	- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░FREE
+Jul 03 13:56:15 *	- ░░░░░░░░░.▄██░░░░░░░░░░░░░░░░░░░░░THE
+Jul 03 13:56:15 *	- ░░░░░░░░.▄███░░▄███▄░░░▄▄▄▄░░░░░░░WEED!
+Jul 03 13:56:15 *	- ░░░░░░░.██▀██░░██▀██░░██▀▀██░░░░░░
+Jul 03 13:56:15 *	- ░░░░░.▄██▄▄██▄░░▄██▀░░██░░██░░░░░░LEGALIZE
+Jul 03 13:56:15 *	- ░░░░░░░░░░.██░░███▄▄░░██▄▄██░░░░░░IT!
+Jul 03 13:56:15 *	- ░░░░░░░░░.▄██▄░░░░░░░░░▀▀▀▀░░░░░░░
+Jul 03 13:56:15 *	- ░░░░░░░░░░░░░░░░.░░░░░░░░░░░░░░░░░4/20!
+Jul 03 13:56:15 *	- ~~ local 420 friendly nerd bunker ~~
+Jul 03 13:56:15 *	End of /MOTD command.
+Jul 03 13:56:15 *	dug sets mode +i on dug
+Jul 03 13:56:15 *	dug sets mode +w on dug
+Jul 03 13:56:15 *	dug sets mode +x on dug
+Jul 03 13:56:15 *	dug sets mode +z on dug
+Jul 03 13:56:15 -Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+Jul 03 13:56:15 -Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+Jul 03 13:56:15 -Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+Jul 03 13:57:02 >nickserv<	register dugdug
+Jul 03 13:57:02 -NickServ-	You must have been using this nick for at least 90 seconds to register.
+Jul 03 13:59:06 >nickserv<	register dugdug
+Jul 03 13:59:06 -NickServ-	Syntax: REGISTER password email
+Jul 03 13:59:06 -NickServ-	/msg NickServ HELP REGISTER for more information.
+Jul 03 13:59:17 >nickserv<	register dugdug etoya@cock.li
+Jul 03 13:59:17 -NickServ-	Nickname dug registered.
+Jul 03 13:59:17 -NickServ-	Your email address is not confirmed. To confirm it, follow the instructions that were emailed to you.
+Jul 03 13:59:17 -NickServ-	Your account will expire, if not confirmed, in 1 day.
+Jul 03 14:02:09 *	radio :Cannot join channel: Channel name must start with a hash mark (#)
+Jul 03 14:25:58 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:25:58 *	Disconnected ()
+Jul 03 14:26:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:26:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:26:28 *	Disconnected ()
+Jul 03 14:26:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:26:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:26:38 *	Disconnected ()
+Jul 03 14:26:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:26:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:26:48 *	Disconnected ()
+Jul 03 14:26:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:26:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:26:58 *	Disconnected ()
+Jul 03 14:26:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:26:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:27:08 *	Disconnected ()
+Jul 03 14:27:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:27:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:27:18 *	Disconnected ()
+Jul 03 14:27:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:27:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:27:28 *	Disconnected ()
+Jul 03 14:27:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:27:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:27:38 *	Disconnected ()
+Jul 03 14:27:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:27:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:27:48 *	Disconnected ()
+Jul 03 14:27:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:27:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:27:58 *	Disconnected ()
+Jul 03 14:27:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:27:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:28:08 *	Disconnected ()
+Jul 03 14:28:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:28:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:28:18 *	Disconnected ()
+Jul 03 14:28:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:28:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:28:28 *	Disconnected ()
+Jul 03 14:28:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:28:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:28:38 *	Disconnected ()
+Jul 03 14:28:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:28:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:28:48 *	Disconnected ()
+Jul 03 14:28:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:28:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:28:58 *	Disconnected ()
+Jul 03 14:28:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:28:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:29:08 *	Disconnected ()
+Jul 03 14:29:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:29:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:29:18 *	Disconnected ()
+Jul 03 14:29:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:29:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:29:28 *	Disconnected ()
+Jul 03 14:29:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:29:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:29:38 *	Disconnected ()
+Jul 03 14:29:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:29:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:29:48 *	Disconnected ()
+Jul 03 14:29:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:29:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:29:58 *	Disconnected ()
+Jul 03 14:29:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:29:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:30:08 *	Disconnected ()
+Jul 03 14:30:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:30:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:30:18 *	Disconnected ()
+Jul 03 14:30:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:30:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:30:28 *	Disconnected ()
+Jul 03 14:30:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:30:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:30:38 *	Disconnected ()
+Jul 03 14:30:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:30:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:30:48 *	Disconnected ()
+Jul 03 14:30:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:30:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:30:58 *	Disconnected ()
+Jul 03 14:30:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:30:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:31:08 *	Disconnected ()
+Jul 03 14:31:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:31:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:31:18 *	Disconnected ()
+Jul 03 14:31:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:31:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:31:28 *	Disconnected ()
+Jul 03 14:31:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:31:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:31:38 *	Disconnected ()
+Jul 03 14:31:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:31:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:31:48 *	Disconnected ()
+Jul 03 14:31:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:31:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:31:58 *	Disconnected ()
+Jul 03 14:31:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:31:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:32:08 *	Disconnected ()
+Jul 03 14:32:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:32:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:32:18 *	Disconnected ()
+Jul 03 14:32:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:32:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:32:28 *	Disconnected ()
+Jul 03 14:32:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:32:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:38 Cycling to next server in Irc-Nerds...
+Jul 03 14:32:38 *	Disconnected ()
+Jul 03 14:32:38 *	Looking up irc.irc-nerds.net
+Jul 03 14:32:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:48 Cycling to next server in Irc-Nerds...
+Jul 03 14:32:48 *	Disconnected ()
+Jul 03 14:32:48 *	Looking up irc.irc-nerds.net
+Jul 03 14:32:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:58 Cycling to next server in Irc-Nerds...
+Jul 03 14:32:58 *	Disconnected ()
+Jul 03 14:32:58 *	Looking up irc.irc-nerds.net
+Jul 03 14:32:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:08 Cycling to next server in Irc-Nerds...
+Jul 03 14:33:08 *	Disconnected ()
+Jul 03 14:33:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:33:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:18 Cycling to next server in Irc-Nerds...
+Jul 03 14:33:18 *	Disconnected ()
+Jul 03 14:33:18 *	Looking up irc.irc-nerds.net
+Jul 03 14:33:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:28 Cycling to next server in Irc-Nerds...
+Jul 03 14:33:28 *	Disconnected ()
+Jul 03 14:33:28 *	Looking up irc.irc-nerds.net
+Jul 03 14:33:29 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:39 Cycling to next server in Irc-Nerds...
+Jul 03 14:33:39 *	Disconnected ()
+Jul 03 14:33:39 *	Looking up irc.irc-nerds.net
+Jul 03 14:33:39 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:49 Cycling to next server in Irc-Nerds...
+Jul 03 14:33:49 *	Disconnected ()
+Jul 03 14:33:49 *	Looking up irc.irc-nerds.net
+Jul 03 14:33:49 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:59 Cycling to next server in Irc-Nerds...
+Jul 03 14:33:59 *	Disconnected ()
+Jul 03 14:33:59 *	Looking up irc.irc-nerds.net
+Jul 03 14:33:59 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:34:09 Cycling to next server in Irc-Nerds...
+Jul 03 14:34:09 *	Disconnected ()
+Jul 03 14:34:09 *	Looking up irc.irc-nerds.net
+Jul 03 14:34:09 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:34:19 Cycling to next server in Irc-Nerds...
+Jul 03 14:34:19 *	Disconnected ()
+Jul 03 14:34:19 *	Looking up irc.irc-nerds.net
+Jul 03 14:34:19 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:34:29 Cycling to next server in Irc-Nerds...
+Jul 03 14:34:29 *	Disconnected ()
+Jul 03 14:34:29 *	Looking up irc.irc-nerds.net
+Jul 03 14:34:29 *	Connecting to irc.irc-nerds.net (103.114.163.131:6697)
+Jul 03 14:34:30 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 14:34:30 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 14:34:30 *	* Subject: /C=US/O=Let's Encrypt/CN=R11
+Jul 03 14:34:30 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 14:34:30 *	* Subject: /CN=irc-nerds.net
+Jul 03 14:34:30 *	* Issuer: /C=US/O=Let's Encrypt/CN=R11
+Jul 03 14:34:30 *	* Certification info:
+Jul 03 14:34:30 *	  Subject:
+Jul 03 14:34:30 *	    CN=irc-nerds.net
+Jul 03 14:34:30 *	  Issuer:
+Jul 03 14:34:30 *	    C=US
+Jul 03 14:34:30 *	    O=Let's Encrypt
+Jul 03 14:34:30 *	    CN=R11
+Jul 03 14:34:30 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 03 14:34:30 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 14:34:30 *	  Valid since Jun 29 22:32:22 2025 GM to Sep 27 22:32:21 2025 GM
+Jul 03 14:34:30 *	* Cipher info:
+Jul 03 14:34:30 *	  Version: TLSv1.3, cipher TLS_CHACHA20_POLY1305_SHA256 (256 bits)
+Jul 03 14:34:30 *	Connected. Now logging in.
+Jul 03 14:34:30 *	*** Looking up your hostname...
+Jul 03 14:34:30 *	*** Found your hostname
+Jul 03 14:34:31 *	Capabilities supported: unrealircd.org/link-security=1 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny unrealircd.org/history-storage=memory extended-join chghost cap-notify userhost-in-names multi-prefix away-notify sasl=EXTERNAL,PLAIN tls account-notify message-tags batch server-time account-tag echo-message labeled-response draft/chathistory
+Jul 03 14:34:31 *	Capabilities requested: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 03 14:34:31 *	Capabilities acknowledged: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 03 14:34:31 *	Welcome to the IRC-nERDs IRC Network dug!dug___@syn-023-240-201-077.res.spectrum.com
+Jul 03 14:34:31 *	Your host is hosteons6.irc-nerds.net, running version UnrealIRCd-5.2.1.1
+Jul 03 14:34:31 *	This server was created Sun Aug 29 2021 at 03:59:05 EDT
+Jul 03 14:34:31 *	hosteons6.irc-nerds.net UnrealIRCd-5.2.1.1 iowrsxzdHtIPNcDZRqpWGTSB lvhopsmntikraqbeIjJuHzMQNRTOVKDdGLPZSCcf
+Jul 03 14:34:31 *	AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:50 CHANMODES=beI,kLf,ljJH,psmntiruzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/reply DEAF=d ELIST=MNUCT EXCEPTS :are supported by this server
+Jul 03 14:34:31 *	EXTBAN=~,IGptmTSOcarnqjf INVEX KICKLEN=307 KNOCK MAP MAXCHANNELS=50 MAXLIST=b:500,e:500,I:500 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 NAMESX NETWORK=IRC-nERDs :are supported by this server
+Jul 03 14:34:31 *	NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,TAGMSG:1,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=340 UHNAMES USERIP WALLCHOPS WATCH=128 :are supported by this server
+Jul 03 14:34:31 *	WATCHOPTS=A WHOX :are supported by this server
+Jul 03 14:34:31 *	nerd-9A4D825.res.spectrum.com :is now your displayed host
+Jul 03 14:34:31 *	*** You are connected to hosteons6.irc-nerds.net with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+Jul 03 14:34:31 *	There are 2 users and 1289 invisible on 64 servers
+Jul 03 14:34:31 *	42 :operator(s) online
+Jul 03 14:34:31 *	248 :channels formed
+Jul 03 14:34:31 *	I have 3 clients and 1 servers
+Jul 03 14:34:31 *	3 28 :Current local users 3, max 28
+Jul 03 14:34:31 *	1291 4562 :Current global users 1291, max 4562
+Jul 03 14:34:31 *	- hosteons6.irc-nerds.net Message of the Day - 
+Jul 03 14:34:31 *	- 23/5/2022 6:41
+Jul 03 14:34:31 *	-  ___ ____   ____            _____ ____  ____
+Jul 03 14:34:31 *	- |_ _|  _ \ / ___|     _ __ | ____|  _ \|  _ \ ___
+Jul 03 14:34:31 *	- |  || |_) | |   _____| '_ \|  _| | |_) | | | / __|
+Jul 03 14:34:31 *	- |  ||  _ <| |__|_____| | | | |___|  _ <| |_| \__ \
+Jul 03 14:34:31 *	- |___|_| \_\\____|    |_| |_|_____|_| \_\____/|___/.net
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [Network Information]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-             irc.irc-nerds.net /  irc6.irc-nerds.net
+Jul 03 14:34:31 *	-             Ports 6667 (plain text) / 6697 (SSL)
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                 [Official Network Channels]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                 #help (Strictly a help channel)
+Jul 03 14:34:31 *	-                 #nerds (Network Chat/Help)
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [Services Help]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- Want to register your nick?
+Jul 03 14:34:31 *	-         /msg nickserv help register
+Jul 03 14:34:31 *	- Want to register your channel?
+Jul 03 14:34:31 *	-         /msg chanserv help register
+Jul 03 14:34:31 *	- Want to change your vhost? (Must have a registered nick):
+Jul 03 14:34:31 *	-         /msg hostserv help request
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [Rules]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- ** If you get butthurt over words this isnt the place for you!
+Jul 03 14:34:31 *	- Golden Rule: Follow the law!
+Jul 03 14:34:31 *	- Rules: https://www.irc-nerds.net/rules.txt
+Jul 03 14:34:31 *	- --------------------------------------------------------------
+Jul 03 14:34:31 *	- Keep getting PMs and dont like them, someone annoying you? Try
+Jul 03 14:34:31 *	- usermode: +P (More on usermodes can be found on the wiki)
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-         ** 420 Friendly Network **
+Jul 03 14:34:31 *	- ** No opers are needed, please dont ask. **
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	- ** Feel free to bring noob friends, do your part
+Jul 03 14:34:31 *	-     to keep the IRC protocol alive. Webchat with quick
+Jul 03 14:34:31 *	-     connect available for noobs or your mobile device
+Jul 03 14:34:31 *	-         @ https://webchat.irc-nerds.net **
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [Network Channels]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- #nerds #help #linux #hardware #videogames #marijuana #news
+Jul 03 14:34:31 *	- #security #cinema #radio
+Jul 03 14:34:31 *	-  [x]    Check the wiki for more popular channels or use /list
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [IRC-nERDs!Radio]
+Jul 03 14:34:31 *	-                 IRC-nERDs Streaming Radio Station
+Jul 03 14:34:31 *	- --------------------------------------------------------------
+Jul 03 14:34:31 *	- Channel: #radio
+Jul 03 14:34:31 *	- URL: https://radio.irc-nerds.net
+Jul 03 14:34:31 *	- Streaming Media URL: https://radio.irc-nerds.net/radio.ogg
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [Hosting Providers]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	- XtremeProvider - Affordable Stable Hosting. Alot of Locations!
+Jul 03 14:34:31 *	-  [x]     [( http://xp.irc-nerds.net )]
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                 [More Hosting]
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	-  [x]  https://hosting.irc-nerds.net
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	-                     [Disclaimer]
+Jul 03 14:34:31 *	-     This Network is a transit service. We do not condone nor
+Jul 03 14:34:31 *	-     endorse content found on this server. This network may be
+Jul 03 14:34:31 *	-     open to all but it is still a private network, you may be
+Jul 03 14:34:31 *	-     removed at anytime, for any reason.
+Jul 03 14:34:31 *	- ==============================================================
+Jul 03 14:34:31 *	- 
+Jul 03 14:34:31 *	-  "A friend with weed, is a friend indeed."
+Jul 03 14:34:31 *	- ░░______________________________________░░
+Jul 03 14:34:31 *	- ░░___________________0__________________░░
+Jul 03 14:34:31 *	- ░░__________________00__________________░░
+Jul 03 14:34:31 *	- ░░_________________0000_________________░░
+Jul 03 14:34:31 *	- ░░_____0__________000000___________0____░░
+Jul 03 14:34:31 *	- ░░_____00_________000000___________0____░░
+Jul 03 14:34:31 *	- ░░______0000______000000__________00____░░
+Jul 03 14:34:31 *	- ░░______000000____0000000_____00000_____░░
+Jul 03 14:34:31 *	- ░░___0_____0000000_000000_00000000___0__░░
+Jul 03 14:34:31 *	- ░░__00______000000_00000_0000000____00__░░
+Jul 03 14:34:31 *	- ░░__0000_____000000_000_000000____0000__░░
+Jul 03 14:34:31 *	- ░░___000000000__0000_0_000_0_000000000__░░
+Jul 03 14:34:31 *	- ░░______000000000__0_0_0_00000000000____░░
+Jul 03 14:34:31 *	- ░░__________000000000000000000000_______░░
+Jul 03 14:34:31 *	- ░░________________000_0_0000____________░░
+Jul 03 14:34:31 *	- ░░______________00000_0__00000__________░░
+Jul 03 14:34:31 *	- ░░____________00_______0_______00_______░░
+Jul 03 14:34:31 *	- ░░_____________________0________________░░
+Jul 03 14:34:31 *	- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░FREE
+Jul 03 14:34:31 *	- ░░░░░░░░░.▄██░░░░░░░░░░░░░░░░░░░░░THE
+Jul 03 14:34:31 *	- ░░░░░░░░.▄███░░▄███▄░░░▄▄▄▄░░░░░░░WEED!
+Jul 03 14:34:31 *	- ░░░░░░░.██▀██░░██▀██░░██▀▀██░░░░░░
+Jul 03 14:34:31 *	- ░░░░░.▄██▄▄██▄░░▄██▀░░██░░██░░░░░░LEGALIZE
+Jul 03 14:34:31 *	- ░░░░░░░░░░.██░░███▄▄░░██▄▄██░░░░░░IT!
+Jul 03 14:34:31 *	- ░░░░░░░░░.▄██▄░░░░░░░░░▀▀▀▀░░░░░░░
+Jul 03 14:34:31 *	- ░░░░░░░░░░░░░░░░.░░░░░░░░░░░░░░░░░4/20!
+Jul 03 14:34:31 *	- ~~ local 420 friendly nerd bunker ~~
+Jul 03 14:34:31 *	End of /MOTD command.
+Jul 03 14:35:31 *	You are now known as Guest36128
+Jul 03 14:42:58 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:42:58 *	Disconnected ()
+Jul 03 14:43:08 *	Looking up irc.irc-nerds.net
+Jul 03 14:43:23 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:43:33 Cycling to next server in Irc-Nerds...
+Jul 03 14:43:33 *	Disconnected ()
+Jul 03 14:43:33 *	Looking up irc.irc-nerds.net
+Jul 03 14:43:39 *	Connecting to irc.irc-nerds.net (148.135.58.238:6697)
+Jul 03 14:43:40 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 14:43:40 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 14:43:40 *	* Subject: /C=US/O=Let's Encrypt/CN=R11
+Jul 03 14:43:40 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 03 14:43:40 *	* Subject: /CN=irc-nerds.net
+Jul 03 14:43:40 *	* Issuer: /C=US/O=Let's Encrypt/CN=R11
+Jul 03 14:43:40 *	* Certification info:
+Jul 03 14:43:40 *	  Subject:
+Jul 03 14:43:40 *	    CN=irc-nerds.net
+Jul 03 14:43:40 *	  Issuer:
+Jul 03 14:43:40 *	    C=US
+Jul 03 14:43:40 *	    O=Let's Encrypt
+Jul 03 14:43:40 *	    CN=R11
+Jul 03 14:43:40 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 03 14:43:40 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 14:43:40 *	  Valid since Jun 29 22:32:22 2025 GM to Sep 27 22:32:21 2025 GM
+Jul 03 14:43:40 *	* Cipher info:
+Jul 03 14:43:40 *	  Version: TLSv1.3, cipher TLS_CHACHA20_POLY1305_SHA256 (256 bits)
+Jul 03 14:43:40 *	Connected. Now logging in.
+Jul 03 14:43:40 *	*** Looking up your hostname...
+Jul 03 14:43:40 *	*** Found your hostname
+Jul 03 14:43:41 *	Capabilities supported: unrealircd.org/link-security=1 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny unrealircd.org/history-storage=memory extended-join chghost cap-notify userhost-in-names multi-prefix away-notify sasl=EXTERNAL,PLAIN tls account-notify message-tags batch server-time account-tag echo-message labeled-response draft/chathistory
+Jul 03 14:43:41 *	Capabilities requested: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 03 14:43:41 *	Capabilities acknowledged: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 03 14:43:41 *	Welcome to the IRC-nERDs IRC Network dug!dug___@syn-023-240-201-077.res.spectrum.com
+Jul 03 14:43:41 *	Your host is pinkyandthebrain.irc-nerds.net, running version UnrealIRCd-5.2.1.1
+Jul 03 14:43:41 *	This server was created Tue Mar 19 2024 at 01:21:54 EDT
+Jul 03 14:43:41 *	pinkyandthebrain.irc-nerds.net UnrealIRCd-5.2.1.1 iowrsxzdHtIPNcDZRqpWGTSB lvhopsmntikraqbeIjJuHzMQNRTOVKDdGLPZSCcf
+Jul 03 14:43:41 *	AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:50 CHANMODES=beI,kLf,ljJH,psmntiruzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/reply DEAF=d ELIST=MNUCT EXCEPTS :are supported by this server
+Jul 03 14:43:41 *	EXTBAN=~,IGptmTSOcarnqjf INVEX KICKLEN=307 KNOCK MAP MAXCHANNELS=50 MAXLIST=b:500,e:500,I:500 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 NAMESX NETWORK=IRC-nERDs :are supported by this server
+Jul 03 14:43:41 *	NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,TAGMSG:1,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=340 UHNAMES USERIP WALLCHOPS WATCH=128 :are supported by this server
+Jul 03 14:43:41 *	WATCHOPTS=A WHOX :are supported by this server
+Jul 03 14:43:41 *	nerd-9A4D825.res.spectrum.com :is now your displayed host
+Jul 03 14:43:41 *	*** You are connected to pinkyandthebrain.irc-nerds.net with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+Jul 03 14:43:41 *	There are 2 users and 1289 invisible on 64 servers
+Jul 03 14:43:41 *	42 :operator(s) online
+Jul 03 14:43:41 *	247 :channels formed
+Jul 03 14:43:41 *	I have 3 clients and 1 servers
+Jul 03 14:43:41 *	3 12 :Current local users 3, max 12
+Jul 03 14:43:41 *	1291 4562 :Current global users 1291, max 4562
+Jul 03 14:43:41 *	- pinkyandthebrain.irc-nerds.net Message of the Day - 
+Jul 03 14:43:41 *	- 23/5/2022 6:41
+Jul 03 14:43:41 *	-  ___ ____   ____            _____ ____  ____
+Jul 03 14:43:41 *	- |_ _|  _ \ / ___|     _ __ | ____|  _ \|  _ \ ___
+Jul 03 14:43:41 *	- |  || |_) | |   _____| '_ \|  _| | |_) | | | / __|
+Jul 03 14:43:41 *	- |  ||  _ <| |__|_____| | | | |___|  _ <| |_| \__ \
+Jul 03 14:43:41 *	- |___|_| \_\\____|    |_| |_|_____|_| \_\____/|___/.net
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [Network Information]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-             irc.irc-nerds.net /  irc6.irc-nerds.net
+Jul 03 14:43:41 *	-             Ports 6667 (plain text) / 6697 (SSL)
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                 [Official Network Channels]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                 #help (Strictly a help channel)
+Jul 03 14:43:41 *	-                 #nerds (Network Chat/Help)
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [Services Help]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- Want to register your nick?
+Jul 03 14:43:41 *	-         /msg nickserv help register
+Jul 03 14:43:41 *	- Want to register your channel?
+Jul 03 14:43:41 *	-         /msg chanserv help register
+Jul 03 14:43:41 *	- Want to change your vhost? (Must have a registered nick):
+Jul 03 14:43:41 *	-         /msg hostserv help request
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [Rules]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- ** If you get butthurt over words this isnt the place for you!
+Jul 03 14:43:41 *	- Golden Rule: Follow the law!
+Jul 03 14:43:41 *	- Rules: https://www.irc-nerds.net/rules.txt
+Jul 03 14:43:41 *	- --------------------------------------------------------------
+Jul 03 14:43:41 *	- Keep getting PMs and dont like them, someone annoying you? Try
+Jul 03 14:43:41 *	- usermode: +P (More on usermodes can be found on the wiki)
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-         ** 420 Friendly Network **
+Jul 03 14:43:41 *	- ** No opers are needed, please dont ask. **
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	- ** Feel free to bring noob friends, do your part
+Jul 03 14:43:41 *	-     to keep the IRC protocol alive. Webchat with quick
+Jul 03 14:43:41 *	-     connect available for noobs or your mobile device
+Jul 03 14:43:41 *	-         @ https://webchat.irc-nerds.net **
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [Network Channels]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- #nerds #help #linux #hardware #videogames #marijuana #news
+Jul 03 14:43:41 *	- #security #cinema #radio
+Jul 03 14:43:41 *	-  [x]    Check the wiki for more popular channels or use /list
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [IRC-nERDs!Radio]
+Jul 03 14:43:41 *	-                 IRC-nERDs Streaming Radio Station
+Jul 03 14:43:41 *	- --------------------------------------------------------------
+Jul 03 14:43:41 *	- Channel: #radio
+Jul 03 14:43:41 *	- URL: https://radio.irc-nerds.net
+Jul 03 14:43:41 *	- Streaming Media URL: https://radio.irc-nerds.net/radio.ogg
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [Hosting Providers]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	- XtremeProvider - Affordable Stable Hosting. Alot of Locations!
+Jul 03 14:43:41 *	-  [x]     [( http://xp.irc-nerds.net )]
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                 [More Hosting]
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	-  [x]  https://hosting.irc-nerds.net
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	-                     [Disclaimer]
+Jul 03 14:43:41 *	-     This Network is a transit service. We do not condone nor
+Jul 03 14:43:41 *	-     endorse content found on this server. This network may be
+Jul 03 14:43:41 *	-     open to all but it is still a private network, you may be
+Jul 03 14:43:41 *	-     removed at anytime, for any reason.
+Jul 03 14:43:41 *	- ==============================================================
+Jul 03 14:43:41 *	- 
+Jul 03 14:43:41 *	-  "A friend with weed, is a friend indeed."
+Jul 03 14:43:41 *	- ░░______________________________________░░
+Jul 03 14:43:41 *	- ░░___________________0__________________░░
+Jul 03 14:43:41 *	- ░░__________________00__________________░░
+Jul 03 14:43:41 *	- ░░_________________0000_________________░░
+Jul 03 14:43:41 *	- ░░_____0__________000000___________0____░░
+Jul 03 14:43:41 *	- ░░_____00_________000000___________0____░░
+Jul 03 14:43:41 *	- ░░______0000______000000__________00____░░
+Jul 03 14:43:41 *	- ░░______000000____0000000_____00000_____░░
+Jul 03 14:43:41 *	- ░░___0_____0000000_000000_00000000___0__░░
+Jul 03 14:43:41 *	- ░░__00______000000_00000_0000000____00__░░
+Jul 03 14:43:41 *	- ░░__0000_____000000_000_000000____0000__░░
+Jul 03 14:43:41 *	- ░░___000000000__0000_0_000_0_000000000__░░
+Jul 03 14:43:41 *	- ░░______000000000__0_0_0_00000000000____░░
+Jul 03 14:43:41 *	- ░░__________000000000000000000000_______░░
+Jul 03 14:43:41 *	- ░░________________000_0_0000____________░░
+Jul 03 14:43:41 *	- ░░______________00000_0__00000__________░░
+Jul 03 14:43:41 *	- ░░____________00_______0_______00_______░░
+Jul 03 14:43:41 *	- ░░_____________________0________________░░
+Jul 03 14:43:41 *	- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░FREE
+Jul 03 14:43:41 *	- ░░░░░░░░░.▄██░░░░░░░░░░░░░░░░░░░░░THE
+Jul 03 14:43:41 *	- ░░░░░░░░.▄███░░▄███▄░░░▄▄▄▄░░░░░░░WEED!
+Jul 03 14:43:41 *	- ░░░░░░░.██▀██░░██▀██░░██▀▀██░░░░░░
+Jul 03 14:43:41 *	- ░░░░░.▄██▄▄██▄░░▄██▀░░██░░██░░░░░░LEGALIZE
+Jul 03 14:43:41 *	- ░░░░░░░░░░.██░░███▄▄░░██▄▄██░░░░░░IT!
+Jul 03 14:43:41 *	- ░░░░░░░░░.▄██▄░░░░░░░░░▀▀▀▀░░░░░░░
+Jul 03 14:43:41 *	- ░░░░░░░░░░░░░░░░.░░░░░░░░░░░░░░░░░4/20!
+Jul 03 14:43:41 *	- ~~ local 420 friendly nerd bunker ~~
+Jul 03 14:43:41 *	End of /MOTD command.
+Jul 03 14:44:41 *	You are now known as Guest33538
+Jul 04 16:29:33 *	No ping reply for 155 seconds, disconnecting.
+Jul 04 16:29:33 *	Disconnected ()
+Jul 04 16:29:43 *	Looking up irc.irc-nerds.net
+Jul 04 16:29:44 *	Connecting to irc.irc-nerds.net (51.195.40.212:6697)
+Jul 04 16:29:45 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 04 16:29:45 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 04 16:29:45 *	* Subject: /C=US/O=Let's Encrypt/CN=R11
+Jul 04 16:29:45 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 04 16:29:45 *	* Subject: /CN=irc-nerds.net
+Jul 04 16:29:45 *	* Issuer: /C=US/O=Let's Encrypt/CN=R11
+Jul 04 16:29:45 *	* Certification info:
+Jul 04 16:29:45 *	  Subject:
+Jul 04 16:29:45 *	    CN=irc-nerds.net
+Jul 04 16:29:45 *	  Issuer:
+Jul 04 16:29:45 *	    C=US
+Jul 04 16:29:45 *	    O=Let's Encrypt
+Jul 04 16:29:45 *	    CN=R11
+Jul 04 16:29:45 *	  Public key algorithm: rsaEncryption (2048 bits)
+Jul 04 16:29:45 *	  Sign algorithm sha256WithRSAEncryption
+Jul 04 16:29:45 *	  Valid since Jun 29 22:32:22 2025 GM to Sep 27 22:32:21 2025 GM
+Jul 04 16:29:45 *	* Cipher info:
+Jul 04 16:29:45 *	  Version: TLSv1.3, cipher TLS_CHACHA20_POLY1305_SHA256 (256 bits)
+Jul 04 16:29:45 *	Connected. Now logging in.
+Jul 04 16:29:45 *	*** Looking up your hostname...
+Jul 04 16:29:45 *	*** Found your hostname
+Jul 04 16:29:45 *	Capabilities supported: unrealircd.org/link-security=1 unrealircd.org/plaintext-policy=user=allow,oper=deny,server=deny unrealircd.org/history-storage=memory extended-join chghost cap-notify userhost-in-names multi-prefix away-notify sasl=EXTERNAL,PLAIN tls account-notify message-tags batch server-time account-tag echo-message labeled-response draft/chathistory
+Jul 04 16:29:45 *	Capabilities requested: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 04 16:29:46 *	Capabilities acknowledged: extended-join chghost cap-notify userhost-in-names multi-prefix away-notify account-notify server-time account-tag 
+Jul 04 16:29:47 *	Welcome to the IRC-nERDs IRC Network dug_!dug___@syn-023-240-201-077.res.spectrum.com
+Jul 04 16:29:47 *	Your host is frankfurt.de.eu.irc-nerds.net, running version UnrealIRCd-5.2.1.1
+Jul 04 16:29:47 *	This server was created Sun Dec 5 2021 at 19:30:22 UTC
+Jul 04 16:29:47 *	frankfurt.de.eu.irc-nerds.net UnrealIRCd-5.2.1.1 iowrsxzdHtIPNcDZRqpWGTSB lvhopsmntikraqbeIjJuHzMQNRTOVKDdGLPZSCcf
+Jul 04 16:29:47 *	AWAYLEN=307 BOT=B CASEMAPPING=ascii CHANLIMIT=#:50 CHANMODES=beI,kLf,ljJH,psmntiruzMQNRTOVKDdGPZSCc CHANNELLEN=32 CHANTYPES=# CHATHISTORY=50 CLIENTTAGDENY=*,-draft/typing,-typing,-draft/reply DEAF=d ELIST=MNUCT EXCEPTS :are supported by this server
+Jul 04 16:29:47 *	EXTBAN=~,IGptmTSOcarnqjf INVEX KICKLEN=307 KNOCK MAP MAXCHANNELS=50 MAXLIST=b:500,e:500,I:500 MAXNICKLEN=30 MINNICKLEN=0 MODES=12 NAMESX NETWORK=IRC-nERDs :are supported by this server
+Jul 04 16:29:47 *	NICKLEN=30 PREFIX=(qaohv)~&@%+ QUITLEN=307 SAFELIST SILENCE=15 STATUSMSG=~&@%+ TARGMAX=DCCALLOW:,ISON:,JOIN:,KICK:4,KILL:,LIST:,NAMES:1,NOTICE:1,PART:,PRIVMSG:4,SAJOIN:,SAPART:,TAGMSG:1,USERHOST:,USERIP:,WATCH:,WHOIS:1,WHOWAS:1 TOPICLEN=340 UHNAMES USERIP WALLCHOPS WATCH=128 :are supported by this server
+Jul 04 16:29:47 *	WATCHOPTS=A WHOX :are supported by this server
+Jul 04 16:29:47 *	nerd-9A4D825.res.spectrum.com :is now your displayed host
+Jul 04 16:29:47 *	*** You are connected to frankfurt.de.eu.irc-nerds.net with TLSv1.3-TLS_CHACHA20_POLY1305_SHA256
+Jul 04 16:29:47 *	There are 2 users and 1287 invisible on 64 servers
+Jul 04 16:29:47 *	42 :operator(s) online
+Jul 04 16:29:47 *	248 :channels formed
+Jul 04 16:29:47 *	I have 4 clients and 1 servers
+Jul 04 16:29:47 *	4 28 :Current local users 4, max 28
+Jul 04 16:29:47 *	1289 4562 :Current global users 1289, max 4562
+Jul 04 16:29:47 *	- frankfurt.de.eu.irc-nerds.net Message of the Day - 
+Jul 04 16:29:47 *	- 23/5/2022 10:41
+Jul 04 16:29:47 *	-  ___ ____   ____            _____ ____  ____
+Jul 04 16:29:47 *	- |_ _|  _ \ / ___|     _ __ | ____|  _ \|  _ \ ___
+Jul 04 16:29:47 *	- |  || |_) | |   _____| '_ \|  _| | |_) | | | / __|
+Jul 04 16:29:47 *	- |  ||  _ <| |__|_____| | | | |___|  _ <| |_| \__ \
+Jul 04 16:29:47 *	- |___|_| \_\\____|    |_| |_|_____|_| \_\____/|___/.net
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [Network Information]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-             irc.irc-nerds.net /  irc6.irc-nerds.net
+Jul 04 16:29:47 *	-             Ports 6667 (plain text) / 6697 (SSL)
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                 [Official Network Channels]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                 #help (Strictly a help channel)
+Jul 04 16:29:47 *	-                 #nerds (Network Chat/Help)
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [Services Help]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- Want to register your nick?
+Jul 04 16:29:47 *	-         /msg nickserv help register
+Jul 04 16:29:47 *	- Want to register your channel?
+Jul 04 16:29:47 *	-         /msg chanserv help register
+Jul 04 16:29:47 *	- Want to change your vhost? (Must have a registered nick):
+Jul 04 16:29:47 *	-         /msg hostserv help request
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [Rules]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- ** If you get butthurt over words this isnt the place for you!
+Jul 04 16:29:47 *	- Golden Rule: Follow the law!
+Jul 04 16:29:47 *	- Rules: https://www.irc-nerds.net/rules.txt
+Jul 04 16:29:47 *	- --------------------------------------------------------------
+Jul 04 16:29:47 *	- Keep getting PMs and dont like them, someone annoying you? Try
+Jul 04 16:29:47 *	- usermode: +P (More on usermodes can be found on the wiki)
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-         ** 420 Friendly Network **
+Jul 04 16:29:47 *	- ** No opers are needed, please dont ask. **
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	- ** Feel free to bring noob friends, do your part
+Jul 04 16:29:47 *	-     to keep the IRC protocol alive. Webchat with quick
+Jul 04 16:29:47 *	-     connect available for noobs or your mobile device
+Jul 04 16:29:47 *	-         @ https://webchat.irc-nerds.net **
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [Network Channels]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- #nerds #help #linux #hardware #videogames #marijuana #news
+Jul 04 16:29:47 *	- #security #cinema #radio
+Jul 04 16:29:47 *	-  [x]    Check the wiki for more popular channels or use /list
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [IRC-nERDs!Radio]
+Jul 04 16:29:47 *	-                 IRC-nERDs Streaming Radio Station
+Jul 04 16:29:47 *	- --------------------------------------------------------------
+Jul 04 16:29:47 *	- Channel: #radio
+Jul 04 16:29:47 *	- URL: https://radio.irc-nerds.net
+Jul 04 16:29:47 *	- Streaming Media URL: https://radio.irc-nerds.net/radio.ogg
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [Hosting Providers]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	- XtremeProvider - Affordable Stable Hosting. Alot of Locations!
+Jul 04 16:29:47 *	-  [x]     [( http://xp.irc-nerds.net )]
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                 [More Hosting]
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	-  [x]  https://hosting.irc-nerds.net
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	-                     [Disclaimer]
+Jul 04 16:29:47 *	-     This Network is a transit service. We do not condone nor
+Jul 04 16:29:47 *	-     endorse content found on this server. This network may be
+Jul 04 16:29:47 *	-     open to all but it is still a private network, you may be
+Jul 04 16:29:47 *	-     removed at anytime, for any reason.
+Jul 04 16:29:47 *	- ==============================================================
+Jul 04 16:29:47 *	- 
+Jul 04 16:29:47 *	-  "A friend with weed, is a friend indeed."
+Jul 04 16:29:47 *	- ░░______________________________________░░
+Jul 04 16:29:47 *	- ░░___________________0__________________░░
+Jul 04 16:29:47 *	- ░░__________________00__________________░░
+Jul 04 16:29:47 *	- ░░_________________0000_________________░░
+Jul 04 16:29:47 *	- ░░_____0__________000000___________0____░░
+Jul 04 16:29:47 *	- ░░_____00_________000000___________0____░░
+Jul 04 16:29:47 *	- ░░______0000______000000__________00____░░
+Jul 04 16:29:47 *	- ░░______000000____0000000_____00000_____░░
+Jul 04 16:29:47 *	- ░░___0_____0000000_000000_00000000___0__░░
+Jul 04 16:29:47 *	- ░░__00______000000_00000_0000000____00__░░
+Jul 04 16:29:47 *	- ░░__0000_____000000_000_000000____0000__░░
+Jul 04 16:29:47 *	- ░░___000000000__0000_0_000_0_000000000__░░
+Jul 04 16:29:47 *	- ░░______000000000__0_0_0_00000000000____░░
+Jul 04 16:29:47 *	- ░░__________000000000000000000000_______░░
+Jul 04 16:29:47 *	- ░░________________000_0_0000____________░░
+Jul 04 16:29:47 *	- ░░______________00000_0__00000__________░░
+Jul 04 16:29:47 *	- ░░____________00_______0_______00_______░░
+Jul 04 16:29:47 *	- ░░_____________________0________________░░
+Jul 04 16:29:47 *	- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░FREE
+Jul 04 16:29:47 *	- ░░░░░░░░░.▄██░░░░░░░░░░░░░░░░░░░░░THE
+Jul 04 16:29:47 *	- ░░░░░░░░.▄███░░▄███▄░░░▄▄▄▄░░░░░░░WEED!
+Jul 04 16:29:47 *	- ░░░░░░░.██▀██░░██▀██░░██▀▀██░░░░░░
+Jul 04 16:29:47 *	- ░░░░░.▄██▄▄██▄░░▄██▀░░██░░██░░░░░░LEGALIZE
+Jul 04 16:29:47 *	- ░░░░░░░░░░.██░░███▄▄░░██▄▄██░░░░░░IT!
+Jul 04 16:29:47 *	- ░░░░░░░░░.▄██▄░░░░░░░░░▀▀▀▀░░░░░░░
+Jul 04 16:29:47 *	- ░░░░░░░░░░░░░░░░.░░░░░░░░░░░░░░░░░4/20!
+Jul 04 16:29:47 *	- ~~ local 420 friendly nerd bunker ~~
+Jul 04 16:29:47 *	End of /MOTD command.

@@ -1,0 +1,387 @@
+T 1751576069 19*	Now talking on 22#nya
+T 1751577958 20*	Disconnected (20)
+T 1751578457 19*	Now talking on 22#nya
+T 1751578558 20*	Disconnected (20)
+T 1751578601 19*	Now talking on 22#nya
+T 1751578708 20*	Disconnected (20)
+T 1751578725 19*	Now talking on 22#nya
+T 1751578978 20*	Disconnected (20)
+T 1751579030 19*	Now talking on 22#nya
+T 1751579128 24*	dug__ has quit (Ping timeout: 120 seconds)
+T 1751581248 18<nya18>	3CorgiDude listened to "Pray to God (feat. HAIM)" by Calvin Harris: http://youtu.be/8FOBxcluXdk
+T 1751581249 18<nya18>	3CorgiDude now listening to "Pray to God (feat. HAIM)" by Calvin Harris: http://youtu.be/8FOBxcluXdk
+T 1751581482 18<nya18>	3CorgiDude now listening to "Saturnz Barz (feat. Popcaan)" by Gorillaz: http://youtu.be/5qJp6xlKEug
+T 1751581663 18<nya18>	3CorgiDude now listening to "Mezzanine" by Massive Attack: http://youtu.be/ORxdyjvfItk
+T 1751581790 18<nya18>	3alyxw now listening to "Kiss Kiss Goodbye" by ADONXS: http://youtu.be/Hm8CIICKAJU
+T 1751581880 18<nya18>	3alyxw now listening to "Lighter - Acoustic Version" by Kyle Alessandro: http://youtu.be/tPUD4k-jfb8
+T 1751582022 18<nya18>	3CorgiDude now listening to "Bullet With Butterfly Wings (Remastered 2012)" by The Smashing Pumpkins: http://youtu.be/8-r-V0uK4u0
+T 1751582078 18<nya18>	3alyxw now listening to "Wasted Love" by jj: http://youtu.be/-ieSTNpxvio
+T 1751582274 18<nya18>	3CorgiDude now listening to "Come Out and Play (Keep 'Em Separated)" by The Offspring: http://youtu.be/1jOk8dk-qaU
+T 1751582473 18<nya18>	3CorgiDude now listening to "Бережи" by Lely45: http://youtu.be/5anp7-vHd2w
+T 1751582478 18<nya18>	3theta4 now listening to "Hungry Like the Wolf - 2009 Remaster" by Duran Duran: http://youtu.be/M6wVJOrxsfo
+T 1751582653 18<nya18>	3CorgiDude now listening to "Ghosts 'n' Stuff (Feat. Rob Swire) [Extended Mix]" by deadmau5: http://youtu.be/isfQfpT31z4
+T 1751582995 18<nya18>	3CorgiDude now listening to "Say It Ain't So" by Weezer: http://youtu.be/OoPHItnUFkw
+T 1751583246 18<nya18>	3CorgiDude now listening to "Can't Stop the Feeling!" by Justin Timberlake: http://youtu.be/ru0K8uYEZWw
+T 1751583931 18<nya18>	3CorgiDude now listening to "Can't Stop the Feeling!" by Justin Timberlake: http://youtu.be/ru0K8uYEZWw
+T 1751584021 18<nya18>	3CorgiDude now listening to "Desire" by Meg Myers: http://youtu.be/bR5u9jb0PJE
+T 1751584309 18<nya18>	3CorgiDude now listening to "Happier Than Ever" by Billie Eilish: http://youtu.be/UVQREpxmN_U
+T 1751584472 18<nya18>	3alyxw listened to "Milkshake Man" by Go-Jo: http://youtu.be/_08I6mjHSLA
+T 1751584473 18<nya18>	3alyxw now listening to "Lighter" by Kyle Alessandro: http://youtu.be/pUjWzQ671MQ
+T 1751584525 18<nya18>	3CorgiDude now listening to "Happier Than Ever" by Billie Eilish: http://youtu.be/UVQREpxmN_U
+T 1751584526 18<nya18>	3alyxw now listening to "Wasted Love" by jj: http://youtu.be/-ieSTNpxvio
+T 1751584688 18<nya18>	3alyxw now listening to "Espresso Macchiato" by Tommy Cash: http://youtu.be/5MS_Fczs_98
+T 1751584795 18<nya18>	3CorgiDude now listening to "Remind Me" by Röyksopp: http://youtu.be/yklKIPb38PE
+T 1751584869 18<nya18>	3alyxw now listening to "ICH KOMME" by Erika Vikman: http://youtu.be/Kg3QoTpnqyw
+T 1751584975 18<nya18>	3CorgiDude now listening to "Remind Me" by Röyksopp: http://youtu.be/yklKIPb38PE
+T 1751585047 18<nya18>	3CorgiDude now listening to "All 4 Nothing (I'm So In Love)" by Lauv: http://youtu.be/AH8b7EynJ60
+T 1751585049 18<nya18>	3alyxw now listening to "Esa Diva" by Melody: http://youtu.be/2J9xYVcP4MA
+T 1751585067 18<nya18>	3alyxw now listening to "La poupée monte le son" by Laura Thorn: http://youtu.be/LVHu_KwHiKY
+T 1751585197 18<nya18>	3alyxw now listening to "Maman" by Louane: http://youtu.be/rxuuG3WmXVE
+T 1751585228 18<nya18>	3CorgiDude now listening to "Freedom At Midnight" by David Benoit: http://youtu.be/-RXakApNPmg
+T 1751585355 18<nya18>	3alyxw now listening to "Run With U" by Mamagama: http://youtu.be/upbiPJ9uA70
+T 1751585391 18<nya18>	3alyxw now listening to "Bara Bada Bastu" by Kaj: http://youtu.be/WK3HOMhAeQY
+T 1751585479 18<nya18>	3CorgiDude now listening to "Moth To A Flame" by Swedish House Mafia & The Weeknd: http://youtu.be/u9n7Cw-4_HQ
+T 1751585552 18<nya18>	3alyxw now listening to "How Much Time Do We Have Left" by Klemen: http://youtu.be/GT1YhfRpq3Q
+T 1751585588 18<nya18>	3alyxw now listening to "edamame" by bbno$: http://youtu.be/K6BRna4_bmg
+T 1751585712 18<nya18>	3CorgiDude now listening to "Beggin'" by Måneskin: http://youtu.be/W2MpGCL8-9o
+T 1751585715 18<nya18>	3alyxw now listening to "Funkbot 10,000" by Jazz Emu: http://youtu.be/WjJ4ZplV-kw
+T 1751585875 18<nya18>	3CorgiDude listened to "Beggin'" by Måneskin: http://youtu.be/W2MpGCL8-9o
+T 1751585929 18<nya18>	3CorgiDude now listening to "Memory" by Kane Brown x blackbear: http://youtu.be/fPziOGGqEpw
+T 1751585931 18<nya18>	3alyxw now listening to "engravings" by Ethan Bortnick: http://youtu.be/7xWVhAOd-6U
+T 1751585949 18<nya18>	3alyxw now listening to "TANGO" by Tommy Cash: http://youtu.be/rkT_gSJS9UU
+T 1751586056 18<nya18>	3alyxw now listening to "i see london i see france" by bbno$: http://youtu.be/LXyV5hKqA98
+T 1751586074 18<nya18>	3alyxw now listening to "Zuccenberg" by Tommy Cash: http://youtu.be/AgAjaG7zcsM
+T 1751586091 18<nya18>	3CorgiDude now listening to "Breathe Again" by Toni Braxton: http://youtu.be/pRFEz2MjZgg
+T 1751586273 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs: http://youtu.be/Ih7YEC8A53w
+T 1751586360 18<nya18>	3CorgiDude now listening to "Overnight Celebrity (Feat. Miri Ben-Ari)" by Twista: http://youtu.be/I177W0XJlT4
+T 1751586721 18<nya18>	3CorgiDude listened to "Long Train Runnin' (2016 Remastered)" by The Doobie Brothers: http://youtu.be/m4tJSn0QtME
+T 1751586722 18<nya18>	3CorgiDude now listening to "Long Train Runnin' (2016 Remastered)" by The Doobie Brothers: http://youtu.be/m4tJSn0QtME
+T 1751586865 18<nya18>	3CorgiDude now listening to "Long Train Runnin' (2016 Remastered)" by The Doobie Brothers: http://youtu.be/m4tJSn0QtME
+T 1751587009 18<nya18>	3CorgiDude now listening to "greedy" by Tate McRae: http://youtu.be/To4SWGZkEPk
+T 1751587135 18<nya18>	3CorgiDude now listening to "Semi-Charmed Life" by Third Eye Blind: http://youtu.be/beINamVRGy4
+T 1751587405 18<nya18>	3CorgiDude now listening to "Спробуй купи мене" by Lely45: http://youtu.be/KNPP3ZU4YeU
+T 1751587479 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs: http://youtu.be/Ih7YEC8A53w
+T 1751587533 18<nya18>	3alyxw now listening to "Zuccenberg" by Tommy Cash: http://youtu.be/AgAjaG7zcsM
+T 1751587603 18<nya18>	3CorgiDude now listening to "New Rules" by Dua Lipa: http://youtu.be/k2qgadSvNyU
+T 1751587713 18<nya18>	3alyxw now listening to "Big Tom Cat" by Charles Blackwell: http://youtu.be/BmuXyTkItQo
+T 1751587765 18<nya18>	3CorgiDude listened to "New Rules" by Dua Lipa: http://youtu.be/k2qgadSvNyU
+T 1751587767 18<nya18>	3alyxw now listening to "I WANNA BE YOUR SLAVE" by Måneskin: http://youtu.be/yOb9Xaug35M
+T 1751587819 18<nya18>	3CorgiDude now listening to "Stand Inside Your Love" by The Smashing Pumpkins: http://youtu.be/2nm4xv3firw
+T 1751588071 18<nya18>	3CorgiDude now listening to "Все Красиво" by Antytila: http://youtu.be/xg_yQ-uKEb0
+T 1751588171 18<nya18>	3MoiraPrime listened to "Trial Mountain" by Makoto feat. Mitekiss feat. Karina Ramage
+T 1751588172 18<nya18>	3MoiraPrime now listening to "Heartbeat (Calyx & TeeBee Remix)" by Wilkinson feat. Arlissa & P Money
+T 1751588207 18<nya18>	3MoiraPrime now listening to "Vagrant" by Feint; Veela
+T 1751588225 18<nya18>	3MoiraPrime now listening to "Cold Green Eyes" by Station Earth; Roos Denayer
+T 1751588243 18<nya18>	3MoiraPrime now listening to "Won't Let Go" by Andromedik; Voicians
+T 1751588261 18<nya18>	3MoiraPrime now listening to "Colours" by Maduk; Diamond Eyes
+T 1751588287 18<nya18>	3CorgiDude now listening to "I Don’t Wanna Live Forever (Fifty Shades Darker)" by ZAYN & Taylor Swift
+T 1751588315 18<nya18>	3MoiraPrime now listening to "For Good" by Smooth
+T 1751588333 18<nya18>	3MoiraPrime now listening to "Blue Spark VIP" by Flite
+T 1751588369 18<nya18>	3MoiraPrime now listening to "Follow the Light" by Sub Focus
+T 1751588387 18<nya18>	3MoiraPrime now listening to "Route 66" by Oakwite
+T 1751588485 18<nya18>	3CorgiDude listened to "I Don’t Wanna Live Forever (Fifty Shades Darker)" by ZAYN & Taylor Swift
+T 1751588538 18<nya18>	3CorgiDude now listening to "Don’t Blame Me" by Taylor Swift
+T 1751588772 18<nya18>	3CorgiDude now listening to "Queen" by Human Resources
+T 1751588988 18<nya18>	3CorgiDude now listening to "Another Sad Love Song" by Toni Braxton
+T 1751589294 18<nya18>	3CorgiDude now listening to "Romeo's Tune" by Steve Forbert
+T 1751589386 18<nya18>	3alyxw now listening to "I WANNA BE YOUR SLAVE" by Måneskin
+T 1751589510 18<nya18>	3CorgiDude now listening to "Wranglers" by Miranda Lambert
+T 1751589513 18<nya18>	3alyxw now listening to "SERVING KANT" by Miriana Conte
+T 1751589675 18<nya18>	3alyxw now listening to "miss u" by Bad Smith
+T 1751589691 18<nya18>	3CorgiDude now listening to "Bad and Boujee (feat. Lil Uzi Vert)" by Migos
+T 1751589890 18<nya18>	3alyxw listened to "miss u" by Bad Smith
+T 1751589891 18<nya18>	3alyxw now listening to "Thanks for Coming (I Like You Dead)" by Hopes Die Last
+T 1751590033 18<nya18>	3CorgiDude now listening to "This Time" by E.G. Daily
+T 1751590303 18<nya18>	3CorgiDude now listening to "rockstar (feat. 21 Savage)" by Post Malone
+T 1751590519 18<nya18>	3CorgiDude now listening to "Chun-Li" by Nicki Minaj
+T 1751590698 18<nya18>	3CorgiDude now listening to "Roadrunner" by Migos
+T 1751590853 18<nya18>	3MoiraPrime listened to "Route 66" by Oakwite
+T 1751590854 18<nya18>	3MoiraPrime now listening to "Mr Happy" by DJ Hazard & Distorted Minds
+T 1751590969 18<nya18>	3CorgiDude now listening to "Чи разом?" by Kola
+T 1751591131 18<nya18>	3CorgiDude now listening to "Sara Smile" by Hall & Oates
+T 1751591213 18<nya18>	3MoiraPrime now listening to "Shaman" by DC Breaks
+T 1751591257 18<nya18>	3CorgiDude listened to "Sara Smile" by Daryl Hall & John Oates
+T 1751591295 18<nya18>	3alyxw now listening to "Thanks for Coming (I Like You Dead)" by Hopes Die Last
+T 1751591311 18<nya18>	3CorgiDude now listening to "Mary Jane's Last Dance" by Tom Petty and The Heartbreakers
+T 1751591385 18<nya18>	3alyxw now listening to "EASY" by LE SSERAFIM
+T 1751591491 18<nya18>	3CorgiDude listened to "Mary Jane's Last Dance" by Tom Petty & The Heartbreakers
+T 1751591519 18<nya18>	3MoiraPrime now listening to "Space Chimes" by Syran
+T 1751591546 18<nya18>	3alyxw now listening to "Mia Khalifa" by iLOVEFRiDAY
+T 1751591563 18<nya18>	3CorgiDude now listening to "Mary Jane's Last Dance" by Tom Petty and The Heartbreakers
+T 1751591726 18<nya18>	3alyxw now listening to "how will i rest in peace if i'm buried by a highway?//" by KennyHoopla
+T 1751591825 18<nya18>	3MoiraPrime now listening to "Tricks" by vorso
+T 1751591907 18<nya18>	3alyxw now listening to "Holy Diver" by Killswitch Engage
+T 1751592059 18<nya18>	3MoiraPrime now listening to "Facets" by vorso
+T 1751592203 18<nya18>	3MoiraPrime now listening to "For A Better Day" by Avicii
+T 1751592321 18<nya18>	3alyxw listened to "Wasted Love" by jj
+T 1751592322 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs
+T 1751592401 18<nya18>	3MoiraPrime now listening to "For A Better Day" by Avicii
+T 1751592419 18<nya18>	3MoiraPrime now listening to "Kingdom Of Fear" by Concord Dawn
+T 1751592483 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs
+T 1751592609 18<nya18>	3alyxw now listening to "6FINGERDEATHPUNCH" by six impala
+T 1751592629 18<nya18>	3alyxw now listening to "stupid horse" by 100 gecs
+T 1751592645 18<nya18>	3alyxw now listening to "Lonely Machines (feat. 100 gecs)" by 3OH!3
+T 1751592761 18<nya18>	3MoiraPrime now listening to "Kingdom Of Fear" by Concord Dawn
+T 1751592779 18<nya18>	3MoiraPrime now listening to "Ghost" by Delta Heavy
+T 1751592789 18<nya18>	3alyxw now listening to "It's Crazy It's Party (feat. Tommy Cash)" by Käärijä
+T 1751593023 18<nya18>	3alyxw listened to "It's Crazy It's Party (feat. Tommy Cash)" by Käärijä
+T 1751593024 18<nya18>	3alyxw now listening to "FARAWAY199X/TAPE 2" by six impala
+T 1751593031 18<nya18>	3MoiraPrime now listening to "Say Your Words" by Concord Dawn; Hollie Smith
+T 1751593311 18<nya18>	3alyxw now listening to "Lonely Machines (feat. 100 gecs)" by 3OH!3
+T 1751593463 18<nya18>	3MoiraPrime now listening to "Say Your Words" by Concord Dawn; Hollie Smith
+T 1751593481 18<nya18>	3MoiraPrime now listening to "Raining Blood" by Concord Dawn
+T 1751593851 18<nya18>	3alyxw now listening to "6FINGERDEATHPUNCH" by six impala
+T 1751593859 18<nya18>	3MoiraPrime now listening to "Homebound" by Feint
+T 1751593887 18<nya18>	3alyxw now listening to "glittr" by aldn
+T 1751593905 18<nya18>	3alyxw now listening to "Hollywood Baby" by 100 gecs
+T 1751593923 18<nya18>	3alyxw now listening to "When I Rule the World" by LIZ
+T 1751593995 18<nya18>	3alyxw now listening to "Haunted" by laura les
+T 1751594013 18<nya18>	3alyxw now listening to "money machine" by 100 gecs
+T 1751594031 18<nya18>	3alyxw now listening to "NEVER MET! - 100 gecs r3mix (feat. Glitch Gum)" by Cmten
+T 1751594103 18<nya18>	3alyxw now listening to "Beat Rock" by Tommy Cash
+T 1751594111 18<nya18>	3MoiraPrime now listening to "Just a Step Away" by Danny Byrd feat. Ownglow
+T 1751594193 18<nya18>	3alyxw now listening to "F4R4W4Y199X/74P3 2" by six impala
+T 1751594211 18<nya18>	3alyxw now listening to "hand crushed by a mallet" by 100 gecs
+T 1751594337 18<nya18>	3alyxw now listening to "Your favorite sidekick" by underscores
+T 1751594399 18<nya18>	3MoiraPrime now listening to "Alive" by Mind Vortex
+T 1751594615 18<nya18>	3MoiraPrime now listening to "Mind Control" by JAMEZY
+T 1751594867 18<nya18>	3MoiraPrime now listening to "Kiss Kiss Bang Bang" by High Contrast
+T 1751595119 18<nya18>	3MoiraPrime now listening to "No Strings Attached" by Netsky
+T 1751595273 18<nya18>	3alyxw now listening to "Black Rum" by CAKE POP
+T 1751595291 18<nya18>	3alyxw now listening to "mos thoser" by Food House
+T 1751595425 18<nya18>	3MoiraPrime now listening to "Move Feat. J Dubs" by Concord Dawn
+T 1751595453 18<nya18>	3alyxw now listening to "ringtone" by 100 gecs
+T 1751595507 18<nya18>	3alyxw now listening to "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]" by 100 gecs
+T 1751595543 18<nya18>	3alyxw now listening to "Softpretty" by Doss
+T 1751595561 18<nya18>	3alyxw now listening to "RUDE BOY" by Fallen Shrine
+T 1751595687 18<nya18>	3alyxw now listening to "Kismet" by WHOKILLEDXIX
+T 1751595723 18<nya18>	3alyxw now listening to "LEGEND" by Alice Longyu Gao
+T 1751595731 18<nya18>	3MoiraPrime now listening to "Aces High" by Concord Dawn
+T 1751595759 18<nya18>	3alyxw now listening to "LEGEND" by Alice Longyu Gao
+T 1751595831 18<nya18>	3alyxw now listening to "LEGEND - Gassed Up Remix" by Alice Longyu Gao
+T 1751595957 18<nya18>	3alyxw now listening to "Vanished" by Crystal Castles
+T 1751596073 18<nya18>	3MoiraPrime now listening to "Oxygen" by The Prototypes feat. Kudu Blue
+T 1751596145 18<nya18>	3MoiraPrime now listening to "Old Skool (Nitro Fun Remix)" by Televisor
+T 1751596379 18<nya18>	3MoiraPrime now listening to "Disconnected" by Pegboard Nerds
+T 1751598387 18<nya18>	3alyxw now listening to "Vanished" by Crystal Castles
+T 1751598495 18<nya18>	3alyxw now listening to "DARE (feat. Shaun Ryder & Roses Gabor)" by Gorillaz
+T 1751598513 18<nya18>	3alyxw now listening to "Судно (Борис Рижий)" by Molchat Doma
+T 1751598567 18<nya18>	3alyxw now listening to "Crimewave" by Crystal Castles
+T 1751598585 18<nya18>	3alyxw now listening to "Dark Beach" by PASTEL GHOST
+T 1751598603 18<nya18>	3alyxw now listening to "Paper Planes" by M.I.A.
+T 1751598621 18<nya18>	3alyxw now listening to "Clouds" by PASTEL GHOST
+T 1751598657 18<nya18>	3alyxw now listening to "Untrust Us" by Crystal Castles
+T 1751600007 18<nya18>	3alyxw now listening to "Untrust Us" by Crystal Castles
+T 1751600079 18<nya18>	3alyxw now listening to "did i tell u that i miss u" by Adore
+T 1751600097 18<nya18>	3alyxw now listening to "Closer" by Nine Inch Nails
+T 1751601269 18<nya18>	3theta4 now listening to "Telephone" by レディー・ガガ
+T 1751601503 18<nya18>	3theta4 now listening to "Perfect Celebrity" by レディー・ガガ
+T 1751601719 18<nya18>	3theta4 now listening to "Dark Beach" by PASTEL GHOST
+T 1751601953 18<nya18>	3theta4 now listening to "Pink Maggit" by デフトーンズ
+T 1751602403 18<nya18>	3theta4 listened to "Abracadabra - Gesaffelstein Remix" by Lady Gaga
+T 1751602404 18<nya18>	3theta4 now listening to "Change (In the House of Flies)" by デフトーンズ
+T 1751602709 18<nya18>	3theta4 listened to "Change (In the House of Flies)" by デフトーンズ
+T 1751602710 18<nya18>	3theta4 listened to "Hungry Like the Wolf - 2009 Remaster" by Duran Duran
+T 1751602711 18<nya18>	3theta4 now listening to "Never Meant" by American Football
+T 1751602961 18<nya18>	3theta4 now listening to "Entombed" by デフトーンズ
+T 1751603267 18<nya18>	3theta4 now listening to "Your face" by Wisp
+T 1751603501 18<nya18>	3theta4 now listening to "Youngest Daughter" by Superheaven
+T 1751603750 18<nya18>	3CorgiDude listened to "U Drive Me Crazy (Radio Edit) [Bonus Track]" by *NSYNC
+T 1751603751 18<nya18>	3CorgiDude now listening to "U Drive Me Crazy (Radio Edit) [Bonus Track]" by *NSYNC
+T 1751603753 18<nya18>	3theta4 now listening to "ObZen" by メシュガー
+T 1751604005 18<nya18>	3theta4 now listening to "My Generation" by リンプ・ビズキット
+T 1751604239 18<nya18>	3theta4 now listening to "My Way" by リンプ・ビズキット
+T 1751604509 18<nya18>	3theta4 now listening to "Take a Look Around" by リンプ・ビズキット
+T 1751604833 18<nya18>	3theta4 now listening to "Forbidden Feelingz" by Nia Archives
+T 1751604995 18<nya18>	3theta4 now listening to "THE MILLENNIUM BUG" by Adolf Nomura
+T 1751605121 18<nya18>	3theta4 now listening to "Resonance" by DV-i
+T 1751605301 18<nya18>	3theta4 now listening to "CRABTRAP" by Adolf Nomura
+T 1751605391 18<nya18>	3theta4 now listening to "Perpetual" by DV-i
+T 1751605644 18<nya18>	3theta4 now listening to "Creep" by TLC
+T 1751605661 18<nya18>	3theta4 listened to "Perpetual" by DV-i
+T 1751605913 18<nya18>	3theta4 now listening to "The Look" by Roxette
+T 1751606165 18<nya18>	3theta4 now listening to "Open Your Heart" by Madonna
+T 1751606417 18<nya18>	3theta4 listened to "Open Your Heart" by マドンナ
+T 1751606418 18<nya18>	3theta4 now listening to "Where's Your Head At" by ベースメント・ジャックス
+T 1751606577 18<nya18>	3alyxw listened to "Closer" by Nine Inch Nails
+T 1751606578 18<nya18>	3alyxw now listening to "GIVE ME YOUR MONEY (feat. TOMMY CASH)" by Little Big
+T 1751606685 18<nya18>	3alyxw now listening to "It's Crazy It's Party (feat. Tommy Cash)" by Käärijä
+T 1751606705 18<nya18>	3theta4 now listening to "Unforgettable" by フレンチ・モンタナ
+T 1751606883 18<nya18>	3alyxw now listening to "Espresso Macchiato - Remix" by Tommy Cash
+T 1751606939 18<nya18>	3theta4 now listening to "Move Along" by オール・アメリカン・リジェクツ
+T 1751607009 18<nya18>	3alyxw now listening to "Turn It Up (feat. Tommy Cash)" by Oliver Tree
+T 1751607045 18<nya18>	3alyxw now listening to "TANGO" by Tommy Cash
+T 1751607154 18<nya18>	3alyxw now listening to "Benz-Dealer" by Tommy Cash
+T 1751607173 18<nya18>	3theta4 now listening to "All The Small Things" by GFOTY
+T 1751607264 18<nya18>	3theta4 now listening to "キミに100パーセント" by きゃりーぱみゅぱみゅ
+T 1751607333 18<nya18>	3alyxw now listening to "UNTZ UNTZ" by Tommy Cash
+T 1751607405 18<nya18>	3alyxw now listening to "Lighter" by Kyle Alessandro
+T 1751607461 18<nya18>	3theta4 now listening to "Heart 111" by ゆーり
+T 1751607531 18<nya18>	3alyxw now listening to "Tattoo" by Loreen
+T 1751607550 18<nya18>	3alyxw now listening to "Lady Marmalade - Single Edit" by Christina Aguilera
+T 1751607569 18<nya18>	3theta4 now listening to "だいじょばない" by Perfume
+T 1751607749 18<nya18>	3theta4 now listening to "hontono" by 原口沙輔
+T 1751607820 18<nya18>	3alyxw now listening to "Ultimate - From "Freaky Friday"/Soundtrack Version" by Lindsay Lohan
+T 1751607875 18<nya18>	3theta4 now listening to "Medicine" by 原口沙輔
+T 1751607891 18<nya18>	3alyxw now listening to "Say It Right" by Nelly Furtado
+T 1751608001 18<nya18>	3theta4 now listening to "Police Scanner" by Chanel Beads
+T 1751608107 18<nya18>	3alyxw now listening to "Survivor" by Destiny's Child
+T 1751608143 18<nya18>	3alyxw now listening to "All the Things She Said" by t.A.T.u.
+T 1751608145 18<nya18>	3theta4 now listening to "エレクトロ・ワールド" by Perfume
+T 1751608161 18<nya18>	3alyxw now listening to "Hot in Herre" by Nelly
+T 1751608199 18<nya18>	3theta4 now listening to "Telephone" by レディー・ガガ
+T 1751608379 18<nya18>	3alyxw now listening to "www.nevergetoveryou" by Prozzäk
+T 1751608395 18<nya18>	3alyxw now listening to "3 Small Words" by Josie and the Pussycats
+T 1751608415 18<nya18>	3theta4 now listening to "Perfect Celebrity" by レディー・ガガ
+T 1751608576 18<nya18>	3alyxw now listening to "What Dreams Are Made Of" by Hilary Duff
+T 1751608649 18<nya18>	3theta4 now listening to "Dark Beach" by PASTEL GHOST
+T 1751608810 18<nya18>	3alyxw now listening to "Wannabe" by Spice Girls
+T 1751608865 18<nya18>	3theta4 now listening to "Pink Maggit" by デフトーンズ
+T 1751608990 18<nya18>	3alyxw now listening to "Beep" by The Pussycat Dolls
+T 1751609223 18<nya18>	3alyxw now listening to "No Scrubs" by TLC
+T 1751609316 18<nya18>	3theta4 now listening to "Change (In the House of Flies)" by デフトーンズ
+T 1751609368 18<nya18>	3alyxw now listening to "Stars Are Blind" by Paris Hilton
+T 1751609385 18<nya18>	3alyxw now listening to "Rich Girl" by Gwen Stefani
+T 1751609404 18<nya18>	3alyxw now listening to "Crazy in Love (feat. JAY-Z)" by Beyoncé
+T 1751609622 18<nya18>	3theta4 now listening to "Never Meant" by American Football
+T 1751609638 18<nya18>	3alyxw now listening to "Oops!...I Did It Again" by Britney Spears
+T 1751609854 18<nya18>	3alyxw now listening to "Juliet - Single Edit" by LMNT
+T 1751609872 18<nya18>	3alyxw now listening to "Pon de Replay" by Rihanna
+T 1751610141 18<nya18>	3alyxw now listening to "Since U Been Gone" by Kelly Clarkson
+T 1751615810 18<nya18>	3CorgiDude listened to "U Drive Me Crazy (Radio Edit) [Bonus Track]" by *NSYNC: http://youtu.be/cjhO4RwqzzY
+T 1751615811 18<nya18>	3CorgiDude now listening to "U Drive Me Crazy (Radio Edit) [Bonus Track]" by *NSYNC: http://youtu.be/cjhO4RwqzzY
+T 1751616044 18<nya18>	3CorgiDude now listening to "U Drive Me Crazy (Radio Edit) [Bonus Track]" by *NSYNC: http://youtu.be/cjhO4RwqzzY
+T 1751616260 18<nya18>	3CorgiDude now listening to "U Drive Me Crazy (Radio Edit) [Bonus Track]" by *NSYNC: http://youtu.be/cjhO4RwqzzY
+T 1751616476 18<nya18>	3CorgiDude now listening to "Bye Bye Bye" by *NSYNC: http://youtu.be/Eo-KmOd3i7s
+T 1751616674 18<nya18>	3CorgiDude now listening to "It's Gonna Be Me" by *NSYNC: http://youtu.be/GQMlWwIXg3M
+T 1751616872 18<nya18>	3CorgiDude now listening to "Space Cowboy (Yippie-Yi-Yay) [Feat. Lisa "Left Eye" Lopes]" by *NSYNC: http://youtu.be/aS-cymQhbzk
+T 1751617142 18<nya18>	3CorgiDude now listening to "Just Got Paid" by *NSYNC: http://youtu.be/hkoOzYI0ur4
+T 1751617376 18<nya18>	3CorgiDude now listening to "It Makes Me Ill" by *NSYNC: http://youtu.be/WKC2Ch5zadM
+T 1751617592 18<nya18>	3CorgiDude now listening to "This I Promise You" by *NSYNC: http://youtu.be/6thmPrTxBtI
+T 1751617952 18<nya18>	3CorgiDude now listening to "No Strings Attached" by *NSYNC: http://youtu.be/BUrJJLVghPo
+T 1751618312 18<nya18>	3CorgiDude now listening to "No Strings Attached" by *NSYNC: http://youtu.be/BUrJJLVghPo
+T 1751618510 18<nya18>	3CorgiDude now listening to "Digital Get Down" by *NSYNC: http://youtu.be/batroDK82r0
+T 1751618780 18<nya18>	3CorgiDude now listening to "Bringin' Da Noise" by *NSYNC: http://youtu.be/mJQQQJMHSHo
+T 1751618978 18<nya18>	3CorgiDude now listening to "That's When I'll Stop Loving You" by *NSYNC: http://youtu.be/C_fetox9yBQ
+T 1751619284 18<nya18>	3CorgiDude now listening to "I'll Be Good for You" by *NSYNC: http://youtu.be/jzcOzsehIwk
+T 1751619518 18<nya18>	3CorgiDude now listening to "I Thought She Knew" by *NSYNC: http://youtu.be/-nHps07pFe8
+T 1751620005 18<nya18>	3CorgiDude listened to "I Can't Wait" by Nu Shooz: http://youtu.be/UJ1tBVtYOBc
+T 1751620006 18<nya18>	3CorgiDude now listening to "I Can't Wait" by Nu Shooz: http://youtu.be/UJ1tBVtYOBc
+T 1751620364 18<nya18>	3CorgiDude now listening to "DSTM" by ONE OR EIGHT: http://youtu.be/0RlwcgFJKxo
+T 1751620562 18<nya18>	3CorgiDude now listening to "Ice Box" by Omarion: http://youtu.be/jQybgJCswF0
+T 1751620941 18<nya18>	3CorgiDude now listening to "Night Changes" by One Direction: http://youtu.be/syFZfO_wfMQ
+T 1751621283 18<nya18>	3CorgiDude listened to "Jackie Blue" by The Ozark Mountain Daredevils: http://youtu.be/X69qEi51v9M
+T 1751621284 18<nya18>	3CorgiDude now listening to "Jackie Blue" by The Ozark Mountain Daredevils: http://youtu.be/X69qEi51v9M
+T 1751622309 18<nya18>	3CorgiDude listened to "Mirrors" by Justin Timberlake: http://youtu.be/uuZE_IRwLNI
+T 1751622309 18<nya18>	3CorgiDude now listening to "Mirrors" by Justin Timberlake: http://youtu.be/uuZE_IRwLNI
+T 1751623263 18<nya18>	3CorgiDude now listening to "Beds Are Burning" by Midnight Oil: http://youtu.be/ejorQVy3m8E
+T 1751623425 18<nya18>	3CorgiDude now listening to "Beds Are Burning" by Midnight Oil: http://youtu.be/ejorQVy3m8E
+T 1751623623 18<nya18>	3CorgiDude now listening to "Shame" by Evelyn "Champagne" King: http://youtu.be/I3vFw6mkBIg
+T 1751623803 18<nya18>	3CorgiDude now listening to "Shame" by Evelyn "Champagne" King: http://youtu.be/I3vFw6mkBIg
+T 1751624019 18<nya18>	3CorgiDude now listening to "The Edge of Heaven" by Wham!: http://youtu.be/cCqEyJc-wdk
+T 1751624685 18<nya18>	3CorgiDude listened to "It's Tricky" by RUN-DMC: http://youtu.be/l-O5IHVhWj0
+T 1751624686 18<nya18>	3CorgiDude now listening to "It's Tricky" by Run-D.M.C.: http://youtu.be/l-O5IHVhWj0
+T 1751628853 18<nya18>	3MoiraPrime now listening to "Kill the Silence" by The Prototypes, Ayah Marar: http://youtu.be/2YLtT_evCNg
+T 1751629034 18<nya18>	3MoiraPrime listened to "Harpoon" by Knife Party & Pegboard Nerds: http://youtu.be/lATdwvE4lLU
+T 1751629213 18<nya18>	3MoiraPrime now listening to "The Late Heavy Bombardment" by Royalston: http://youtu.be/_dePdAuwdt4
+T 1751629339 18<nya18>	3MoiraPrime now listening to "The Late Heavy Bombardment" by Royalston: http://youtu.be/_dePdAuwdt4
+T 1751629519 18<nya18>	3MoiraPrime now listening to "Replicant" by Delta Heavy × KUURO: http://youtu.be/doOo0OqZ068
+T 1751629592 18<nya18>	3MoiraPrime now listening to "Replicant" by Delta Heavy × KUURO: http://youtu.be/doOo0OqZ068
+T 1751629663 18<nya18>	3MoiraPrime now listening to "Witchcraft" by Pendulum: http://youtu.be/ogMNV33AhCY
+T 1751629789 18<nya18>	3MoiraPrime now listening to "Witchcraft" by Pendulum: http://youtu.be/ogMNV33AhCY
+T 1751629916 18<nya18>	3MoiraPrime now listening to "Ghost" by Delta Heavy: http://youtu.be/b4taIpALfAo
+T 1751629951 18<nya18>	3MoiraPrime now listening to "Witchcraft" by Pendulum: http://youtu.be/ogMNV33AhCY
+T 1751629988 18<nya18>	3MoiraPrime now listening to "Ghost" by Delta Heavy: http://youtu.be/b4taIpALfAo
+T 1751630005 18<nya18>	3MoiraPrime now listening to "Bread & Butter" by Nymfo: http://youtu.be/fsIcfrjpm2k
+T 1751630203 18<nya18>	3MoiraPrime listened to "Face To Face Again (Seba remix)" by Kirsty Hawkshaw: http://youtu.be/s5cp9COWALY
+T 1751630366 18<nya18>	3MoiraPrime now listening to "Yesterday’s Colours" by High Contrast: http://youtu.be/ZvwvmwDFzmw
+T 1751646009 18<nya18>	3MoiraPrime now listening to "Dark Matter" by Future Prophecies: http://youtu.be/TAvqdDAbJ7k
+T 1751646242 18<nya18>	3MoiraPrime now listening to "Dark Matter" by Future Prophecies: http://youtu.be/TAvqdDAbJ7k
+T 1751648024 18<nya18>	3MoiraPrime now listening to "Tonite" by Concord Dawn: http://youtu.be/cw9TOZETvqk
+T 1751648205 18<nya18>	3MoiraPrime now listening to "Tonite" by Concord Dawn: http://youtu.be/cw9TOZETvqk
+T 1751648384 18<nya18>	3MoiraPrime now listening to "Centrifuge" by Enei: http://youtu.be/W8oMN7KWxYo
+T 1751648582 18<nya18>	3MoiraPrime now listening to "Centrifuge" by Enei: http://youtu.be/W8oMN7KWxYo
+T 1751648708 18<nya18>	3MoiraPrime now listening to "Colour Me In" by Technimatic, Zara Kershaw: http://youtu.be/yefE1epNH1g
+T 1751648853 18<nya18>	3MoiraPrime now listening to "Colour Me In" by Technimatic, Zara Kershaw: http://youtu.be/yefE1epNH1g
+T 1751651376 18<nya18>	3therealelizacat now listening to "A Portrait Of" by Sorority Noise: http://youtu.be/YQaCoZL04LE
+T 1751656478 18<nya18>	3theta4 now listening to "TECO-TECH BGM" by TecoMalu
+T 1751656498 18<nya18>	3theta4 listened to "Never Meant" by American Football: http://youtu.be/p-SWkpGKdP8
+T 1751659933 18<nya18>	3alyxw listened to "Since U Been Gone" by Kelly Clarkson: http://youtu.be/E5Lt9MHuUNc
+T 1751659934 18<nya18>	3alyxw now listening to "It's Crazy It's Party (feat. Tommy Cash)" by Käärijä: http://youtu.be/NtOlguB6lg0
+T 1751660113 18<nya18>	3alyxw now listening to "It's Crazy It's Party (feat. Tommy Cash)" by Käärijä: http://youtu.be/NtOlguB6lg0
+T 1751660293 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs: http://youtu.be/Ih7YEC8A53w
+T 1751660528 18<nya18>	3alyxw now listening to "Lighter" by Kyle Alessandro: http://youtu.be/pUjWzQ671MQ
+T 1751661193 18<nya18>	3alyxw now listening to "Lighter" by Kyle Alessandro: http://youtu.be/pUjWzQ671MQ
+T 1751661247 18<nya18>	3alyxw now listening to "TANGO" by Tommy Cash: http://youtu.be/rkT_gSJS9UU
+T 1751661355 18<nya18>	3alyxw now listening to "ICH KOMME" by Erika Vikman: http://youtu.be/Kg3QoTpnqyw
+T 1751661535 18<nya18>	3alyxw now listening to "Bara Bada Bastu" by Kaj: http://youtu.be/WK3HOMhAeQY
+T 1751661679 18<nya18>	3alyxw now listening to "Espresso Macchiato" by Tommy Cash: http://youtu.be/5MS_Fczs_98
+T 1751661841 18<nya18>	3alyxw now listening to "Milkshake Man" by Go-Jo: http://youtu.be/_08I6mjHSLA
+T 1751663947 18<nya18>	3alyxw now listening to "Milkshake Man" by Go-Jo: http://youtu.be/_08I6mjHSLA
+T 1751664037 18<nya18>	3alyxw now listening to "SERVING KANT" by Miriana Conte: http://youtu.be/sLVSwfRRvMA
+T 1751664217 18<nya18>	3alyxw now listening to "Kiss Kiss Goodbye" by ADONXS: http://youtu.be/Hm8CIICKAJU
+T 1751664397 18<nya18>	3alyxw now listening to "Poison Cake" by Marko Bošnjak: http://youtu.be/ie_v6qGCc5w
+T 1751664577 18<nya18>	3alyxw now listening to "I'm So Hot" by Chrissy Chlapecka: http://youtu.be/D33gl734LIo
+T 1751664740 18<nya18>	3alyxw now listening to "Good Time (1:08)" by Jagwar Twin: http://youtu.be/Jn_8pvZOFOA
+T 1751664901 18<nya18>	3alyxw now listening to "Airhead" by Honey Revenge: http://youtu.be/TtmNU2ToVIY
+T 1751671773 20*	Disconnected (20)
+T 1751671789 19*	Now talking on 22#nya
+T 1751671876 18<nya18>	3MoiraPrime now listening to "Triple" by Black Sun Empire And State Of Mind: http://youtu.be/VnS36-6AXwM
+T 1751671975 18<nya18>	3alyxw listened to "Airhead" by Honey Revenge: http://youtu.be/TtmNU2ToVIY
+T 1751671993 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs: http://youtu.be/Ih7YEC8A53w
+T 1751672083 18<nya18>	3alyxw now listening to "cheap liquor" by ericdoa: http://youtu.be/vFfGd2gaMIw
+T 1751672137 18<nya18>	3alyxw now listening to "Why So Serious?" by Hans Zimmer: http://youtu.be/KjShkVqz2a4
+T 1751672200 18<nya18>	3MoiraPrime now listening to "The Impact" by V O E: http://youtu.be/8A5yKNNd0bc
+T 1751672353 18<nya18>	3alyxw now listening to "Why So Serious?" by Hans Zimmer: http://youtu.be/KjShkVqz2a4
+T 1751672416 18<nya18>	3MoiraPrime now listening to "Ten Thousand Feet & Rising" by The Prototypes: http://youtu.be/5LuZ8spNyLc
+T 1751672516 18<nya18>	3alyxw now listening to "It's a Long Way to the Top (If You Wanna Rock 'N' Roll)" by AC/DC: http://youtu.be/GChhRrU6BJU
+T 1751672632 18<nya18>	3MoiraPrime now listening to "Ten Thousand Feet & Rising" by The Prototypes: http://youtu.be/5LuZ8spNyLc
+T 1751672650 18<nya18>	3MoiraPrime now listening to "Funk Academy" by DJ Fresh: http://youtu.be/RlK9dalm5JQ
+T 1751672822 18<nya18>	3alyxw now listening to "Brass Monkey" by Beastie Boys: http://youtu.be/acY2VSskD80
+T 1751672974 18<nya18>	3MoiraPrime now listening to "Collide (Astronaut & Barely Alive Remix)" by Hellberg & Deutgen Vs. Splitbreed: http://youtu.be/qQtgaxq92Dg
+T 1751672992 18<nya18>	3MoiraPrime now listening to "Feel This Good" by Polygon: http://youtu.be/NrWD9zZKNE4
+T 1751673037 18<nya18>	3alyxw now listening to "Weird Fishes" by Noordpool Orchestra: http://youtu.be/IvQZ6u7VXQY
+T 1751673055 18<nya18>	3alyxw now listening to "Habanera" by Filippa Giordano: http://youtu.be/lBc0YTVw2eA
+T 1751673091 18<nya18>	3alyxw now listening to "Boom, Boom, Boom, Boom!!" by Vengaboys: http://youtu.be/llyiQ4I-mcQ
+T 1751673289 18<nya18>	3alyxw now listening to "Wasting Away" by Tonight Alive: http://youtu.be/jhdaCt2DhE0
+T 1751673298 18<nya18>	3MoiraPrime now listening to "Embrace Your Enemy" by Mako: http://youtu.be/-MWuuYueT3M
+T 1751673325 18<nya18>	3alyxw now listening to "Little Peasant" by Angelus: http://youtu.be/534ZfSG0DHk
+T 1751673379 18<nya18>	3alyxw now listening to "RUDE BOY" by Fallen Shrine: http://youtu.be/XZ_GXbU320c
+T 1751673488 18<nya18>	3alyxw now listening to "Funkbot 10,000" by Jazz Emu: http://youtu.be/WjJ4ZplV-kw
+T 1751673604 18<nya18>	3MoiraPrime now listening to "Toulouse (2020 Edit)" by Nicky Romero: http://youtu.be/VphlzQmOJvs
+T 1751673784 18<nya18>	3MoiraPrime now listening to "Beautiful Lies" by B-Complex: http://youtu.be/tzqw_Dqa0SU
+T 1751674198 18<nya18>	3MoiraPrime now listening to "Because You Are You" by gyrofield
+T 1751674522 18<nya18>	3MoiraPrime now listening to "Because You Are You" by gyrofield
+T 1751674540 18<nya18>	3MoiraPrime now listening to "Ray Of Sun" by Sub Focus & Wilkinson & PAWWS
+T 1751674864 18<nya18>	3MoiraPrime now listening to "Harder, Better, Faster, Stronger" by Daft Punk
+T 1751675080 18<nya18>	3MoiraPrime now listening to "Harder, Better, Faster, Stronger" by Daft Punk
+T 1751675098 18<nya18>	3MoiraPrime now listening to "Timebomb Zone" by The Prodigy
+T 1751675296 18<nya18>	3MoiraPrime now listening to "Rock Da House" by S.P.Y
+T 1751675485 18<nya18>	3alyxw now listening to "Funkbot 10,000" by Jazz Emu
+T 1751675584 18<nya18>	3MoiraPrime now listening to "Choices" by Nero
+T 1751676016 18<nya18>	3MoiraPrime now listening to "The Sound We Made (feat. Victoria)" by Royalston
+T 1751676259 18<nya18>	3alyxw listened to "Funkbot 10,000" by Jazz Emu
+T 1751676260 18<nya18>	3alyxw now listening to "Party In The CIA (Parody of "Party In The U.S.A." by Miley Cyrus)" by "Weird Al" Yankovic
+T 1751676268 18<nya18>	3MoiraPrime now listening to "The Sound We Made (feat. Victoria)" by Royalston
+T 1751676286 18<nya18>	3MoiraPrime now listening to "Moving On (feat. EMEL)" by Stonebank
+T 1751676439 18<nya18>	3alyxw now listening to "Istanbul (Not Constantinople)" by They Might Be Giants
+T 1751676457 18<nya18>	3alyxw now listening to "Party in the U.S.A." by Miley Cyrus
+T 1751676610 18<nya18>	3MoiraPrime now listening to "Racing Green" by High Contrast
+T 1751676673 18<nya18>	3alyxw listened to "Party in the U.S.A." by Miley Cyrus
+T 1751676674 18<nya18>	3alyxw now listening to "Born This Way" by Lady Gaga
+T 1751676691 18<nya18>	3alyxw now listening to "Hey Ya!" by OutKast
+T 1751676925 18<nya18>	3alyxw now listening to "Perm" by Bruno Mars
+T 1751677123 18<nya18>	3alyxw now listening to "Titanium (feat. Sia)" by David Guetta
+T 1751677375 18<nya18>	3alyxw now listening to "Locked Out of Heaven" by Bruno Mars
+T 1751677609 18<nya18>	3alyxw now listening to "Glad You Came" by The Wanted
+T 1751677807 18<nya18>	3alyxw now listening to "One More Night" by Maroon 5
+T 1751678149 18<nya18>	3alyxw now listening to "One More Night" by Maroon 5
+T 1751678204 18<nya18>	3alyxw now listening to "Telephone (feat. Beyoncé)" by Lady Gaga
+T 1751678275 18<nya18>	3alyxw now listening to "Telephone (feat. Beyoncé)" by Lady Gaga
+T 1751678366 18<nya18>	3alyxw listened to "Telephone" by Lady Gaga
+T 1751678366 18<nya18>	3alyxw now listening to "Milkshake - Radio Mix" by Kelis
+T 1751678852 18<nya18>	3alyxw listened to "Milkshake - Radio Mix" by Kelis
+T 1751678853 18<nya18>	3alyxw now listening to "California Gurls (feat. Snoop Dogg)" by Katy Perry
+T 1751678869 18<nya18>	3alyxw now listening to "It's Crazy It's Party (feat. Tommy Cash)" by Käärijä
+T 1751679014 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs
+T 1751679104 18<nya18>	3alyxw now listening to "xXXi_wud_nvrstøp_ÜXXx (Remix) [feat. Tommy Cash & Hannah Diamond]" by 100 gecs

@@ -1,0 +1,76 @@
+T 1751576726 19*	Now talking on 22#russia
+T 1751576726 22*	Topic for 22#russia is: Мать Россия владеет тобой | Президент Путин ваш бог | #Trump
+T 1751576726 22*	Topic for 22#russia set by 26dexa!dexa@smokes.loud.pack.weed (24Wed Jun 18 22:25:25 2025)
+T 1751577958 20*	Disconnected (20)
+T 1751578471 22*	26dug sets mode 24+i on 22dug
+T 1751578471 22*	26dug sets mode 24+w on 22dug
+T 1751578471 22*	26dug sets mode 24+x on 22dug
+T 1751578471 22*	26dug sets mode 24+z on 22dug
+T 1751578471 -18NickServ-	This nickname is registered and protected.  If it is your
+T 1751578471 -18NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+T 1751578471 -18NickServ-	please choose a different nick.
+T 1751578471 -18NickServ-	If you do not change within 1 minute, I will change your nick.
+T 1751578471 -18Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+T 1751578471 -18Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+T 1751578471 -18Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+T 1751578472 19*	Now talking on 22#russia
+T 1751578472 22*	Topic for 22#russia is: Мать Россия владеет тобой | Президент Путин ваш бог | #Trump
+T 1751578472 22*	Topic for 22#russia set by 26dexa!dexa@smokes.loud.pack.weed (24Wed Jun 18 22:25:25 2025)
+T 1751578531 -18NickServ-	Your nickname is now being changed to Guest36128
+T 1751578531 20*	You are now known as 18Guest36128
+T 1751578978 20*	Disconnected (20)
+T 1751579021 22*	26dug sets mode 24+i on 22dug
+T 1751579021 22*	26dug sets mode 24+w on 22dug
+T 1751579021 22*	26dug sets mode 24+x on 22dug
+T 1751579021 22*	26dug sets mode 24+z on 22dug
+T 1751579021 -18NickServ-	This nickname is registered and protected.  If it is your
+T 1751579021 -18NickServ-	nick, type /msg NickServ IDENTIFY password.  Otherwise,
+T 1751579021 -18NickServ-	please choose a different nick.
+T 1751579021 -18NickServ-	If you do not change within 1 minute, I will change your nick.
+T 1751579021 -18Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+T 1751579021 -18Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+T 1751579021 -18Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+T 1751579022 19*	Now talking on 22#russia
+T 1751579022 22*	Topic for 22#russia is: Мать Россия владеет тобой | Президент Путин ваш бог | #Trump
+T 1751579022 22*	Topic for 22#russia set by 26dexa!dexa@smokes.loud.pack.weed (24Wed Jun 18 22:25:25 2025)
+T 1751579068 24*	Guest36128 has quit (Ping timeout: 180 seconds)
+T 1751579081 -18NickServ-	Your nickname is now being changed to Guest33538
+T 1751579081 20*	You are now known as 18Guest33538
+T 1751590801 24*	oreoz/efnet has quit ()
+T 1751590802 24*	cash/efnet has quit ()
+T 1751590802 24*	lemon/efnet has quit ()
+T 1751590802 24*	radio/efnet has quit ()
+T 1751590802 24*	blunted/efnet has quit ()
+T 1751590802 24*	MTA/efnet has quit ()
+T 1751590802 24*	cookies/efnet has quit ()
+T 1751590866 22*	26juped/efnet removes ban on 18*!*vae@*.ca.eu.org
+T 1751590867 22*	26Sm0ke/efnet sets ban on 18*!*vae@*.ca.eu.org
+T 1751591524 23*	MTA/efnet (~MTA@nycrats.net23) has joined
+T 1751591530 23*	cash/efnet (~cash@dirtycash.org23) has joined
+T 1751591531 22*	26murda/efnet gives channel operator status to 18MTA/efnet
+T 1751591531 23*	blunted/efnet (~blunted@marijuanasmoke.net23) has joined
+T 1751591531 23*	radio/efnet (~radio@prank-call.net23) has joined
+T 1751591531 23*	cookies/efnet (~cookies@coookies.net23) has joined
+T 1751591531 23*	lemon/efnet (~lemon@lemonkush.org23) has joined
+T 1751591531 23*	oreoz/efnet (~oreoz@oreoz.net23) has joined
+T 1751591536 22*	26lord/efnet gives channel operator status to 18cash/efnet blunted/efnet lemon/efnet radio/efnet
+T 1751591536 22*	26Sm0ke/efnet gives channel operator status to 18cookies/efnet
+T 1751591536 22*	26mailblade/efnet gives channel operator status to 18oreoz/efnet
+T 1751596031 24*	28Guest55500 is now known as 18NightShade
+T 1751596038 22*	26ChanServ gives channel operator status to 18NightShade
+T 1751649615 22*	26dexa gives voice to 18Putin
+T 1751671108 23*	awfumu (dsuiro@50FE6592.B04137AA.A387EFA6.IP23) has joined
+T 1751671123 24*	awfumu has quit (Banned (Z-Lined): Spam)
+T 1751671773 20*	Disconnected (20)
+T 1751671785 23*	28Guest33538 is already in use. Retrying with 18dug_...
+T 1751671787 22*	26dug_ sets mode 24+i on 22dug_
+T 1751671787 22*	26dug_ sets mode 24+w on 22dug_
+T 1751671787 22*	26dug_ sets mode 24+x on 22dug_
+T 1751671787 22*	26dug_ sets mode 24+z on 22dug_
+T 1751671788 -18Global-	[Logon News - Aug 22 00:45:34 2021 UTC] [WebChat] https://webchat.irc-nerds.net [Main] https://www.irc-nerds.net [Wiki] https://www.irc-nerds.wiki [Server Admin] sorcerer
+T 1751671788 -18Global-	[Logon News - Apr 03 06:04:17 2022 UTC] Network Channels: [Main Support/Chat] #nerds [Other Network Channels] #chat / #GameOfThrones / #garuda / #hardware / #help / #idlerpg / #kde / #linux / #marijuana / #nimdow / #Pirates (become a pirate!) / #security / #tcl / #trivia (Trivia Game) / #UnixPorn (Desktop customization and screenshots) / #videogames / #vps
+T 1751671788 -18Global-	[Logon News - Apr 03 06:09:36 2022 UTC] Music fan? Check out #Radio for IRC-nERDs internet radio station. Included is a interactive DJ bot. (Main #Radio Page: https://radio.irc-nerds.net) (Streaming URL: https://radio.irc-nerds.net/radio.ogg) Enjoy!
+T 1751671789 19*	Now talking on 22#russia
+T 1751671789 22*	Topic for 22#russia is: Мать Россия владеет тобой | Президент Путин ваш бог | #Trump
+T 1751671789 22*	Topic for 22#russia set by 26dexa!dexa@smokes.loud.pack.weed (24Wed Jun 18 22:25:25 2025)
+T 1751675604 23*	bdmg_ (myJebba@87AB3DA6.ED0736E8.64AAA0A5.IP23) has joined

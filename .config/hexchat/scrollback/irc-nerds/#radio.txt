@@ -1,0 +1,424 @@
+T 1751576536 19*	Now talking on 22#radio
+T 1751576536 22*	Topic for 22#radio is: [IRC-nERDs Internet Radio] [Streaming URL for your players: http://radio.irc-nerds.net/radio.ogg To get started please visit - http://radio.irc-nerds.net/ | http://radio.nerds.i2p | http://k65ist5xa7bejgxjwn3wcehespk5plxoxrursvrbbs5mw7y4qz6lnmad.onion --- ?list for commands --- ?help <command> for more info
+T 1751576536 22*	Topic for 22#radio set by 26daddy (24Sun Feb 26 07:09:41 2023)
+T 1751576536 -18ChanServ-	[#radio] Welcome to IRC-nERDs Radio. Use ?list to get a list of commands for the bot. [ Website: https://radio.irc-nerds.net ] [ Streaming URL: http://radio.irc-nerds.net/radio.ogg ]
+T 1751576659 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: dnbmuseum - London Elektricity - Different Drum
+T 1751577101 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Pedro Bromn - Rodrigo Amarante - Tuyo (Narcos Theme Song) [Lyrics video]
+T 1751577282 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Deftones - Passenger
+T 1751577653 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Trivium - Until The World Goes Cold
+T 1751577958 20*	Disconnected (20)
+T 1751578472 19*	Now talking on 22#radio
+T 1751578472 22*	Topic for 22#radio is: [IRC-nERDs Internet Radio] [Streaming URL for your players: http://radio.irc-nerds.net/radio.ogg To get started please visit - http://radio.irc-nerds.net/ | http://radio.nerds.i2p | http://k65ist5xa7bejgxjwn3wcehespk5plxoxrursvrbbs5mw7y4qz6lnmad.onion --- ?list for commands --- ?help <command> for more info
+T 1751578472 22*	Topic for 22#radio set by 26daddy (24Sun Feb 26 07:09:41 2023)
+T 1751578472 -18ChanServ-	[#radio] Welcome to IRC-nERDs Radio. Use ?list to get a list of commands for the bot. [ Website: https://radio.irc-nerds.net ] [ Streaming URL: http://radio.irc-nerds.net/radio.ogg ]
+T 1751578528 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Music-Man - Time Machine - a million and one things to do (instrumental)
+T 1751578531 20*	You are now known as 18Guest36128
+T 1751578669 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: TuneFRK - Clint Mansell - Pi r²
+T 1751578849 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tame Impala - Tame Impala - Elephant (Official Video)
+T 1751578978 20*	Disconnected (20)
+T 1751579022 19*	Now talking on 22#radio
+T 1751579022 22*	Topic for 22#radio is: [IRC-nERDs Internet Radio] [Streaming URL for your players: http://radio.irc-nerds.net/radio.ogg To get started please visit - http://radio.irc-nerds.net/ | http://radio.nerds.i2p | http://k65ist5xa7bejgxjwn3wcehespk5plxoxrursvrbbs5mw7y4qz6lnmad.onion --- ?list for commands --- ?help <command> for more info
+T 1751579022 22*	Topic for 22#radio set by 26daddy (24Sun Feb 26 07:09:41 2023)
+T 1751579022 -18ChanServ-	[#radio] Welcome to IRC-nERDs Radio. Use ?list to get a list of commands for the bot. [ Website: https://radio.irc-nerds.net ] [ Streaming URL: http://radio.irc-nerds.net/radio.ogg ]
+T 1751579060 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Future - Inside The Mattress
+T 1751579068 24*	Guest36128 has quit (Ping timeout: 180 seconds)
+T 1751579081 20*	You are now known as 18Guest33538
+T 1751579281 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: UB40 - Red Red Wine
+T 1751579622 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Randy Travis, Zac Brown Band - Forever and Ever, Amen (feat. Zac Brown Band)
+T 1751579843 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Alan Jackson, Jimmy Buffett - It's Five O'Clock Somewhere
+T 1751580074 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Keith Sweat, Jacci McGhee - Make It Last Forever
+T 1751580375 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kid Cudi - Marijuana
+T 1751580626 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Papa Roach - Papa Roach - HELP (Official Video)
+T 1751580887 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Xavier Rudd - G.B.A
+T 1751581168 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Black Angels - Young Men Dead
+T 1751581499 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Noisia - Block Control VIP
+T 1751581921 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Keane - Keane - Somewhere Only We Know (Official Video)
+T 1751582162 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: John Denver - Take Me Home, Country Roads
+T 1751582362 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Zac Brown Band - Colder Weather
+T 1751582633 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Master P - Bout It, Bout It
+T 1751582944 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Two Banks Of Four - Shadowlands
+T 1751583275 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Shania Twain - That Don't Impress Me Much
+T 1751583496 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing:  Buck Owens - Act Naturally
+T 1751583637 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Miranda Lambert - Mama's Broken Heart
+T 1751583807 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: rammstein - du hast
+T 1751583847 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: None - NC-17 - Dio
+T 1751584138 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: SZA, The Weeknd, Travis Scott - Power is Power
+T 1751584349 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Cam'Ron - Hey Ma ft. Juelz Santana
+T 1751584590 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Big Red Panda - Still Moment
+T 1751585152 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tim McGraw - Everywhere
+T 1751585443 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: En Vogue - My Lovin' (You're Never Gonna Get It)
+T 1751585694 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: SiIvaGunner - DK Rap (Gorilla Version) - Donkey Kong 64
+T 1751585834 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Aaliyah - Are You That Somebody
+T 1751586095 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Toto - Africa
+T 1751586366 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Zero 7, Sia - Somersault
+T 1751586788 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Collin Raye - That's My Story
+T 1751586968 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Deftones - Change (In the House of Flies)
+T 1751587269 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Lynyrd Skynyrd - Red White and Blue
+T 1751587611 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Miranda Lambert - Little Red Wagon
+T 1751587821 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Logic - 1-800-273-8255
+T 1751588243 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: JibranGaming - U.O.E.N.O. (Feat. Future, Rick Ross, A$AP Rocky & Wiz Khalifa)
+T 1751588654 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brooks & Dunn - She's Not the Cheatin' Kind
+T 1751588865 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Birdy Nam Nam - Birdy Nam Nam - Defiant Order (Official Music Video)
+T 1751589106 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: King Von - Track 1
+T 1751589236 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jon B - Are U Still Down?
+T 1751589487 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kenny Loggins - Danger Zone (From "Top Gun" Original Soundtrack)
+T 1751589698 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Mando Diao - Black Saturday (Single Version)
+T 1751590099 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kenny Loggins - Danger Zone (From "Top Gun" Original Soundtrack)
+T 1751590320 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Future - Run Up
+T 1751590521 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Plies - Kept It Too Real
+T 1751590812 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Blondie - Call Me
+T 1751591303 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Future - Low Life ft The Weeknd
+T 1751591624 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Animals - The Animals - House of the Rising Sun (1964) HQ/Widescreen â«â¥ 58 YEARS AGO
+T 1751591875 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Prodigy - Smack My Bitch Up
+T 1751592447 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ice Cube - No Vaseline
+T 1751592759 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Mindless Self Indulgence - Shut Me Up
+T 1751592929 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Deftones - Tempest
+T 1751593301 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Afroman - Because I Got High
+T 1751593501 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Post Malone - Post Malone with Doja Cat - I Like You (A Happier Song) [VR EXPERIENCE]
+T 1751593622 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Rihanna - Take A Bow
+T 1751593853 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tim McGraw - I Like It, I Love It
+T 1751594063 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gretchen Wilson - Redneck Woman
+T 1751594274 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Melanch�lic Memories - Toto - Hold The Line // Sub. Espa�ol
+T 1751594515 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Periphery - PERIPHERY - Marigold (Official Music Video)
+T 1751594846 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Fearless Records - Punk Goes 90s Vol. 2 - Falling In Reverse "Gangsta's Paradise"
+T 1751595077 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Arch Enemy - Nemesis
+T 1751595348 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bon Jovi - Bad Medicine
+T 1751595609 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Reba McEntire, Linda Davis - Does He Love You
+T 1751595870 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: TOOL - TOOL - Forty Six & 2 (Audio)
+T 1751596242 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tommy Boy - Digital Underground - The Humpty Dance (Official Music Video)
+T 1751596543 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ozzy Osbourne - OZZY OSBOURNE with Post Malone - "Take What You Want" (Live Video)
+T 1751596704 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Snoop Dogg - Beautiful
+T 1751597025 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kane Brown, Swae Lee & Khalid - Be Like That
+T 1751597236 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Hardy - Rednecker
+T 1751597436 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Don Williams - Tulsa Time
+T 1751597637 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: At the Drive-In - Alpha Centauri
+T 1751597828 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Rick Astley - Never Gonna Give You Up
+T 1751598038 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: TOOL - Stinkfist
+T 1751598350 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kelsea Ballerini - Peter Pan
+T 1751598551 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Future - Hater Shit
+T 1751598741 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Queen - We Will Rock You (Remastered 2017 / Backing Track)
+T 1751598872 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Wiz Khalifa - See You Again (feat. Charlie Puth)
+T 1751599113 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Nirvana - Something In The Way
+T 1751599374 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Luke Bryan - One Margarita
+T 1751599574 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Lukas Graham - Lukas Graham - Wish You Were Here (feat. Khalid) [Official Music Video]
+T 1751599755 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tom Petty And The Heartbreakers - Refugee
+T 1751599946 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: En Vogue - Whatta Man
+T 1751600247 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Dan + Shay - How Not To
+T 1751600438 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Green Day - Wake Me Up When September Ends
+T 1751600869 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Sham Boogie - Battle Cry Joell Ortiz Official Video 2010
+T 1751601150 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Usher - U Remind Me
+T 1751601422 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: None - Foo Fighters - Everlong (Official HD Video)
+T 1751601713 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: officialprimus - Primus - Southbound Pachyderm (Official Music Video)
+T 1751601994 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Thomas Dolby - The Key to Her Ferrari
+T 1751602275 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Sir Mix-A-Lot - Swass
+T 1751602556 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Disturbed - Disturbed - Bad Man [Live From The Take Back Your Life Tour]
+T 1751602767 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: En Vogue - Giving Him Something He Can Feel
+T 1751603017 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tank - When We
+T 1751603318 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Florida Georgia Line - Sun Daze
+T 1751603509 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Zero 7, Sia - Somersault
+T 1751603921 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Clint Black - Killin' Time
+T 1751604091 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jagged Edge - What's It Like ft. Jermaine Dupri
+T 1751604352 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Big & Rich - Save a Horse (Ride a Cowboy)
+T 1751604553 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bujuben - Mental Health (Original Mix)
+T 1751604603 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Merle Haggard - Mama Tried
+T 1751604734 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Epitaph Records - Falling In Reverse - "Popular Monster"
+T 1751604964 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Paramore - Still Into You
+T 1751605185 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: BlackHawk - Goodbye Says It All
+T 1751605396 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Trace Adkins - Ladies Love Country Boys
+T 1751605617 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: UB40 - Red Red Wine
+T 1751605948 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Phil Collins - Easy Lover
+T 1751606249 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: TheHopLounge - DJ Krush - Aletheuo (Truthspeaking) (Feat. Angelina Esparza)
+T 1751606570 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jeannie C. Riley - Harper Valley P.T.A.
+T 1751606761 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Air - All I Need (feat. Beth Hirsch)
+T 1751607032 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Orbital - Halcyon (7-inch Version)
+T 1751607282 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bloodhound Gang - The Bad Touch
+T 1751607524 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: UB40 - Red Red Wine
+T 1751607864 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Outkast - The Whole World
+T 1751608155 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: King Gizzard & the Lizard Wizard - Rattlesnake
+T 1751608627 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Five Finger Death Punch - Sham Pain
+T 1751608828 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Neal McCoy - Wink
+T 1751608998 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: George Jones - He Stopped Loving Her Today
+T 1751609189 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: KennyRogersVEVO - Kenny Rogers - The Gambler
+T 1751609400 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: PARTYNEXTDOOR - Come and See Me
+T 1751609631 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Type O Negative - Life Is Killing Me
+T 1751610022 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Hives - Walk Idiot Walk
+T 1751610233 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: DeJ Loaf - Desire
+T 1751610453 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: None - Wu-Tang Clan, R.A The Rugged Man - Dragon Fire (Explicit Video) ft. Kool G Rap
+T 1751610744 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Trivium - Trivium - The Shadow of the Abattoir (Official Video)
+T 1751611226 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Halsey - So Good
+T 1751611396 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Destripando la Historia - Od�n
+T 1751611577 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tim McGraw - Don't Take The Girl
+T 1751611828 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Sade - Smooth Operator (Remastered)
+T 1751612089 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gayla Peevey - I Want a Hippopotamus for Christmas (Hippo the Hero)
+T 1751612240 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Pyogenesis - Blue Smiley's Plan
+T 1751612470 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: iBongbarian - Tool - You Lied [HD]
+T 1751613022 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Armin van Buuren, Vini Vici - Armin van Buuren vs Vini Vici feat. Hilight Tribe - Great Spirit (Extended Mix)
+T 1751613484 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gojira - Gojira - Mea Culpa (Ah! Ça ira!) [OFFICIAL AUDIO]
+T 1751613655 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Sam Smith - Too Good At Goodbyes
+T 1751613865 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Big Red Panda - Centopide
+T 1751614226 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Martina McBride - Independence Day
+T 1751614457 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Clay Walker - If I Could Make a Living
+T 1751614598 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: John Michael Montgomery - Sold (The Grundy County Auction Incident)
+T 1751614748 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: I Am Legion, Noisia, Foreign Beggars - Make Those Move (Original)
+T 1751614939 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Notorious B.I.G. - The Notorious B.I.G. - Juicy (Official Video) [Remastered in 4K]
+T 1751615190 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: SiIvaGunner - DK Rap (Extended Mix) - Donkey Kong 64
+T 1751615571 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Aerosmith - Crazy
+T 1751615943 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Orelha Negra - Blue Tu
+T 1751616204 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: None - Beethoven - Moonlight Sonata (3rd Movement)
+T 1751616655 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tracy Byrd - Lifestyles Of The Not So Rich And Famous
+T 1751616826 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Plies - Medicine (feat. Keri Hilson)
+T 1751617087 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: A Perfect Circle - Pet
+T 1751617358 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Guns N' Roses - Mr. Brownstone
+T 1751617589 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bad Wolves - Zombie
+T 1751617860 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: TOOL - Eulogy
+T 1751618361 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: UGK (Underground Kingz) - Int'l Players Anthem (I Choose You)
+T 1751618693 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: SeedsofYaris - BADBADNOTGOOD - The World Is Yours / Brooklyn Zoo
+T 1751619074 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Prodigy - Voodoo People (Pendulum Mix)
+T 1751619375 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Duran Duran - Come Undone
+T 1751619636 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Soul Asylum - Runaway Train
+T 1751619907 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tom Petty - You Don't Know How It Feels
+T 1751620198 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Future - Perkys Calling
+T 1751620449 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Velvet Revolver - Fall to Pieces
+T 1751620710 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Luther Vandross - Never Too Much (12" Version)
+T 1751620941 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ryan Hurd, Maren Morris - Chasing After You
+T 1751621152 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Rotimi - Love Riddim
+T 1751621422 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Rae Sremmurd - Black Beatles
+T 1751621714 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Wynonna Judd - No One Else On Earth
+T 1751621954 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Luke Bryan - I Don't Want This Night To End
+T 1751622175 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Queen - Bohemian Rhapsody
+T 1751622526 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Milky Chance - Stolen Dance
+T 1751622848 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: A Perfect Circle - The Outsider
+T 1751623088 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: G-Eazy, Bebe Rexha - Me, Myself & I
+T 1751623440 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Beenie Man, Future Fambo, Seanizzle - Rum & Redbull
+T 1751623640 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Daft Punk - Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers
+T 1751623891 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Maren Morris - The Bones
+T 1751624092 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Limp Bizkit - Dad Vibes
+T 1751624283 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Method Man & Mary J. Blige - You' Re All I Need
+T 1751624504 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Alan Jackson - Chattahoochee (Extended Mix)
+T 1751624744 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kevin Gates - Jam (feat. Trey Songz, Ty Dolla $ign, & Jamie Foxx)
+T 1751624985 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Linkin Park - Breaking The Habit
+T 1751625176 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tame Impala - Tame Impala - The Less I Know the Better (Official Audio)
+T 1751625397 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Little Big Town - Wine, Beer, Whiskey
+T 1751625598 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: MUSIC MOVIE FREE - BILL HICKS - Smokers vs Nonsmokers
+T 1751626159 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Pierce The Veil - Pierce The Veil - King for a Day ft. Kellin Quinn
+T 1751626450 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: DJ Jazzy Jeff & The Fresh Prince - Summertime
+T 1751626691 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Miranda Lambert, Carrie Underwood - Somethin' Bad (Duet with Carrie Underwood [Album])
+T 1751626862 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Don Williams - Some Broken Hearts Never Mend
+T 1751627033 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Radiohead - Radiohead - High and Dry
+T 1751627294 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Rascal Flatts - What Hurts The Most (Hot Mix)
+T 1751627504 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Carlos Paredes - Can��o verdes anos
+T 1751627695 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: SiIvaGunner - DK Rap (Anniversary Edition) - Donkey Kong 64
+T 1751627916 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Walker Hayes - AA
+T 1751628107 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: HueyLewisTheNewsVEVO - Huey Lewis & The News - Hip To Be Square
+T 1751628338 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Indila - DerniÃ¨re danse
+T 1751628548 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Zero 7 - Give It Away
+T 1751628870 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: London Elektricity - Fast Soul Music
+T 1751629251 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Los Ecos, Edilberto Cuestas - Paloma Ajena
+T 1751629512 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Escape The Fate - This War Is Ours (The Guillotine II)
+T 1751629773 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Falling In Reverse - It's Over When It's Over
+T 1751630014 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: LANCO - Greatest Love Story
+T 1751630235 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Stevie Wonder - All I Do
+T 1751630536 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Alabama - Mountain Music
+T 1751630797 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Marty Robbins - Cool Water (Album Version)
+T 1751630987 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jo Dee Messina - Bye-Bye
+T 1751631188 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Biz Markie - Just A Friend
+T 1751631429 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Metallica - Turn the Page
+T 1751631771 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Snoop Dogg - My Medicine
+T 1751631932 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Metallica - Turn the Page
+T 1751632284 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Rita Marley - One Draw (I Wanna Get High)
+T 1751632494 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Metallica - Nothing Else Matters
+T 1751632876 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Shawn Lee's Ping Pong Orchestra - Shawn Lee's Ping Pong Orchestra: Changing Times
+T 1751633056 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Weeknd - Blinding Lights
+T 1751633257 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Warrant - Cherry Pie
+T 1751633458 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: None - ãæ±æ¹ãã³ãã¯ã«ã°ã©ããRainy, rainy daysã / SOUND HOLIC feat. 3Lãå¬å¼é³æº æ­è©ä»ãã
+T 1751633588 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Montgomery Gentry - Hell Yeah
+T 1751633879 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: alyankovic - "Weird Al" Yankovic - The Saga Begins (Official HD Video)
+T 1751634220 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Joy Division - Transmission (2020 Digital Remaster)
+T 1751634441 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Indila - Mini World
+T 1751634752 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Cage The Elephant - Ain't No Rest for the Wicked
+T 1751634923 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: White Lion - Broken Heart
+T 1751635174 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Sade - No Ordinary Love
+T 1751635616 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: CeeLo Green - Fuck You
+T 1751635847 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Cypress Hill - Insane In The Brain
+T 1751636057 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Queens Of The Stone Age - Go With The Flow
+T 1751636248 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: 1thousandx - Bitcoin pls go to moon
+T 1751636288 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ed Sheeran - Shape of You
+T 1751636549 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Metallica - Metallica: Nothing Else Matters (Official Music Video)
+T 1751636931 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Awake The Rapper - K.I.A
+T 1751637142 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Shy Glizzy - White Girl
+T 1751637383 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Pendulum - Slam
+T 1751637724 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Old Dominion - Written in the Sand
+T 1751637905 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bobby Fishscale - The Last Re-Up (Intro)
+T 1751638146 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Adina Howard - Freak Like Me
+T 1751638396 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: officialprimus - Primus - Southbound Pachyderm (Official Music Video)
+T 1751638677 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Kid LAROI - F*CK YOU, GOODBYE
+T 1751638818 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Migos - Cocoon
+T 1751639119 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Weezer - I Love The USA
+T 1751639350 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Green Jelly - Three Little Pigs
+T 1751639711 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: New Kids On The Block - You Got It (The Right Stuff)
+T 1751639962 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Blake Shelton - Some Beach
+T 1751640163 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Queen - Somebody To Love (Remastered 2014)
+T 1751640474 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Primus - Coattails Of A Dead Man
+T 1751641077 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Guns N' Roses - Patience
+T 1751641429 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kid Rock - Kid Rock - Picture feat. Sheryl Crow [Official Music Video]
+T 1751641730 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Fernanda Porto - S� Tinha de Ser Com Voc�
+T 1751641991 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Collin Raye - My Kind of Girl
+T 1751642162 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Olivia Rodrigo - Olivia Rodrigo - happier (Lyrics)
+T 1751642333 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Disturbed - Prayer
+T 1751642553 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Maren Morris - The Bones
+T 1751642754 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Pierce The Veil - Pierce The Veil - Bulls in the Bronx
+T 1751643046 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Alan Jackson - Gone Country
+T 1751643308 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: AC/DC - Dirty Deeds Done Dirt Cheap
+T 1751643539 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Pretenders - I'll Stand by You
+T 1751643780 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Cypress Hill - Hits from the Bong
+T 1751643940 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Joe Diffie - Bigger Than the Beatles
+T 1751644181 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Justice - Justice - Genesis - â  (Official Audio)
+T 1751644412 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Avicii - Avicii - Waiting For Love
+T 1751644643 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Rulietka - Fair-Weather Fans - Ronnie Radke [Lyrics]
+T 1751644884 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Leo - Dance Monkey (metal cover by Leo Moracchioli feat. Rabea & Hannah)
+T 1751645225 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Joe Walsh - Life's Been Good
+T 1751645699 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Big Red Panda - Milestone
+T 1751646100 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: GAYLE - abcdefu
+T 1751646271 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brandy - Almost Doesn't Count
+T 1751646492 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jerry Reed - East Bound and Down
+T 1751646652 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Anthrax, Public Enemy - Bring The Noise
+T 1751646863 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tears for Fears - Tears For Fears - Everybody Wants To Rule The World (Official Music Video)
+T 1751647154 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Halsey - So Good
+T 1751647335 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Luther Vandross - Never Too Much (12" Version)
+T 1751647566 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tom Petty - FREE FALLIN
+T 1751647817 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: ＴＲＡＳＨ 新 ドラゴン - Jake Hill - By The Sword (prod. DR.F)
+T 1751647937 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Led Zeppelin - Immigrant Song
+T 1751648088 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Panic! At The Disco - Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off
+T 1751648289 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Big Red Panda - Centopide
+T 1751648650 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Dwight Yoakam - A Thousand Miles from Nowhere
+T 1751648921 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Megan Thee Stallion, BeyoncÃ© - Savage Remix (feat. BeyoncÃ©)
+T 1751649162 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Soulja Boy Tell'em - Crank That (Soulja Boy) [Travis Barker Remix]
+T 1751649313 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Alan Jackson - Gone Country
+T 1751649574 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Men At Work - Down Under
+T 1751649795 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: GAYLE - abcdefu
+T 1751649965 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Alan Jackson - Chattahoochee
+T 1751650206 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Diamond Rio - Meet In the Middle
+T 1751650407 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: RHINO - The B-52's - Love Shack (Official Music Video)
+T 1751650414 23*	koeuk (koeuk@nerds/user/koeuk23) has joined
+T 1751650668 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bone Thugs-n-Harmony - Mo'murda
+T 1751651009 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing:  Three 6 Mafia - Stay Fly
+T 1751651251 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: UGK (Underground Kingz) - Int'l Players Anthem (I Choose You)
+T 1751651572 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Nelly, Florida Georgia Line - Lil Bit
+T 1751651773 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kenny Chesney - She Thinks My Tractor's Sexy
+T 1751652014 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: CeeLo Green - Fuck You
+T 1751652254 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brandy - Have You Ever
+T 1751652505 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Misaki - Undertale OST: 085 - Fallen Down (Reprise)
+T 1751652656 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: NF - Lie
+T 1751652857 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tears For Fears - Head Over Heels
+T 1751653118 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Muse - Knights of Cydonia
+T 1751653480 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Lee Brice - Hard To Love
+T 1751653711 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Green Day - When I Come Around
+T 1751653881 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: IPrevailBand - I Prevail - Self-Destruction (Official Music Video)
+T 1751654062 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: At the Drive-In - Alpha Centauri
+T 1751654253 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing:  Chase McDaniel - project
+T 1751654494 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: 112 - Anywhere
+T 1751654734 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Twenty One Pilots - twenty one pilots: Heathens (from Suicide Squad: The Album) [OFFICIAL VIDEO]
+T 1751654955 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Muse - Knights of Cydonia
+T 1751655327 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Mindy McCready - Guys Do It All the Time
+T 1751655517 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tom Petty And The Heartbreakers - Mary Jane's Last Dance
+T 1751655798 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Cesar Perez Iglesias - Eric Clapton & Friends - White Room
+T 1751656170 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Twista - Make A Movie
+T 1751656391 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Dead Combo - Esse olhar que era so teu
+T 1751656762 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kehlani - Gangsta
+T 1751656933 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Madonna - Papa Don't Preach
+T 1751657184 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Samson - Samson- Redman 80 Bar Challenge
+T 1751657375 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bon Jovi - Never Say Goodbye
+T 1751657667 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jason Aldean - Johnny Cash
+T 1751657858 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brooks & Dunn - Boot Scootin' Boogie
+T 1751658048 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gabby Barrett - I Hope
+T 1751658260 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Epitaph Records - Falling In Reverse - "ZOMBIFIED"
+T 1751658500 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Firehouse - All She Wrote
+T 1751658771 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: aiyssainreverse - Asshole - Ronnie Radke ft. Andy Biersack (LYRICS)
+T 1751659073 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing:  Chase McDaniel - project
+T 1751659304 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Young Jeezy, Trick Daddy, Young Buck, Lil' Will - Last Of A Dying Breed
+T 1751659545 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Aaliyah - Miss You
+T 1751659786 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: None - Florida Georgia Line - H.O.L.Y.
+T 1751659816 23*	nerd66 (webchat@nerd-7301DB68.dynamic.play.pl23) has joined
+T 1751660017 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 1 | Now playing: Oran 'Juice' Jones - The Rain
+T 1751660064 24*	nerd66 has quit (Quit: The Lounge [IRC-nERDs] - #nerds)
+T 1751660329 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bobby McFerrin - Don't Worry Be Happy
+T 1751660561 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Fleetwod Mac - Fleetwood Mac - Everywhere (Official Music Video)
+T 1751660782 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Reba McEntire - Is There Life Out There
+T 1751661013 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing:  Don Williams - I Believe In You
+T 1751661264 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Billy Currington - People Are Crazy
+T 1751661495 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: alyankovic - "Weird Al" Yankovic - Living With A Hernia (Official HD Video)
+T 1751661696 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Old Dominion - Break Up with Him
+T 1751661906 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: BustaRhymesVEVO - Busta Rhymes - Break Ya Neck (Official Video)
+T 1751662258 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Bob Marley & The Wailers - Three Little Birds (Dub)
+T 1751662439 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Mike Jones - Cuddy Buddy [feat. Trey Songz & Twista]
+T 1751662730 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Outkast - Outkast - Roses (Official HD Video)
+T 1751663091 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Fernanda Porto - S� Tinha de Ser Com Voc�
+T 1751663352 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jon Pardi - Dirt On My Boots
+T 1751663553 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Beatles - Taxman (Remastered 2009)
+T 1751663714 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Skid Row - 18 and Life
+T 1751663935 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tory Lanez - LUV
+T 1751664176 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Cherish - Unappreciated
+T 1751664417 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Dolly Parton - I Will Always Love You
+T 1751664598 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Adele - Adele - Hello
+T 1751664959 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ying Yang Twins - Say I Yi Yi
+T 1751665230 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brad Paisley - Remind Me (Duet With Carrie Underwood)
+T 1751665481 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brad Paisley - We Danced
+T 1751665702 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Violent Femmes - Blister In The Sun
+T 1751665853 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Men At Work - Down Under
+T 1751666073 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Unknown - Unknown
+T 1751666284 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Groove Theory - Tell Me
+T 1751666525 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Prodigy - Voodoo People (Pendulum Mix)
+T 1751666826 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Blue Foundation - Eyes on Fire
+T 1751667127 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Eminem - White America
+T 1751667459 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Better Noise Music - The HU - Wolf Totem feat. Jacoby Shaddix of Papa Roach (Official Music Video)
+T 1751667770 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Future - Bye Bye
+T 1751667950 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: TOOL - TOOL - Schism (Official Video)
+T 1751668392 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ronathan From I.T - Kid Cudi - Pursuit Of Happiness(Steve Aoki Remix)
+T 1751668773 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gaye Bykers On Acid - Golf Trek
+T 1751668994 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: BlackHawk - I'm Not Strong Enough to Say No
+T 1751669255 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tommy Lee - Good Times
+T 1751669436 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Mindy McCready - Guys Do It All the Time
+T 1751669627 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ramones - Blitzkrieg Bop (2001 Remaster)
+T 1751669777 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Lorrie Morgan - Except for Monday
+T 1751669948 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: U2 - Numb
+T 1751670209 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Toto - Africa
+T 1751670480 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kid Rock - We The People
+T 1751670731 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Toby Keith - You Ain't Much Fun
+T 1751670882 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Beastie Boys - Sabotage (Remastered 2009)
+T 1751671062 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Chicks - Goodbye Earl
+T 1751671323 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Brantley Gilbert - Bottoms Up
+T 1751671535 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ultra Music - Steve Aoki, Chris Lake & Tujamo - Boneless (Official Video)
+T 1751671773 20*	Disconnected (20)
+T 1751671789 19*	Now talking on 22#radio
+T 1751671789 22*	Topic for 22#radio is: [IRC-nERDs Internet Radio] [Streaming URL for your players: http://radio.irc-nerds.net/radio.ogg To get started please visit - http://radio.irc-nerds.net/ | http://radio.nerds.i2p | http://k65ist5xa7bejgxjwn3wcehespk5plxoxrursvrbbs5mw7y4qz6lnmad.onion --- ?list for commands --- ?help <command> for more info
+T 1751671789 22*	Topic for 22#radio set by 26daddy (24Sun Feb 26 07:09:41 2023)
+T 1751671790 -18ChanServ-	[#radio] Welcome to IRC-nERDs Radio. Use ?list to get a list of commands for the bot. [ Website: https://radio.irc-nerds.net ] [ Streaming URL: http://radio.irc-nerds.net/radio.ogg ]
+T 1751672197 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Motley Crue - Don’t Go Away Mad (Just Go Away)
+T 1751672448 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Michael Bolton - How Am I Supposed to Live Without You
+T 1751672700 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Dax - Dax - FASTER (Feat. Tech N9ne) [Official Music Video]
+T 1751672991 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Matchbox Twenty - Matchbox Twenty - 3AM (Official Video)
+T 1751673222 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Black Sabbath - BLACK SABBATH - "Iron Man" (Official Video)
+T 1751673573 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Creedence Clearwater Revival - Creedence Clearwater Revival - Have You Ever Seen The Rain (Official)
+T 1751673754 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tame Impala - Tame Impala - Feels Like We Only Go Backwards (Official Video)
+T 1751673955 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Judds - Love Can Build A Bridge
+T 1751674276 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Beck - Loser
+T 1751674507 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Billie Eilish - Therefore I Am
+T 1751674678 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Nas - Ether
+T 1751674959 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Hanoi Rocks - Don't You Ever Leave Me
+T 1751675149 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Webbie - Gutta Bitch
+T 1751675390 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Sir Mix-A-Lot - Baby Got Back
+T 1751675641 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Billie Eilish - Your Power
+T 1751675645 24*	koeuk has quit (Quit: Leaving)
+T 1751675902 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Big Sugar - Opem Up Baby
+T 1751676223 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Toby Keith - Beer For My Horses
+T 1751676434 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gary Allan - Songs About Rain
+T 1751676668 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: The Chemical Brothers - The Chemical Brothers - Wide Open ft. Beck (Official Music Video)
+T 1751677000 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: U2 - Numb
+T 1751677261 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Clipse - Grindin'
+T 1751677502 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Jason Aldean - Johnny Cash
+T 1751677693 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Massive Attack, Tracey Thorn - Protection
+T 1751678165 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Tim McGraw - She's My Kind Of Rain
+T 1751678425 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Ultra Music - Steve Aoki, Chris Lake & Tujamo - Boneless (Official Video)
+T 1751678656 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Kenny Chesney - You Had Me from Hello
+T 1751678887 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Skid Row - 18 and Life
+T 1751679119 18<DJ-nerds18>	09,01[IRC-nERDs Radio] Listeners: 0 | Now playing: Gramatik - Muy Tranquilo

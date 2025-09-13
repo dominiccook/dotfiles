@@ -1,0 +1,71 @@
+T 1751576024 19*	Now talking on 22#music
+T 1751576024 22*	Topic for 22#music is: Welcome to #music (Interlinked Remix) | All types of music - share what you love, don't diss it just because you hate the genre | Music feed in #nya | https://www.youtube.com/watch?v=LXc2Ttb1Z8I
+T 1751576024 22*	Topic for 22#music set by 26Elizafox (24Thu Dec  3 16:49:03 2020)
+T 1751576102 20<dug>30	ya like jazz? :P
+T 1751577958 20*	Disconnected (20)
+T 1751578451 22*	26dug sets mode 24+x on 22dug
+T 1751578451 -18InfoServ-	*** Message(s) of the Day ***
+T 1751578451 -18InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+T 1751578451 -18InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+T 1751578451 -18InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+T 1751578451 -18InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+T 1751578451 -18InfoServ-	*** End of Message(s) of the Day ***
+T 1751578451 -18NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1751578457 19*	Now talking on 22#music
+T 1751578457 22*	Topic for 22#music is: Welcome to #music (Interlinked Remix) | All types of music - share what you love, don't diss it just because you hate the genre | Music feed in #nya | https://www.youtube.com/watch?v=LXc2Ttb1Z8I
+T 1751578457 22*	Topic for 22#music set by 26Elizafox (24Thu Dec  3 16:49:03 2020)
+T 1751578558 20*	Disconnected (20)
+T 1751578597 23*	28dug is already in use. Retrying with 18dug_...
+T 1751578600 22*	26dug_ sets mode 24+x on 22dug_
+T 1751578600 -18InfoServ-	*** Message(s) of the Day ***
+T 1751578600 -18InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+T 1751578600 -18InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+T 1751578600 -18InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+T 1751578600 -18InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+T 1751578600 -18InfoServ-	*** End of Message(s) of the Day ***
+T 1751578600 -18NickServ-	Welcome to Interlinked, dug_! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1751578601 19*	Now talking on 22#music
+T 1751578601 22*	Topic for 22#music is: Welcome to #music (Interlinked Remix) | All types of music - share what you love, don't diss it just because you hate the genre | Music feed in #nya | https://www.youtube.com/watch?v=LXc2Ttb1Z8I
+T 1751578601 22*	Topic for 22#music set by 26Elizafox (24Thu Dec  3 16:49:03 2020)
+T 1751578708 20*	Disconnected (20)
+T 1751578719 23*	28dug_ is already in use. Retrying with 18dug_...
+T 1751578719 23*	28dug_ is already in use. Retrying with 18dug__...
+T 1751578724 22*	26dug__ sets mode 24+x on 22dug__
+T 1751578724 -18InfoServ-	*** Message(s) of the Day ***
+T 1751578724 -18InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+T 1751578724 -18InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+T 1751578724 -18InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+T 1751578724 -18InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+T 1751578724 -18InfoServ-	*** End of Message(s) of the Day ***
+T 1751578724 -18NickServ-	Welcome to Interlinked, dug__! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1751578725 19*	Now talking on 22#music
+T 1751578725 22*	Topic for 22#music is: Welcome to #music (Interlinked Remix) | All types of music - share what you love, don't diss it just because you hate the genre | Music feed in #nya | https://www.youtube.com/watch?v=LXc2Ttb1Z8I
+T 1751578725 22*	Topic for 22#music set by 26Elizafox (24Thu Dec  3 16:49:03 2020)
+T 1751578978 20*	Disconnected (20)
+T 1751579029 22*	26dug sets mode 24+x on 22dug
+T 1751579029 -18InfoServ-	*** Message(s) of the Day ***
+T 1751579029 -18InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+T 1751579029 -18InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+T 1751579029 -18InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+T 1751579029 -18InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+T 1751579029 -18InfoServ-	*** End of Message(s) of the Day ***
+T 1751579029 -18NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1751579030 19*	Now talking on 22#music
+T 1751579030 22*	Topic for 22#music is: Welcome to #music (Interlinked Remix) | All types of music - share what you love, don't diss it just because you hate the genre | Music feed in #nya | https://www.youtube.com/watch?v=LXc2Ttb1Z8I
+T 1751579030 22*	Topic for 22#music set by 26Elizafox (24Thu Dec  3 16:49:03 2020)
+T 1751579128 24*	dug__ has quit (Ping timeout: 120 seconds)
+T 1751630318 23*	Juesto (~Juest@juest.23) has joined
+T 1751630457 24*	Juest has quit (Ping timeout: 120 seconds)
+T 1751630457 24*	28Juesto is now known as 18Juest
+T 1751671773 20*	Disconnected (20)
+T 1751671787 22*	26dug sets mode 24+x on 22dug
+T 1751671787 -18InfoServ-	*** Message(s) of the Day ***
+T 1751671787 -18InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+T 1751671787 -18InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+T 1751671787 -18InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+T 1751671787 -18InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+T 1751671787 -18InfoServ-	*** End of Message(s) of the Day ***
+T 1751671787 -18NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+T 1751671789 19*	Now talking on 22#music
+T 1751671789 22*	Topic for 22#music is: Welcome to #music (Interlinked Remix) | All types of music - share what you love, don't diss it just because you hate the genre | Music feed in #nya | https://www.youtube.com/watch?v=LXc2Ttb1Z8I
+T 1751671789 22*	Topic for 22#music set by 26Elizafox (24Thu Dec  3 16:49:03 2020)

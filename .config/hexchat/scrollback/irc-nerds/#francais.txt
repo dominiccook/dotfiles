@@ -1,0 +1,18 @@
+T 1751576673 19*	Now talking on 22#francais
+T 1751576673 22*	Topic for 22#francais is: Bienvenue sur #francais ! Ici vous pouvez demander de l'aide et converser pour apprendre le français. | Traduction / Translate: @tl <de/from> <à/to> <texte/text>
+T 1751576673 22*	Topic for 22#francais set by 26Tintle (24Fri Aug 11 07:42:50 2023)
+T 1751577958 20*	Disconnected (20)
+T 1751578472 19*	Now talking on 22#francais
+T 1751578472 22*	Topic for 22#francais is: Bienvenue sur #francais ! Ici vous pouvez demander de l'aide et converser pour apprendre le français. | Traduction / Translate: @tl <de/from> <à/to> <texte/text>
+T 1751578472 22*	Topic for 22#francais set by 26Tintle (24Fri Aug 11 07:42:50 2023)
+T 1751578531 20*	You are now known as 18Guest36128
+T 1751578978 20*	Disconnected (20)
+T 1751579022 19*	Now talking on 22#francais
+T 1751579022 22*	Topic for 22#francais is: Bienvenue sur #francais ! Ici vous pouvez demander de l'aide et converser pour apprendre le français. | Traduction / Translate: @tl <de/from> <à/to> <texte/text>
+T 1751579022 22*	Topic for 22#francais set by 26Tintle (24Fri Aug 11 07:42:50 2023)
+T 1751579068 24*	Guest36128 has quit (Ping timeout: 180 seconds)
+T 1751579081 20*	You are now known as 18Guest33538
+T 1751671773 20*	Disconnected (20)
+T 1751671789 19*	Now talking on 22#francais
+T 1751671789 22*	Topic for 22#francais is: Bienvenue sur #francais ! Ici vous pouvez demander de l'aide et converser pour apprendre le français. | Traduction / Translate: @tl <de/from> <à/to> <texte/text>
+T 1751671789 22*	Topic for 22#francais set by 26Tintle (24Fri Aug 11 07:42:50 2023)

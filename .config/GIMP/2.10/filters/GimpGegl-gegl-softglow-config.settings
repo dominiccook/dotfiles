@@ -1,0 +1,20 @@
+# settings
+
+(GimpGegl-gegl-softglow-config "2025-05-27 12:30:33"
+    (time 1748374233)
+    (gimp-mode color-erase)
+    (glow-radius 10)
+    (brightness 0.29999999999999999)
+    (sharpness 0.84999999999999998))
+(GimpGegl-gegl-softglow-config "2025-05-27 12:29:43"
+    (time 1748374183)
+    (glow-radius 22.081)
+    (brightness 0.70899999999999996)
+    (sharpness 0.84999999999999998))
+(GimpGegl-gegl-softglow-config "2025-05-27 12:29:31"
+    (time 1748374171)
+    (glow-radius 12.395)
+    (brightness 0.64000000000000001)
+    (sharpness 0.84999999999999998))
+
+# end of settings

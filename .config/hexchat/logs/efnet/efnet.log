@@ -1,0 +1,759 @@
+**** BEGIN LOGGING AT Thu Jul  3 14:14:28 2025
+
+Jul 03 14:14:28 *	*** Processing connection to irc.deft.com
+Jul 03 14:14:28 *	*** Looking up your hostname...
+Jul 03 14:14:28 *	*** Checking Ident
+Jul 03 14:14:28 *	*** Found your hostname
+Jul 03 14:14:33 *	*** No Ident response
+Jul 03 14:14:33 *	Capabilities supported: multi-prefix
+Jul 03 14:14:33 *	Capabilities requested: multi-prefix 
+Jul 03 14:14:33 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Thu Jul  3 14:14:33 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:14:33 2025
+
+Jul 03 14:14:33 *	Welcome to the EFnet Internet Relay Chat Network dug
+Jul 03 14:14:33 *	Your host is irc.deft.com[66.225.225.225/6667], running version ircd-ratbox-3.0.10
+Jul 03 14:14:33 *	This server was created Fri Jan 26 2024 at 20:04:01 UTC
+Jul 03 14:14:33 *	irc.deft.com ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 03 14:14:33 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:75 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFnet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 03 14:14:33 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 03 14:14:33 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 03 14:14:33 *	There are 3585 users and 5842 invisible on 19 servers
+Jul 03 14:14:33 *	80 :IRC Operators online
+Jul 03 14:14:33 *	5 :unknown connection(s)
+Jul 03 14:14:33 *	6134 :channels formed
+Jul 03 14:14:33 *	I have 968 clients and 2 servers
+Jul 03 14:14:33 *	968 2739 :Current local users 968, max 2739
+Jul 03 14:14:33 *	9427 10148 :Current global users 9427, max 10148
+Jul 03 14:14:33 *	Highest connection count: 2741 (2739 clients) (213117 connections received)
+Jul 03 14:14:33 *	- irc.deft.com Message of the Day - 
+Jul 03 14:14:33 *	- -                                _      __ _   
+Jul 03 14:14:33 *	- -                             __| |___ / _| |_ 
+Jul 03 14:14:33 *	- -                            / _` / -_)  _|  _|
+Jul 03 14:14:33 *	- -                            \__,_\___|_|  \__|
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -          o Listening on ports: 6660 - 6669, 7000, 8080, 31337 o
+Jul 03 14:14:33 *	- -                 o Listening on SSL ports: 6697, 9999 o
+Jul 03 14:14:33 *	- -               o Visit us @ http://www.deft.com o
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -  -------- Server Rules ----------------------------------------------
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -        o No Flooding                         o No DoS bots
+Jul 03 14:14:33 *	- -        o No Clones                           o No Spamming
+Jul 03 14:14:33 *	- -        o No Takeovers                        o No Whiners 
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -  -------- Server Staff ----------------------------------------------
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -     o doug, netmunky, zi, orange1, max, scrim, remorse, fddi
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -  -------- Server Channel --------------------------------------------
+Jul 03 14:14:33 *	- -
+Jul 03 14:14:33 *	- -     o Visit our server's efnet channel:  #deft
+Jul 03 14:14:33 *	- -
+Jul 03 14:14:33 *	- -  -------- Disclaimer ------------------------------------------------
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -     This server, its staff and the people hosting it are *NOT* 
+Jul 03 14:14:33 *	- -     responsible for the content that passes through this server. 
+Jul 03 14:14:33 *	- -     Use of this server is a *privilege* which may be removed at 
+Jul 03 14:14:33 *	- -     any time and for any reason by the friendly server operators.
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	- -  -------- End of MOTD -----------------------------------------------
+Jul 03 14:14:33 *	- -  
+Jul 03 14:14:33 *	End of /MOTD command.
+Jul 03 14:14:33 *	Received a CTCP VERSION from DM
+Jul 03 14:15:13 *	Cannot join #LRH (You are banned).
+Jul 03 14:15:48 *	nickserv :Unknown command
+Jul 03 14:15:58 *	nickserv :Unknown command
+Jul 03 14:25:58 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:25:58 *	Disconnected ()
+Jul 03 14:26:08 *	Looking up 66.225.225.225
+Jul 03 14:26:08 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:26:10 *	Connection failed (No route to host)
+Jul 03 14:26:20 Cycling to next server in EFnet...
+Jul 03 14:26:20 *	Disconnected ()
+Jul 03 14:26:20 *	Looking up irc.choopa.net
+Jul 03 14:26:20 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:30 Cycling to next server in EFnet...
+Jul 03 14:26:30 *	Disconnected ()
+Jul 03 14:26:30 *	Looking up efnet.port80.se
+Jul 03 14:26:30 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:40 Cycling to next server in EFnet...
+Jul 03 14:26:40 *	Disconnected ()
+Jul 03 14:26:40 *	Looking up irc.underworld.no
+Jul 03 14:26:40 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:50 Cycling to next server in EFnet...
+Jul 03 14:26:50 *	Disconnected ()
+Jul 03 14:26:50 *	Looking up efnet.deic.eu
+Jul 03 14:26:50 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:00 Cycling to next server in EFnet...
+Jul 03 14:27:00 *	Disconnected ()
+Jul 03 14:27:00 *	Looking up 66.225.225.225
+Jul 03 14:27:00 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:10 Cycling to next server in EFnet...
+Jul 03 14:27:10 *	Disconnected ()
+Jul 03 14:27:10 *	Looking up irc.choopa.net
+Jul 03 14:27:10 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:20 Cycling to next server in EFnet...
+Jul 03 14:27:20 *	Disconnected ()
+Jul 03 14:27:20 *	Looking up efnet.port80.se
+Jul 03 14:27:20 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:30 Cycling to next server in EFnet...
+Jul 03 14:27:30 *	Disconnected ()
+Jul 03 14:27:30 *	Looking up irc.underworld.no
+Jul 03 14:27:30 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:40 Cycling to next server in EFnet...
+Jul 03 14:27:40 *	Disconnected ()
+Jul 03 14:27:40 *	Looking up efnet.deic.eu
+Jul 03 14:27:40 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:50 Cycling to next server in EFnet...
+Jul 03 14:27:50 *	Disconnected ()
+Jul 03 14:27:50 *	Looking up 66.225.225.225
+Jul 03 14:27:50 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:27:50 *	Connection failed (Network is unreachable)
+Jul 03 14:28:00 Cycling to next server in EFnet...
+Jul 03 14:28:00 *	Disconnected ()
+Jul 03 14:28:00 *	Looking up irc.choopa.net
+Jul 03 14:28:00 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:10 Cycling to next server in EFnet...
+Jul 03 14:28:10 *	Disconnected ()
+Jul 03 14:28:10 *	Looking up efnet.port80.se
+Jul 03 14:28:10 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:20 Cycling to next server in EFnet...
+Jul 03 14:28:20 *	Disconnected ()
+Jul 03 14:28:20 *	Looking up irc.underworld.no
+Jul 03 14:28:20 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:30 Cycling to next server in EFnet...
+Jul 03 14:28:30 *	Disconnected ()
+Jul 03 14:28:30 *	Looking up efnet.deic.eu
+Jul 03 14:28:30 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:40 Cycling to next server in EFnet...
+Jul 03 14:28:40 *	Disconnected ()
+Jul 03 14:28:40 *	Looking up 66.225.225.225
+Jul 03 14:28:40 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:28:40 *	Connection failed (Network is unreachable)
+Jul 03 14:28:50 Cycling to next server in EFnet...
+Jul 03 14:28:50 *	Disconnected ()
+Jul 03 14:28:50 *	Looking up irc.choopa.net
+Jul 03 14:28:51 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:01 Cycling to next server in EFnet...
+Jul 03 14:29:01 *	Disconnected ()
+Jul 03 14:29:01 *	Looking up efnet.port80.se
+Jul 03 14:29:01 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:11 Cycling to next server in EFnet...
+Jul 03 14:29:11 *	Disconnected ()
+Jul 03 14:29:11 *	Looking up irc.underworld.no
+Jul 03 14:29:11 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:21 Cycling to next server in EFnet...
+Jul 03 14:29:21 *	Disconnected ()
+Jul 03 14:29:21 *	Looking up efnet.deic.eu
+Jul 03 14:29:21 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:31 Cycling to next server in EFnet...
+Jul 03 14:29:31 *	Disconnected ()
+Jul 03 14:29:31 *	Looking up 66.225.225.225
+Jul 03 14:29:31 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:29:31 *	Connection failed (Network is unreachable)
+Jul 03 14:29:41 Cycling to next server in EFnet...
+Jul 03 14:29:41 *	Disconnected ()
+Jul 03 14:29:41 *	Looking up irc.choopa.net
+Jul 03 14:29:41 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:51 Cycling to next server in EFnet...
+Jul 03 14:29:51 *	Disconnected ()
+Jul 03 14:29:51 *	Looking up efnet.port80.se
+Jul 03 14:29:51 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:01 Cycling to next server in EFnet...
+Jul 03 14:30:01 *	Disconnected ()
+Jul 03 14:30:01 *	Looking up irc.underworld.no
+Jul 03 14:30:01 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:11 Cycling to next server in EFnet...
+Jul 03 14:30:11 *	Disconnected ()
+Jul 03 14:30:11 *	Looking up efnet.deic.eu
+Jul 03 14:30:11 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:21 Cycling to next server in EFnet...
+Jul 03 14:30:21 *	Disconnected ()
+Jul 03 14:30:21 *	Looking up 66.225.225.225
+Jul 03 14:30:21 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:30:21 *	Connection failed (Network is unreachable)
+Jul 03 14:30:31 Cycling to next server in EFnet...
+Jul 03 14:30:31 *	Disconnected ()
+Jul 03 14:30:31 *	Looking up irc.choopa.net
+Jul 03 14:30:31 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:41 Cycling to next server in EFnet...
+Jul 03 14:30:41 *	Disconnected ()
+Jul 03 14:30:41 *	Looking up efnet.port80.se
+Jul 03 14:30:41 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:51 Cycling to next server in EFnet...
+Jul 03 14:30:51 *	Disconnected ()
+Jul 03 14:30:51 *	Looking up irc.underworld.no
+Jul 03 14:30:51 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:01 Cycling to next server in EFnet...
+Jul 03 14:31:01 *	Disconnected ()
+Jul 03 14:31:01 *	Looking up efnet.deic.eu
+Jul 03 14:31:01 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:11 Cycling to next server in EFnet...
+Jul 03 14:31:11 *	Disconnected ()
+Jul 03 14:31:11 *	Looking up 66.225.225.225
+Jul 03 14:31:11 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:31:11 *	Connection failed (Network is unreachable)
+Jul 03 14:31:21 Cycling to next server in EFnet...
+Jul 03 14:31:21 *	Disconnected ()
+Jul 03 14:31:21 *	Looking up irc.choopa.net
+Jul 03 14:31:21 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:31 Cycling to next server in EFnet...
+Jul 03 14:31:31 *	Disconnected ()
+Jul 03 14:31:31 *	Looking up efnet.port80.se
+Jul 03 14:31:31 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:41 Cycling to next server in EFnet...
+Jul 03 14:31:41 *	Disconnected ()
+Jul 03 14:31:41 *	Looking up irc.underworld.no
+Jul 03 14:31:41 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:51 Cycling to next server in EFnet...
+Jul 03 14:31:51 *	Disconnected ()
+Jul 03 14:31:51 *	Looking up efnet.deic.eu
+Jul 03 14:31:51 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:01 Cycling to next server in EFnet...
+Jul 03 14:32:01 *	Disconnected ()
+Jul 03 14:32:01 *	Looking up 66.225.225.225
+Jul 03 14:32:01 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:32:01 *	Connection failed (Network is unreachable)
+Jul 03 14:32:11 Cycling to next server in EFnet...
+Jul 03 14:32:11 *	Disconnected ()
+Jul 03 14:32:11 *	Looking up irc.choopa.net
+Jul 03 14:32:11 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:21 Cycling to next server in EFnet...
+Jul 03 14:32:21 *	Disconnected ()
+Jul 03 14:32:21 *	Looking up efnet.port80.se
+Jul 03 14:32:21 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:31 Cycling to next server in EFnet...
+Jul 03 14:32:31 *	Disconnected ()
+Jul 03 14:32:31 *	Looking up irc.underworld.no
+Jul 03 14:32:31 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:41 Cycling to next server in EFnet...
+Jul 03 14:32:41 *	Disconnected ()
+Jul 03 14:32:41 *	Looking up efnet.deic.eu
+Jul 03 14:32:41 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:51 Cycling to next server in EFnet...
+Jul 03 14:32:51 *	Disconnected ()
+Jul 03 14:32:51 *	Looking up 66.225.225.225
+Jul 03 14:32:51 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:01 Cycling to next server in EFnet...
+Jul 03 14:33:01 *	Disconnected ()
+Jul 03 14:33:01 *	Looking up irc.choopa.net
+Jul 03 14:33:01 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:11 Cycling to next server in EFnet...
+Jul 03 14:33:11 *	Disconnected ()
+Jul 03 14:33:11 *	Looking up efnet.port80.se
+Jul 03 14:33:11 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:21 Cycling to next server in EFnet...
+Jul 03 14:33:21 *	Disconnected ()
+Jul 03 14:33:21 *	Looking up irc.underworld.no
+Jul 03 14:33:21 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:31 Cycling to next server in EFnet...
+Jul 03 14:33:31 *	Disconnected ()
+Jul 03 14:33:31 *	Looking up efnet.deic.eu
+Jul 03 14:33:31 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:41 Cycling to next server in EFnet...
+Jul 03 14:33:41 *	Disconnected ()
+Jul 03 14:33:41 *	Looking up 66.225.225.225
+Jul 03 14:33:41 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:51 Cycling to next server in EFnet...
+Jul 03 14:33:51 *	Disconnected ()
+Jul 03 14:33:51 *	Looking up irc.choopa.net
+Jul 03 14:33:51 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:34:01 Cycling to next server in EFnet...
+Jul 03 14:34:01 *	Disconnected ()
+Jul 03 14:34:01 *	Looking up efnet.port80.se
+Jul 03 14:34:01 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:34:11 Cycling to next server in EFnet...
+Jul 03 14:34:11 *	Disconnected ()
+Jul 03 14:34:11 *	Looking up irc.underworld.no
+Jul 03 14:34:11 *	Connecting to irc.underworld.no (2001:700:3100:1::babe:6667)
+Jul 03 14:34:15 *	Connected. Now logging in.
+Jul 03 14:34:15 *	*** Processing connection to irc.underworld.no
+Jul 03 14:34:16 *	*** Looking up your hostname...
+Jul 03 14:34:16 *	*** Checking Ident
+Jul 03 14:34:16 *	*** Couldn't look up your hostname
+Jul 03 14:34:30 *	*** No Ident response
+Jul 03 14:34:30 *	Capabilities supported: multi-prefix
+Jul 03 14:34:30 *	Capabilities requested: multi-prefix 
+Jul 03 14:34:32 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Thu Jul  3 14:34:33 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:34:33 2025
+
+Jul 03 14:34:33 *	Welcome to the EFNet Internet Relay Chat Network dug
+Jul 03 14:34:33 *	Your host is irc.underworld.no[2001:700:3100:1::babe/6667], running version ircd-ratbox-3.0.10
+Jul 03 14:34:33 *	This server was created Mon Dec 5 2022 at 21:09:54 CET
+Jul 03 14:34:33 *	irc.underworld.no ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 03 14:34:33 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:40 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFNet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 03 14:34:33 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 03 14:34:33 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 03 14:34:33 *	There are 3575 users and 5846 invisible on 19 servers
+Jul 03 14:34:33 *	80 :IRC Operators online
+Jul 03 14:34:33 *	6123 :channels formed
+Jul 03 14:34:33 *	I have 1681 clients and 1 servers
+Jul 03 14:34:33 *	1681 2364 :Current local users 1681, max 2364
+Jul 03 14:34:33 *	9421 13342 :Current global users 9421, max 13342
+Jul 03 14:34:33 *	Highest connection count: 2365 (2364 clients) (488063 connections received)
+Jul 03 14:34:33 *	- irc.underworld.no Message of the Day - 
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-    I   R   C .  __                                  __     __
+Jul 03 14:34:33 *	- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+Jul 03 14:34:33 *	- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+Jul 03 14:34:33 *	- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+Jul 03 14:34:33 *	-                                                      .  N  O
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  Welcome to irc.underworld.no, operated by Underworld and
+Jul 03 14:34:33 *	-  sponsored by UNINETT, the Norwegian academic research network.
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  This server is open to the world and currently supports:
+Jul 03 14:34:33 *	-  irc.underworld.no - IPv4 - 6665-6669,7000
+Jul 03 14:34:33 *	-  irc.underworld.no - IPv6 - 6667, 7000
+Jul 03 14:34:33 *	-  irc.underworld.no - SSL - 6697, 9999
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  Some simple rules:
+Jul 03 14:34:33 *	-  -> no cloning
+Jul 03 14:34:33 *	-  -> no spam
+Jul 03 14:34:33 *	-  -> no flooding
+Jul 03 14:34:33 *	-  -> dont harass other users
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  We reserve the right to remove your access to this server
+Jul 03 14:34:33 *	-  at any time at our opers discretion.
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  Proxy and drone (ctcp version) scans are issued upon connecting
+Jul 03 14:34:33 *	-  to this server. If you wish not to be scanned, disconnect
+Jul 03 14:34:33 *	-  now and do not use this server. These are not hack attempts!
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  News and discussions about this network can be found at
+Jul 03 14:34:33 *	-  www.efnet.org and #efnet.org
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	-  Thank you for using EFnet, and have a pleasant stay! :-)
+Jul 03 14:34:33 *	-  
+Jul 03 14:34:33 *	End of /MOTD command.
+Jul 03 14:34:33 *	Received a CTCP VERSION from uwdrone
+Jul 03 14:35:28 *	No ping reply for 73 seconds, disconnecting.
+Jul 03 14:35:28 *	Disconnected ()
+Jul 03 14:35:38 *	Looking up irc.underworld.no
+Jul 03 14:35:56 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:36:06 Cycling to next server in EFnet...
+Jul 03 14:36:06 *	Disconnected ()
+Jul 03 14:36:06 *	Looking up efnet.deic.eu
+Jul 03 14:36:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:36:28 Cycling to next server in EFnet...
+Jul 03 14:36:28 *	Disconnected ()
+Jul 03 14:36:28 *	Looking up 66.225.225.225
+Jul 03 14:36:28 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:36:28 *	Connected. Now logging in.
+Jul 03 14:36:28 *	*** Processing connection to irc.deft.com
+Jul 03 14:36:28 *	*** Looking up your hostname...
+Jul 03 14:36:28 *	*** Checking Ident
+Jul 03 14:36:28 *	*** Found your hostname
+Jul 03 14:36:33 *	*** No Ident response
+Jul 03 14:36:33 *	Capabilities supported: multi-prefix
+Jul 03 14:36:33 *	Capabilities requested: multi-prefix 
+Jul 03 14:36:33 *	dug is already in use. Retrying with dug_...
+Jul 03 14:36:33 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Thu Jul  3 14:36:34 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:36:34 2025
+
+Jul 03 14:36:34 *	Welcome to the EFnet Internet Relay Chat Network dug_
+Jul 03 14:36:34 *	Your host is irc.deft.com[66.225.225.225/6667], running version ircd-ratbox-3.0.10
+Jul 03 14:36:34 *	This server was created Fri Jan 26 2024 at 20:04:01 UTC
+Jul 03 14:36:34 *	irc.deft.com ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 03 14:36:34 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:75 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFnet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 03 14:36:34 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 03 14:36:34 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 03 14:36:34 *	There are 3575 users and 5846 invisible on 19 servers
+Jul 03 14:36:34 *	80 :IRC Operators online
+Jul 03 14:36:34 *	6 :unknown connection(s)
+Jul 03 14:36:34 *	6128 :channels formed
+Jul 03 14:36:34 *	I have 966 clients and 2 servers
+Jul 03 14:36:34 *	966 2739 :Current local users 966, max 2739
+Jul 03 14:36:34 *	9421 10148 :Current global users 9421, max 10148
+Jul 03 14:36:34 *	Highest connection count: 2741 (2739 clients) (213126 connections received)
+Jul 03 14:36:34 *	- irc.deft.com Message of the Day - 
+Jul 03 14:36:34 *	- -                                _      __ _   
+Jul 03 14:36:34 *	- -                             __| |___ / _| |_ 
+Jul 03 14:36:34 *	- -                            / _` / -_)  _|  _|
+Jul 03 14:36:34 *	- -                            \__,_\___|_|  \__|
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -          o Listening on ports: 6660 - 6669, 7000, 8080, 31337 o
+Jul 03 14:36:34 *	- -                 o Listening on SSL ports: 6697, 9999 o
+Jul 03 14:36:34 *	- -               o Visit us @ http://www.deft.com o
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -  -------- Server Rules ----------------------------------------------
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -        o No Flooding                         o No DoS bots
+Jul 03 14:36:34 *	- -        o No Clones                           o No Spamming
+Jul 03 14:36:34 *	- -        o No Takeovers                        o No Whiners 
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -  -------- Server Staff ----------------------------------------------
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -     o doug, netmunky, zi, orange1, max, scrim, remorse, fddi
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -  -------- Server Channel --------------------------------------------
+Jul 03 14:36:34 *	- -
+Jul 03 14:36:34 *	- -     o Visit our server's efnet channel:  #deft
+Jul 03 14:36:34 *	- -
+Jul 03 14:36:34 *	- -  -------- Disclaimer ------------------------------------------------
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -     This server, its staff and the people hosting it are *NOT* 
+Jul 03 14:36:34 *	- -     responsible for the content that passes through this server. 
+Jul 03 14:36:34 *	- -     Use of this server is a *privilege* which may be removed at 
+Jul 03 14:36:34 *	- -     any time and for any reason by the friendly server operators.
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	- -  -------- End of MOTD -----------------------------------------------
+Jul 03 14:36:34 *	- -  
+Jul 03 14:36:34 *	End of /MOTD command.
+Jul 03 14:36:34 *	Received a CTCP VERSION from DM
+Jul 03 14:42:58 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:42:58 *	Disconnected ()
+Jul 03 14:43:08 *	Looking up 66.225.225.225
+Jul 03 14:43:08 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:43:11 *	Connection failed (No route to host)
+Jul 03 14:43:21 Cycling to next server in EFnet...
+Jul 03 14:43:21 *	Disconnected ()
+Jul 03 14:43:21 *	Looking up irc.choopa.net
+Jul 03 14:43:36 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:43:46 Cycling to next server in EFnet...
+Jul 03 14:43:46 *	Disconnected ()
+Jul 03 14:43:46 *	Looking up efnet.port80.se
+Jul 03 14:43:47 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:43:57 Cycling to next server in EFnet...
+Jul 03 14:43:57 *	Disconnected ()
+Jul 03 14:43:57 *	Looking up irc.underworld.no
+Jul 03 14:43:57 *	Connecting to irc.underworld.no (2001:700:3100:1::babe:6667)
+Jul 03 14:43:57 *	Connected. Now logging in.
+Jul 03 14:43:58 *	*** Processing connection to irc.underworld.no
+Jul 03 14:43:58 *	*** Looking up your hostname...
+Jul 03 14:43:58 *	*** Checking Ident
+Jul 03 14:43:58 *	*** Couldn't look up your hostname
+Jul 03 14:44:13 *	*** No Ident response
+Jul 03 14:44:13 *	Capabilities supported: multi-prefix
+Jul 03 14:44:13 *	Capabilities requested: multi-prefix 
+Jul 03 14:44:13 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Thu Jul  3 14:44:13 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:44:13 2025
+
+Jul 03 14:44:13 *	Welcome to the EFNet Internet Relay Chat Network dug
+Jul 03 14:44:13 *	Your host is irc.underworld.no[2001:700:3100:1::babe/6667], running version ircd-ratbox-3.0.10
+Jul 03 14:44:13 *	This server was created Mon Dec 5 2022 at 21:09:54 CET
+Jul 03 14:44:13 *	irc.underworld.no ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 03 14:44:13 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:40 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFNet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 03 14:44:13 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 03 14:44:13 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 03 14:44:13 *	There are 3576 users and 5845 invisible on 19 servers
+Jul 03 14:44:13 *	80 :IRC Operators online
+Jul 03 14:44:13 *	6124 :channels formed
+Jul 03 14:44:13 *	I have 1679 clients and 1 servers
+Jul 03 14:44:13 *	1679 2364 :Current local users 1679, max 2364
+Jul 03 14:44:13 *	9421 13342 :Current global users 9421, max 13342
+Jul 03 14:44:13 *	Highest connection count: 2365 (2364 clients) (488065 connections received)
+Jul 03 14:44:13 *	- irc.underworld.no Message of the Day - 
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-    I   R   C .  __                                  __     __
+Jul 03 14:44:13 *	- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+Jul 03 14:44:13 *	- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+Jul 03 14:44:13 *	- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+Jul 03 14:44:13 *	-                                                      .  N  O
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  Welcome to irc.underworld.no, operated by Underworld and
+Jul 03 14:44:13 *	-  sponsored by UNINETT, the Norwegian academic research network.
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  This server is open to the world and currently supports:
+Jul 03 14:44:13 *	-  irc.underworld.no - IPv4 - 6665-6669,7000
+Jul 03 14:44:13 *	-  irc.underworld.no - IPv6 - 6667, 7000
+Jul 03 14:44:13 *	-  irc.underworld.no - SSL - 6697, 9999
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  Some simple rules:
+Jul 03 14:44:13 *	-  -> no cloning
+Jul 03 14:44:13 *	-  -> no spam
+Jul 03 14:44:13 *	-  -> no flooding
+Jul 03 14:44:13 *	-  -> dont harass other users
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  We reserve the right to remove your access to this server
+Jul 03 14:44:13 *	-  at any time at our opers discretion.
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  Proxy and drone (ctcp version) scans are issued upon connecting
+Jul 03 14:44:13 *	-  to this server. If you wish not to be scanned, disconnect
+Jul 03 14:44:13 *	-  now and do not use this server. These are not hack attempts!
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  News and discussions about this network can be found at
+Jul 03 14:44:13 *	-  www.efnet.org and #efnet.org
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	-  Thank you for using EFnet, and have a pleasant stay! :-)
+Jul 03 14:44:13 *	-  
+Jul 03 14:44:13 *	End of /MOTD command.
+Jul 03 14:44:13 *	Received a CTCP VERSION from uwdrone
+Jul 03 15:32:28 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 15:32:28 *	Disconnected ()
+Jul 03 15:32:38 *	Looking up irc.underworld.no
+Jul 03 15:32:38 *	Connecting to irc.underworld.no (2001:700:3100:1::babe:6667)
+Jul 03 15:32:38 *	Connected. Now logging in.
+Jul 03 15:32:39 *	*** Processing connection to irc.underworld.no
+Jul 03 15:32:39 *	*** Looking up your hostname...
+Jul 03 15:32:39 *	*** Checking Ident
+Jul 03 15:32:39 *	*** Couldn't look up your hostname
+Jul 03 15:32:54 *	*** No Ident response
+Jul 03 15:32:54 *	Capabilities supported: multi-prefix
+Jul 03 15:32:54 *	Capabilities requested: multi-prefix 
+Jul 03 15:32:54 *	dug is already in use. Retrying with dug_...
+Jul 03 15:32:54 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Thu Jul  3 15:32:55 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 15:32:55 2025
+
+Jul 03 15:32:55 *	Welcome to the EFNet Internet Relay Chat Network dug_
+Jul 03 15:32:55 *	Your host is irc.underworld.no[2001:700:3100:1::babe/6667], running version ircd-ratbox-3.0.10
+Jul 03 15:32:55 *	This server was created Mon Dec 5 2022 at 21:09:54 CET
+Jul 03 15:32:55 *	irc.underworld.no ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 03 15:32:55 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:40 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFNet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 03 15:32:55 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 03 15:32:55 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 03 15:32:55 *	There are 3566 users and 5843 invisible on 19 servers
+Jul 03 15:32:55 *	80 :IRC Operators online
+Jul 03 15:32:55 *	6101 :channels formed
+Jul 03 15:32:55 *	I have 1677 clients and 1 servers
+Jul 03 15:32:55 *	1677 2364 :Current local users 1677, max 2364
+Jul 03 15:32:55 *	9409 13342 :Current global users 9409, max 13342
+Jul 03 15:32:55 *	Highest connection count: 2365 (2364 clients) (488080 connections received)
+Jul 03 15:32:55 *	- irc.underworld.no Message of the Day - 
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-    I   R   C .  __                                  __     __
+Jul 03 15:32:55 *	- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+Jul 03 15:32:55 *	- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+Jul 03 15:32:55 *	- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+Jul 03 15:32:55 *	-                                                      .  N  O
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  Welcome to irc.underworld.no, operated by Underworld and
+Jul 03 15:32:55 *	-  sponsored by UNINETT, the Norwegian academic research network.
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  This server is open to the world and currently supports:
+Jul 03 15:32:55 *	-  irc.underworld.no - IPv4 - 6665-6669,7000
+Jul 03 15:32:55 *	-  irc.underworld.no - IPv6 - 6667, 7000
+Jul 03 15:32:55 *	-  irc.underworld.no - SSL - 6697, 9999
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  Some simple rules:
+Jul 03 15:32:55 *	-  -> no cloning
+Jul 03 15:32:55 *	-  -> no spam
+Jul 03 15:32:55 *	-  -> no flooding
+Jul 03 15:32:55 *	-  -> dont harass other users
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  We reserve the right to remove your access to this server
+Jul 03 15:32:55 *	-  at any time at our opers discretion.
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  Proxy and drone (ctcp version) scans are issued upon connecting
+Jul 03 15:32:55 *	-  to this server. If you wish not to be scanned, disconnect
+Jul 03 15:32:55 *	-  now and do not use this server. These are not hack attempts!
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  News and discussions about this network can be found at
+Jul 03 15:32:55 *	-  www.efnet.org and #efnet.org
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	-  Thank you for using EFnet, and have a pleasant stay! :-)
+Jul 03 15:32:55 *	-  
+Jul 03 15:32:55 *	End of /MOTD command.
+Jul 03 15:32:55 *	Received a CTCP VERSION from uwdrone
+Jul 03 17:42:28 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 17:42:28 *	Disconnected ()
+Jul 03 17:42:38 *	Looking up irc.underworld.no
+Jul 03 17:42:38 *	Connecting to irc.underworld.no (2001:700:3100:1::babe:6667)
+Jul 03 17:42:41 *	Connected. Now logging in.
+Jul 03 17:42:41 *	*** Processing connection to irc.underworld.no
+Jul 03 17:42:41 *	*** Looking up your hostname...
+Jul 03 17:42:41 *	*** Checking Ident
+Jul 03 17:42:42 *	*** Found your hostname
+Jul 03 17:42:54 *	*** No Ident response
+Jul 03 17:42:54 *	Capabilities supported: multi-prefix
+Jul 03 17:42:54 *	Capabilities requested: multi-prefix 
+Jul 03 17:42:54 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Thu Jul  3 17:42:54 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 17:42:54 2025
+
+Jul 03 17:42:54 *	Welcome to the EFNet Internet Relay Chat Network dug_
+Jul 03 17:42:54 *	Your host is irc.underworld.no[128.39.65.230/6667], running version ircd-ratbox-3.0.10
+Jul 03 17:42:54 *	This server was created Mon Dec 5 2022 at 21:09:54 CET
+Jul 03 17:42:54 *	irc.underworld.no ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 03 17:42:54 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:40 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFNet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 03 17:42:54 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 03 17:42:54 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 03 17:42:54 *	There are 3551 users and 5834 invisible on 19 servers
+Jul 03 17:42:54 *	80 :IRC Operators online
+Jul 03 17:42:54 *	1 :unknown connection(s)
+Jul 03 17:42:54 *	6109 :channels formed
+Jul 03 17:42:54 *	I have 1677 clients and 1 servers
+Jul 03 17:42:54 *	1677 2364 :Current local users 1677, max 2364
+Jul 03 17:42:54 *	9385 13342 :Current global users 9385, max 13342
+Jul 03 17:42:54 *	Highest connection count: 2365 (2364 clients) (488112 connections received)
+Jul 03 17:42:54 *	- irc.underworld.no Message of the Day - 
+Jul 03 17:42:54 *	-  
+Jul 03 17:42:54 *	-    I   R   C .  __                                  __     __
+Jul 03 17:42:54 *	- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+Jul 03 17:42:54 *	- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+Jul 03 17:42:54 *	- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+Jul 03 17:42:54 *	-                                                      .  N  O
+Jul 03 17:42:54 *	-  
+Jul 03 17:42:54 *	-  Welcome to irc.underworld.no, operated by Underworld and
+Jul 03 17:42:54 *	-  sponsored by UNINETT, the Norwegian academic research network.
+Jul 03 17:42:54 *	-  
+Jul 03 17:42:54 *	-  This server is open to the world and currently supports:
+Jul 03 17:42:54 *	-  irc.underworld.no - IPv4 - 6665-6669,7000
+Jul 03 17:42:54 *	-  irc.underworld.no - IPv6 - 6667, 7000
+Jul 03 17:42:54 *	-  irc.underworld.no - SSL - 6697, 9999
+Jul 03 17:42:54 *	-  
+Jul 03 17:42:54 *	-  Some simple rules:
+Jul 03 17:42:54 *	-  -> no cloning
+Jul 03 17:42:54 *	-  -> no spam
+Jul 03 17:42:54 *	-  -> no flooding
+Jul 03 17:42:55 *	-  -> dont harass other users
+Jul 03 17:42:55 *	-  
+Jul 03 17:42:55 *	-  We reserve the right to remove your access to this server
+Jul 03 17:42:55 *	-  at any time at our opers discretion.
+Jul 03 17:42:55 *	-  
+Jul 03 17:42:55 *	-  Proxy and drone (ctcp version) scans are issued upon connecting
+Jul 03 17:42:55 *	-  to this server. If you wish not to be scanned, disconnect
+Jul 03 17:42:55 *	-  now and do not use this server. These are not hack attempts!
+Jul 03 17:42:55 *	-  
+Jul 03 17:42:55 *	-  News and discussions about this network can be found at
+Jul 03 17:42:55 *	-  www.efnet.org and #efnet.org
+Jul 03 17:42:55 *	-  
+Jul 03 17:42:55 *	-  Thank you for using EFnet, and have a pleasant stay! :-)
+Jul 03 17:42:55 *	-  
+Jul 03 17:42:55 *	End of /MOTD command.
+Jul 03 17:42:55 *	Received a CTCP VERSION from uwdrone
+Jul 04 16:29:33 *	No ping reply for 155 seconds, disconnecting.
+Jul 04 16:29:33 *	Disconnected ()
+Jul 04 16:29:43 *	Looking up irc.underworld.no
+Jul 04 16:29:44 *	Connecting to irc.underworld.no (2001:700:3100:1::babe:6667)
+Jul 04 16:29:44 *	Connected. Now logging in.
+Jul 04 16:29:44 *	*** Processing connection to irc.underworld.no
+Jul 04 16:29:44 *	*** Looking up your hostname...
+Jul 04 16:29:44 *	*** Checking Ident
+Jul 04 16:29:45 *	*** Couldn't look up your hostname
+Jul 04 16:30:01 *	*** No Ident response
+Jul 04 16:30:01 *	Capabilities supported: multi-prefix
+Jul 04 16:30:01 *	Capabilities requested: multi-prefix 
+Jul 04 16:30:04 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Fri Jul  4 16:30:04 2025
+
+**** BEGIN LOGGING AT Fri Jul  4 16:30:04 2025
+
+Jul 04 16:30:04 *	Welcome to the EFNet Internet Relay Chat Network dug_
+Jul 04 16:30:04 *	Your host is irc.underworld.no[2001:700:3100:1::babe/6667], running version ircd-ratbox-3.0.10
+Jul 04 16:30:04 *	This server was created Mon Dec 5 2022 at 21:09:54 CET
+Jul 04 16:30:04 *	irc.underworld.no ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 04 16:30:04 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:40 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFNet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 04 16:30:04 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 04 16:30:04 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 04 16:30:04 *	There are 3561 users and 5875 invisible on 19 servers
+Jul 04 16:30:04 *	81 :IRC Operators online
+Jul 04 16:30:04 *	1 :unknown connection(s)
+Jul 04 16:30:04 *	6107 :channels formed
+Jul 04 16:30:04 *	I have 1675 clients and 1 servers
+Jul 04 16:30:04 *	1675 2364 :Current local users 1675, max 2364
+Jul 04 16:30:04 *	9436 13342 :Current global users 9436, max 13342
+Jul 04 16:30:04 *	Highest connection count: 2365 (2364 clients) (488384 connections received)
+Jul 04 16:30:04 *	- irc.underworld.no Message of the Day - 
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-    I   R   C .  __                                  __     __
+Jul 04 16:30:04 *	- .--.--.-----.--|  |.-----.----.--.--.--.-----.----.|  |.--|  |
+Jul 04 16:30:04 *	- |  |  |     |  _  ||  -__|   _|  |  |  |  _  |   _||  ||  _  |
+Jul 04 16:30:04 *	- |_____|__|__|_____||_____|__| |________|_____|__|  |__||_____|
+Jul 04 16:30:04 *	-                                                      .  N  O
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  Welcome to irc.underworld.no, operated by Underworld and
+Jul 04 16:30:04 *	-  sponsored by UNINETT, the Norwegian academic research network.
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  This server is open to the world and currently supports:
+Jul 04 16:30:04 *	-  irc.underworld.no - IPv4 - 6665-6669,7000
+Jul 04 16:30:04 *	-  irc.underworld.no - IPv6 - 6667, 7000
+Jul 04 16:30:04 *	-  irc.underworld.no - SSL - 6697, 9999
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  Some simple rules:
+Jul 04 16:30:04 *	-  -> no cloning
+Jul 04 16:30:04 *	-  -> no spam
+Jul 04 16:30:04 *	-  -> no flooding
+Jul 04 16:30:04 *	-  -> dont harass other users
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  We reserve the right to remove your access to this server
+Jul 04 16:30:04 *	-  at any time at our opers discretion.
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  Proxy and drone (ctcp version) scans are issued upon connecting
+Jul 04 16:30:04 *	-  to this server. If you wish not to be scanned, disconnect
+Jul 04 16:30:04 *	-  now and do not use this server. These are not hack attempts!
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  News and discussions about this network can be found at
+Jul 04 16:30:04 *	-  www.efnet.org and #efnet.org
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	-  Thank you for using EFnet, and have a pleasant stay! :-)
+Jul 04 16:30:04 *	-  
+Jul 04 16:30:04 *	End of /MOTD command.
+Jul 04 16:30:04 *	Received a CTCP VERSION from uwdrone
+**** BEGIN LOGGING AT Sun Jul  6 17:07:52 2025
+
+Jul 06 17:07:52 *	Welcome to the EFnet Internet Relay Chat Network dug
+Jul 06 17:07:52 *	Your host is irc.deft.com[66.225.225.225/6667], running version ircd-ratbox-3.0.10
+Jul 06 17:07:52 *	This server was created Fri Jan 26 2024 at 20:04:01 UTC
+Jul 06 17:07:52 *	irc.deft.com ircd-ratbox-3.0.10 oiwszcrkfydnxbauglZCD biklmnopstveIrS bkloveI
+Jul 06 17:07:52 *	CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpstS CHANLIMIT=&#:75 PREFIX=(ov)@+ MAXLIST=beI:100 MODES=4 NETWORK=EFnet KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+Jul 06 17:07:52 *	SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+Jul 06 17:07:52 *	FNC ACCEPT=20 MAP TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+Jul 06 17:07:52 *	There are 3553 users and 5871 invisible on 19 servers
+Jul 06 17:07:52 *	80 :IRC Operators online
+Jul 06 17:07:52 *	4 :unknown connection(s)
+Jul 06 17:07:52 *	6107 :channels formed
+Jul 06 17:07:52 *	I have 974 clients and 2 servers
+Jul 06 17:07:52 *	974 2739 :Current local users 974, max 2739
+Jul 06 17:07:52 *	9424 10148 :Current global users 9424, max 10148
+Jul 06 17:07:52 *	Highest connection count: 2741 (2739 clients) (214288 connections received)
+Jul 06 17:07:52 *	- irc.deft.com Message of the Day - 
+Jul 06 17:07:52 *	- -                                _      __ _   
+Jul 06 17:07:52 *	- -                             __| |___ / _| |_ 
+Jul 06 17:07:52 *	- -                            / _` / -_)  _|  _|
+Jul 06 17:07:52 *	- -                            \__,_\___|_|  \__|
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -          o Listening on ports: 6660 - 6669, 7000, 8080, 31337 o
+Jul 06 17:07:52 *	- -                 o Listening on SSL ports: 6697, 9999 o
+Jul 06 17:07:52 *	- -               o Visit us @ http://www.deft.com o
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -  -------- Server Rules ----------------------------------------------
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -        o No Flooding                         o No DoS bots
+Jul 06 17:07:52 *	- -        o No Clones                           o No Spamming
+Jul 06 17:07:52 *	- -        o No Takeovers                        o No Whiners 
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -  -------- Server Staff ----------------------------------------------
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -     o doug, netmunky, zi, orange1, max, scrim, remorse, fddi
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -  -------- Server Channel --------------------------------------------
+Jul 06 17:07:52 *	- -
+Jul 06 17:07:52 *	- -     o Visit our server's efnet channel:  #deft
+Jul 06 17:07:52 *	- -
+Jul 06 17:07:52 *	- -  -------- Disclaimer ------------------------------------------------
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -     This server, its staff and the people hosting it are *NOT* 
+Jul 06 17:07:52 *	- -     responsible for the content that passes through this server. 
+Jul 06 17:07:52 *	- -     Use of this server is a *privilege* which may be removed at 
+Jul 06 17:07:52 *	- -     any time and for any reason by the friendly server operators.
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	- -  -------- End of MOTD -----------------------------------------------
+Jul 06 17:07:52 *	- -  
+Jul 06 17:07:52 *	End of /MOTD command.
+Jul 06 17:07:52 *	Received a CTCP VERSION from DM
+Jul 06 17:07:58 *	Cannot join #LRH (You are banned).
+Jul 06 17:08:10 *	nickserv :Unknown command
+Jul 06 17:08:26 >stratum<	can i be unbanned from LRH?
+Jul 06 19:50:18 >L0j1k<	can i be unbanned from LRH?
+Jul 06 19:50:37 *	Cannot join #LRH (You are banned).
+Jul 06 19:54:23 *	nickserv :Unknown command
+Jul 06 19:54:40 *	nickserv :Unknown command
+Jul 06 19:54:57 >nickserve<	ident dugdug
+Jul 06 19:54:57 *	nickserve :No such nick/channel
+Jul 06 19:55:05 >nickserve<	identify dugdug
+Jul 06 19:55:05 *	nickserve :No such nick/channel
+Jul 06 19:55:13 >nickserv<	identify ****
+**** ENDING LOGGING AT Sun Jul  6 20:53:39 2025
+

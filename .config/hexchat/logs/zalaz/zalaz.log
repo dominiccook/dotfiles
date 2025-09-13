@@ -1,0 +1,260 @@
+**** BEGIN LOGGING AT Sat Jun 28 11:05:05 2025
+
+Jun 28 11:05:05 *	*** Looking up your hostname...
+Jun 28 11:05:09 *	*** Could not resolve your hostname: Request timed out; using your IP address (76.32.217.173) instead.
+**** ENDING LOGGING AT Sat Jun 28 11:05:09 2025
+
+**** BEGIN LOGGING AT Sat Jun 28 11:05:09 2025
+
+Jun 28 11:05:09 *	Welcome to the chat.zalazalaza.xyz IRC Network dug!dug___@76.32.217.173
+Jun 28 11:05:09 *	Your host is chat.zalazalaza.xyz, running version InspIRCd-3
+Jun 28 11:05:09 *	This server was created 09:18:27 Sep 17 2024
+Jun 28 11:05:09 *	chat.zalazalaza.xyz InspIRCd-3 IRiorsw MRbiklmnoprstv :bklov
+Jun 28 11:05:09 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=b,k,l,MRimnprst CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU EXTBAN=,RU HOSTLEN=64 KEYLEN=32 KICKLEN=255 LINELEN=512 :are supported by this server
+Jun 28 11:05:09 *	MAXLIST=b:100 MAXTARGETS=20 MODES=20 NAMELEN=128 NETWORK=chat.zalazalaza.xyz NICKLEN=30 PREFIX=(ov)@+ SAFELIST STATUSMSG=@+ TOPICLEN=307 USERLEN=10 USERMODES=,,s,IRiorw WHOX :are supported by this server
+Jun 28 11:05:09 *	There are 13 users and 2 invisible on 2 servers
+Jun 28 11:05:09 *	1 :operator(s) online
+Jun 28 11:05:09 *	1 :unknown connections
+Jun 28 11:05:09 *	10 :channels formed
+Jun 28 11:05:09 *	I have 15 clients and 1 servers
+Jun 28 11:05:09 *	Current local users: 15  Max: 21
+Jun 28 11:05:09 *	Current global users: 15  Max: 21
+Jun 28 11:05:09 *	chat.zalazalaza.xyz message of the day
+Jun 28 11:05:09 *	                          .-=-.
+Jun 28 11:05:09 *	                         /  ! )\
+Jun 28 11:05:09 *	                      __ \__/__/
+Jun 28 11:05:09 *	                     / _<( ^.^ )
+Jun 28 11:05:09 *	                    / /   \ c /O
+Jun 28 11:05:09 *	                    \ \_.-./=\.-._     _
+Jun 28 11:05:09 *	                     `-._  `~`    `-,./_<
+Jun 28 11:05:09 *	                         `\' \'\`'----'
+Jun 28 11:05:09 *	                       *   \  . \          *
+Jun 28 11:05:09 *	                            `-~~~\   .
+Jun 28 11:05:09 *	                       .      `-._`-._   *
+Jun 28 11:05:09 *	                             *    `~~~-,      *
+Jun 28 11:05:09 *	                   ()                   * )
+Jun 28 11:05:09 *	                  <^^>             *     (   .
+Jun 28 11:05:09 *	                 .-""-.                    )
+Jun 28 11:05:09 *	      .---.    ."-....-"-._     _...---''`/. '
+Jun 28 11:05:09 *	     ( (`\ \ .'  !!!!!!!!! ``-''    _.-"'`
+Jun 28 11:05:09 *	      \ \ \ : :. !!ZALAZ!!      .-'
+Jun 28 11:05:09 *	       `\`.\: `:.¡¡HAUS¡¡¡    _.'
+Jun 28 11:05:09 *	       (  .'`.`  ¡¡¡¡¡¡¡¡¡ _.'
+Jun 28 11:05:09 *	        ``    `-..______.-'
+Jun 28 11:05:09 *	                  ):.  (
+Jun 28 11:05:09 *	                ."-....-".
+Jun 28 11:05:09 *	              .':.        `.
+Jun 28 11:05:09 *	              "-..______..-"
+Jun 28 11:05:09 *	 
+Jun 28 11:05:09 *	End of message of the day.
+Jun 28 11:05:09 *	x :is not a recognised user mode.
+Jun 28 11:39:12 *	No ping reply for 90 seconds, disconnecting.
+Jun 28 11:39:12 *	Disconnected ()
+**** BEGIN LOGGING AT Sat Jun 28 11:39:59 2025
+
+Jun 28 11:39:59 *	Welcome to the chat.zalazalaza.xyz IRC Network dug_!dug___@76.32.217.173
+Jun 28 11:39:59 *	Your host is chat.zalazalaza.xyz, running version InspIRCd-3
+Jun 28 11:39:59 *	This server was created 09:18:27 Sep 17 2024
+Jun 28 11:39:59 *	chat.zalazalaza.xyz InspIRCd-3 IRiorsw MRbiklmnoprstv :bklov
+Jun 28 11:39:59 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=b,k,l,MRimnprst CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU EXTBAN=,RU HOSTLEN=64 KEYLEN=32 KICKLEN=255 LINELEN=512 :are supported by this server
+Jun 28 11:39:59 *	MAXLIST=b:100 MAXTARGETS=20 MODES=20 NAMELEN=128 NETWORK=chat.zalazalaza.xyz NICKLEN=30 PREFIX=(ov)@+ SAFELIST STATUSMSG=@+ TOPICLEN=307 USERLEN=10 USERMODES=,,s,IRiorw WHOX :are supported by this server
+Jun 28 11:39:59 *	There are 16 users and 3 invisible on 2 servers
+Jun 28 11:39:59 *	1 :operator(s) online
+Jun 28 11:39:59 *	1 :unknown connections
+Jun 28 11:39:59 *	11 :channels formed
+Jun 28 11:39:59 *	I have 19 clients and 1 servers
+Jun 28 11:39:59 *	Current local users: 19  Max: 21
+Jun 28 11:39:59 *	Current global users: 19  Max: 21
+Jun 28 11:39:59 *	chat.zalazalaza.xyz message of the day
+Jun 28 11:39:59 *	                          .-=-.
+Jun 28 11:39:59 *	                         /  ! )\
+Jun 28 11:39:59 *	                      __ \__/__/
+Jun 28 11:39:59 *	                     / _<( ^.^ )
+Jun 28 11:39:59 *	                    / /   \ c /O
+Jun 28 11:39:59 *	                    \ \_.-./=\.-._     _
+Jun 28 11:39:59 *	                     `-._  `~`    `-,./_<
+Jun 28 11:39:59 *	                         `\' \'\`'----'
+Jun 28 11:39:59 *	                       *   \  . \          *
+Jun 28 11:39:59 *	                            `-~~~\   .
+Jun 28 11:39:59 *	                       .      `-._`-._   *
+Jun 28 11:39:59 *	                             *    `~~~-,      *
+Jun 28 11:39:59 *	                   ()                   * )
+Jun 28 11:39:59 *	                  <^^>             *     (   .
+Jun 28 11:39:59 *	                 .-""-.                    )
+Jun 28 11:39:59 *	      .---.    ."-....-"-._     _...---''`/. '
+Jun 28 11:39:59 *	     ( (`\ \ .'  !!!!!!!!! ``-''    _.-"'`
+Jun 28 11:39:59 *	      \ \ \ : :. !!ZALAZ!!      .-'
+Jun 28 11:39:59 *	       `\`.\: `:.¡¡HAUS¡¡¡    _.'
+Jun 28 11:39:59 *	       (  .'`.`  ¡¡¡¡¡¡¡¡¡ _.'
+Jun 28 11:39:59 *	        ``    `-..______.-'
+Jun 28 11:39:59 *	                  ):.  (
+Jun 28 11:39:59 *	                ."-....-".
+Jun 28 11:39:59 *	              .':.        `.
+Jun 28 11:39:59 *	              "-..______..-"
+Jun 28 11:39:59 *	 
+Jun 28 11:39:59 *	End of message of the day.
+Jun 28 11:39:59 *	x :is not a recognised user mode.
+Jun 28 11:51:12 *	No ping reply for 89 seconds, disconnecting.
+Jun 28 11:51:12 *	Disconnected ()
+Jun 28 11:51:22 *	Looking up chat.zalazalaza.xyz
+Jun 28 11:51:28 *	Unknown host. Maybe you misspelled it?
+Jun 28 11:51:38 Cycling to next server in zalaz...
+Jun 28 11:51:38 *	Disconnected ()
+Jun 28 11:51:38 *	Looking up chat.zalazalaza.xyz
+Jun 28 11:51:45 *	Unknown host. Maybe you misspelled it?
+Jun 28 11:51:55 Cycling to next server in zalaz...
+Jun 28 11:51:55 *	Disconnected ()
+Jun 28 11:51:55 *	Looking up chat.zalazalaza.xyz
+Jun 28 11:51:55 *	Connecting to chat.zalazalaza.xyz (104.237.146.243:6667)
+Jun 28 11:51:55 *	Connected. Now logging in.
+Jun 28 11:51:55 *	*** Looking up your hostname...
+Jun 28 11:52:00 *	*** Could not resolve your hostname: Request timed out; using your IP address (23.240.201.77) instead.
+**** ENDING LOGGING AT Sat Jun 28 11:52:00 2025
+
+**** BEGIN LOGGING AT Sat Jun 28 11:52:00 2025
+
+Jun 28 11:52:00 *	Welcome to the chat.zalazalaza.xyz IRC Network dug!dug___@23.240.201.77
+Jun 28 11:52:00 *	Your host is chat.zalazalaza.xyz, running version InspIRCd-3
+Jun 28 11:52:00 *	This server was created 09:18:27 Sep 17 2024
+Jun 28 11:52:00 *	chat.zalazalaza.xyz InspIRCd-3 IRiorsw MRbiklmnoprstv :bklov
+Jun 28 11:52:00 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=b,k,l,MRimnprst CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU EXTBAN=,RU HOSTLEN=64 KEYLEN=32 KICKLEN=255 LINELEN=512 :are supported by this server
+Jun 28 11:52:00 *	MAXLIST=b:100 MAXTARGETS=20 MODES=20 NAMELEN=128 NETWORK=chat.zalazalaza.xyz NICKLEN=30 PREFIX=(ov)@+ SAFELIST STATUSMSG=@+ TOPICLEN=307 USERLEN=10 USERMODES=,,s,IRiorw WHOX :are supported by this server
+Jun 28 11:52:00 *	There are 15 users and 3 invisible on 2 servers
+Jun 28 11:52:00 *	1 :operator(s) online
+Jun 28 11:52:00 *	1 :unknown connections
+Jun 28 11:52:00 *	11 :channels formed
+Jun 28 11:52:00 *	I have 18 clients and 1 servers
+Jun 28 11:52:00 *	Current local users: 18  Max: 21
+Jun 28 11:52:00 *	Current global users: 18  Max: 21
+Jun 28 11:52:00 *	chat.zalazalaza.xyz message of the day
+Jun 28 11:52:00 *	                          .-=-.
+Jun 28 11:52:00 *	                         /  ! )\
+Jun 28 11:52:00 *	                      __ \__/__/
+Jun 28 11:52:00 *	                     / _<( ^.^ )
+Jun 28 11:52:00 *	                    / /   \ c /O
+Jun 28 11:52:00 *	                    \ \_.-./=\.-._     _
+Jun 28 11:52:00 *	                     `-._  `~`    `-,./_<
+Jun 28 11:52:00 *	                         `\' \'\`'----'
+Jun 28 11:52:00 *	                       *   \  . \          *
+Jun 28 11:52:00 *	                            `-~~~\   .
+Jun 28 11:52:00 *	                       .      `-._`-._   *
+Jun 28 11:52:00 *	                             *    `~~~-,      *
+Jun 28 11:52:00 *	                   ()                   * )
+Jun 28 11:52:00 *	                  <^^>             *     (   .
+Jun 28 11:52:00 *	                 .-""-.                    )
+Jun 28 11:52:00 *	      .---.    ."-....-"-._     _...---''`/. '
+Jun 28 11:52:00 *	     ( (`\ \ .'  !!!!!!!!! ``-''    _.-"'`
+Jun 28 11:52:00 *	      \ \ \ : :. !!ZALAZ!!      .-'
+Jun 28 11:52:00 *	       `\`.\: `:.¡¡HAUS¡¡¡    _.'
+Jun 28 11:52:00 *	       (  .'`.`  ¡¡¡¡¡¡¡¡¡ _.'
+Jun 28 11:52:00 *	        ``    `-..______.-'
+Jun 28 11:52:00 *	                  ):.  (
+Jun 28 11:52:00 *	                ."-....-".
+Jun 28 11:52:00 *	              .':.        `.
+Jun 28 11:52:00 *	              "-..______..-"
+Jun 28 11:52:00 *	 
+Jun 28 11:52:00 *	End of message of the day.
+Jun 28 11:52:00 *	x :is not a recognised user mode.
+Jul 01 23:00:32 *	No ping reply for 133610 seconds, disconnecting.
+Jul 01 23:00:32 *	Disconnected ()
+Jul 01 23:00:42 *	Looking up chat.zalazalaza.xyz
+Jul 01 23:00:42 *	Connecting to chat.zalazalaza.xyz (104.237.146.243:6667)
+Jul 01 23:00:42 *	Connected. Now logging in.
+Jul 01 23:00:43 *	*** Looking up your hostname...
+Jul 01 23:00:48 *	*** Could not resolve your hostname: Request timed out; using your IP address (23.240.201.77) instead.
+Jul 01 23:00:48 *	Welcome to the chat.zalazalaza.xyz IRC Network dug!dug___@23.240.201.77
+Jul 01 23:00:48 *	Your host is chat.zalazalaza.xyz, running version InspIRCd-3
+Jul 01 23:00:48 *	This server was created 09:18:27 Sep 17 2024
+Jul 01 23:00:48 *	chat.zalazalaza.xyz InspIRCd-3 IRiorsw MRbiklmnoprstv :bklov
+Jul 01 23:00:48 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=b,k,l,MRimnprst CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU EXTBAN=,RU HOSTLEN=64 KEYLEN=32 KICKLEN=255 LINELEN=512 :are supported by this server
+Jul 01 23:00:48 *	MAXLIST=b:100 MAXTARGETS=20 MODES=20 NAMELEN=128 NETWORK=chat.zalazalaza.xyz NICKLEN=30 PREFIX=(ov)@+ SAFELIST STATUSMSG=@+ TOPICLEN=307 USERLEN=10 USERMODES=,,s,IRiorw WHOX :are supported by this server
+Jul 01 23:00:48 *	There are 10 users and 2 invisible on 2 servers
+Jul 01 23:00:48 *	1 :operator(s) online
+Jul 01 23:00:48 *	1 :unknown connections
+Jul 01 23:00:48 *	11 :channels formed
+Jul 01 23:00:48 *	I have 12 clients and 1 servers
+Jul 01 23:00:48 *	Current local users: 12  Max: 21
+Jul 01 23:00:48 *	Current global users: 12  Max: 21
+Jul 01 23:00:48 *	chat.zalazalaza.xyz message of the day
+Jul 01 23:00:48 *	                          .-=-.
+Jul 01 23:00:48 *	                         /  ! )\
+Jul 01 23:00:48 *	                      __ \__/__/
+Jul 01 23:00:48 *	                     / _<( ^.^ )
+Jul 01 23:00:48 *	                    / /   \ c /O
+Jul 01 23:00:48 *	                    \ \_.-./=\.-._     _
+Jul 01 23:00:48 *	                     `-._  `~`    `-,./_<
+Jul 01 23:00:48 *	                         `\' \'\`'----'
+Jul 01 23:00:48 *	                       *   \  . \          *
+Jul 01 23:00:48 *	                            `-~~~\   .
+Jul 01 23:00:48 *	                       .      `-._`-._   *
+Jul 01 23:00:48 *	                             *    `~~~-,      *
+Jul 01 23:00:48 *	                   ()                   * )
+Jul 01 23:00:48 *	                  <^^>             *     (   .
+Jul 01 23:00:48 *	                 .-""-.                    )
+Jul 01 23:00:48 *	      .---.    ."-....-"-._     _...---''`/. '
+Jul 01 23:00:48 *	     ( (`\ \ .'  !!!!!!!!! ``-''    _.-"'`
+Jul 01 23:00:48 *	      \ \ \ : :. !!ZALAZ!!      .-'
+Jul 01 23:00:48 *	       `\`.\: `:.¡¡HAUS¡¡¡    _.'
+Jul 01 23:00:48 *	       (  .'`.`  ¡¡¡¡¡¡¡¡¡ _.'
+Jul 01 23:00:48 *	        ``    `-..______.-'
+Jul 01 23:00:48 *	                  ):.  (
+Jul 01 23:00:48 *	                ."-....-".
+Jul 01 23:00:48 *	              .':.        `.
+Jul 01 23:00:48 *	              "-..______..-"
+Jul 01 23:00:48 *	 
+Jul 01 23:00:48 *	End of message of the day.
+Jul 01 23:00:48 *	x :is not a recognised user mode.
+Jul 01 23:02:06 Checksum plugin unloaded
+Jul 01 23:02:06 Perl interface unloaded
+Jul 01 23:02:06 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Tue Jul  1 23:02:06 2025
+
+**** BEGIN LOGGING AT Sat Jul  5 11:04:45 2025
+
+Jul 05 11:04:45 *	Welcome to the chat.zalazalaza.xyz IRC Network dug!dug___@23.240.201.77
+Jul 05 11:04:45 *	Your host is chat.zalazalaza.xyz, running version InspIRCd-3
+Jul 05 11:04:45 *	This server was created 09:18:27 Sep 17 2024
+Jul 05 11:04:45 *	chat.zalazalaza.xyz InspIRCd-3 IRiorsw MRbiklmnoprstv :bklov
+Jul 05 11:04:45 *	AWAYLEN=200 CASEMAPPING=rfc1459 CHANLIMIT=#:20 CHANMODES=b,k,l,MRimnprst CHANNELLEN=64 CHANTYPES=# ELIST=CMNTU EXTBAN=,RU HOSTLEN=64 KEYLEN=32 KICKLEN=255 LINELEN=512 :are supported by this server
+Jul 05 11:04:45 *	MAXLIST=b:100 MAXTARGETS=20 MODES=20 NAMELEN=128 NETWORK=chat.zalazalaza.xyz NICKLEN=30 PREFIX=(ov)@+ SAFELIST STATUSMSG=@+ TOPICLEN=307 USERLEN=10 USERMODES=,,s,IRiorw WHOX :are supported by this server
+Jul 05 11:04:45 *	There are 12 users and 3 invisible on 2 servers
+Jul 05 11:04:45 *	1 :operator(s) online
+Jul 05 11:04:45 *	1 :unknown connections
+Jul 05 11:04:45 *	11 :channels formed
+Jul 05 11:04:45 *	I have 15 clients and 1 servers
+Jul 05 11:04:45 *	Current local users: 15  Max: 21
+Jul 05 11:04:45 *	Current global users: 15  Max: 21
+Jul 05 11:04:45 *	chat.zalazalaza.xyz message of the day
+Jul 05 11:04:45 *	                          .-=-.
+Jul 05 11:04:45 *	                         /  ! )\
+Jul 05 11:04:45 *	                      __ \__/__/
+Jul 05 11:04:45 *	                     / _<( ^.^ )
+Jul 05 11:04:45 *	                    / /   \ c /O
+Jul 05 11:04:45 *	                    \ \_.-./=\.-._     _
+Jul 05 11:04:45 *	                     `-._  `~`    `-,./_<
+Jul 05 11:04:45 *	                         `\' \'\`'----'
+Jul 05 11:04:45 *	                       *   \  . \          *
+Jul 05 11:04:45 *	                            `-~~~\   .
+Jul 05 11:04:45 *	                       .      `-._`-._   *
+Jul 05 11:04:45 *	                             *    `~~~-,      *
+Jul 05 11:04:45 *	                   ()                   * )
+Jul 05 11:04:45 *	                  <^^>             *     (   .
+Jul 05 11:04:45 *	                 .-""-.                    )
+Jul 05 11:04:45 *	      .---.    ."-....-"-._     _...---''`/. '
+Jul 05 11:04:45 *	     ( (`\ \ .'  !!!!!!!!! ``-''    _.-"'`
+Jul 05 11:04:45 *	      \ \ \ : :. !!ZALAZ!!      .-'
+Jul 05 11:04:45 *	       `\`.\: `:.¡¡HAUS¡¡¡    _.'
+Jul 05 11:04:45 *	       (  .'`.`  ¡¡¡¡¡¡¡¡¡ _.'
+Jul 05 11:04:45 *	        ``    `-..______.-'
+Jul 05 11:04:45 *	                  ):.  (
+Jul 05 11:04:45 *	                ."-....-".
+Jul 05 11:04:45 *	              .':.        `.
+Jul 05 11:04:45 *	              "-..______..-"
+Jul 05 11:04:45 *	 
+Jul 05 11:04:45 *	End of message of the day.
+Jul 05 11:04:45 *	x :is not a recognised user mode.
+Jul 06 20:53:39 Checksum plugin unloaded
+Jul 06 20:53:39 Perl interface unloaded
+Jul 06 20:53:39 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Sun Jul  6 20:53:39 2025
+

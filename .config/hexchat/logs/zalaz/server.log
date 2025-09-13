@@ -1,0 +1,19 @@
+**** BEGIN LOGGING AT Sat Jun 28 11:02:44 2025
+
+Jun 28 11:02:44 *	Looking up zalazalaza.xyz
+**** BEGIN LOGGING AT Sat Jun 28 11:02:57 2025
+
+Jun 28 11:02:57 *	Looking up zalazalaza.xyz
+Jun 28 11:02:57 *	Connecting to zalazalaza.xyz (35.185.44.232:6667)
+Jun 28 11:03:01 *	Stopped previous connection attempt (20330)
+Jun 28 11:03:15 *	Looking up chat.zalazalaza.xyz
+Jun 28 11:03:15 *	Connecting to chat.zalazalaza.xyz (104.237.146.243:6667)
+Jun 28 11:03:16 *	Connection failed ((167772427) error:0A00010B:SSL routines::wrong version number)
+Jun 28 11:03:16 Are you sure this is a SSL capable server and port?
+Jun 28 11:04:04 *	Looking up chat.zalazalaza.xyz
+Jun 28 11:04:04 *	Connecting to chat.zalazalaza.xyz (104.237.146.243:6667)
+Jun 28 11:04:04 *	Connection failed ((167772427) error:0A00010B:SSL routines::wrong version number)
+Jun 28 11:04:04 Are you sure this is a SSL capable server and port?
+Jun 28 11:05:05 *	Looking up chat.zalazalaza.xyz
+Jun 28 11:05:05 *	Connecting to chat.zalazalaza.xyz (104.237.146.243:6667)
+Jun 28 11:05:05 *	Connected. Now logging in.

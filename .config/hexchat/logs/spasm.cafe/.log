@@ -1,0 +1,65 @@
+**** BEGIN LOGGING AT Sun May 11 17:15:24 2025
+
+May 11 17:15:24 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 17:15:25 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 17:15:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 17:15:25 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 17:15:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 17:15:25 *	* Subject: /CN=spasm.cafe
+May 11 17:15:25 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 17:15:25 *	* Certification info:
+May 11 17:15:25 *	  Subject:
+May 11 17:15:25 *	    CN=spasm.cafe
+May 11 17:15:25 *	  Issuer:
+May 11 17:15:25 *	    C=US
+May 11 17:15:25 *	    O=Let's Encrypt
+May 11 17:15:25 *	    CN=E5
+May 11 17:15:25 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 17:15:25 *	  Sign algorithm ecdsa-with-SHA384
+May 11 17:15:25 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 17:15:25 *	* Cipher info:
+May 11 17:15:25 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 17:15:25 *	Connected. Now logging in.
+May 11 17:15:25 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+May 11 17:15:25 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+May 11 17:15:25 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+May 11 17:15:25 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+May 11 17:15:25 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+May 11 17:15:25 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+May 11 17:15:26 *	bud is already in use. Retrying with bud_...
+May 11 17:15:28 *	bud_ is already in use. Retrying with bud__...
+**** ENDING LOGGING AT Sun May 11 17:15:30 2025
+
+**** BEGIN LOGGING AT Sun May 11 17:38:35 2025
+
+May 11 17:38:35 *	bud__ is already in use. Retrying with bud_...
+May 11 17:38:37 *	bud_ is already in use. Retrying with bud__...
+May 11 17:38:39 *	Nickname is erroneous or already in use. Use /NICK to try another.
+May 11 17:39:34 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sun May 11 17:39:34 2025
+
+**** BEGIN LOGGING AT Sun May 11 17:40:05 2025
+
+May 11 17:40:05 *	bud is already in use. Retrying with bud_...
+May 11 17:40:07 *	bud_ is already in use. Retrying with bud__...
+**** ENDING LOGGING AT Sun May 11 17:40:11 2025
+
+**** BEGIN LOGGING AT Sun May 11 20:08:35 2025
+
+May 11 20:08:35 *	bud__ is already in use. Retrying with bud_...
+May 11 20:08:37 *	bud_ is already in use. Retrying with bud__...
+May 11 20:08:39 *	Nickname is erroneous or already in use. Use /NICK to try another.
+May 11 20:09:34 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sun May 11 20:09:34 2025
+
+**** BEGIN LOGGING AT Sun May 11 20:11:07 2025
+
+May 11 20:11:07 *	Disconnected (Remote host closed socket)
+**** ENDING LOGGING AT Sun May 11 20:11:07 2025
+
+**** BEGIN LOGGING AT Sun May 11 20:11:18 2025
+
+May 11 20:11:18 *	bud is already in use. Retrying with bud_...
+May 11 20:11:20 *	bud_ is already in use. Retrying with bud__...
+**** ENDING LOGGING AT Sun May 11 20:11:24 2025
+

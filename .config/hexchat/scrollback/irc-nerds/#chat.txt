@@ -1,0 +1,96 @@
+T 1751576787 19*	Now talking on 22#chat
+T 1751576787 22*	Topic for 22#chat is: Welcome to #chat | Caution: Valware bites!
+T 1751576787 22*	Topic for 22#chat set by 26ChanServ/technet (24Fri May 28 13:05:02 2021)
+T 1751577958 20*	Disconnected (20)
+T 1751578472 19*	Now talking on 22#chat
+T 1751578472 22*	Topic for 22#chat is: Welcome to #chat | Caution: Valware bites!
+T 1751578472 22*	Topic for 22#chat set by 26ChanServ/technet (24Fri May 28 13:05:02 2021)
+T 1751578531 20*	You are now known as 18Guest36128
+T 1751578978 20*	Disconnected (20)
+T 1751579022 19*	Now talking on 22#chat
+T 1751579022 22*	Topic for 22#chat is: Welcome to #chat | Caution: Valware bites!
+T 1751579022 22*	Topic for 22#chat set by 26ChanServ/technet (24Fri May 28 13:05:02 2021)
+T 1751579052 23*	emu163-- (greenery@20B1CDF1.5FE97DAA.4141CC51.IP23) has joined
+T 1751579068 24*	Guest36128 has quit (Ping timeout: 180 seconds)
+T 1751579081 20*	You are now known as 18Guest33538
+T 1751579186 24*	emu163- has quit (Ping timeout: 180 seconds)
+T 1751580944 24*	redstar has quit (Quit: Connection closed for inactivity)
+T 1751588307 23*	Mikey3 (Mikey3@7107929B.2A1A1136.F8B473B1.IP23) has joined
+T 1751588698 24*	Mikey3 has quit (Read error)
+T 1751591210 23*	Kel (kel@shiftyeyed.net23) has joined
+T 1751594997 24*	NBA/freenode has quit (Ping timeout: 120 seconds)
+T 1751595978 23*	Cadaver/freenode (~Cadaver@2a02:c207:2018:2337::1423) has joined
+T 1751596100 24*	Cadaver_/freenode has quit (Ping timeout: 120 seconds)
+T 1751597231 23*	emu163- (greenery@D703D0DE.72A09973.DBF5165.IP23) has joined
+T 1751597337 24*	emu163-- has quit (Ping timeout: 180 seconds)
+T 1751602105 24*	dabs has quit (Quit: Leaving)
+T 1751605696 23*	ScifiSpirit/freenode (~scifi@freenode/user/ScifiSpirit23) has joined
+T 1751607821 24*	Meanderthal/freenode has quit (Ping timeout: 120 seconds)
+T 1751609367 24*	emu163- has quit (Ping timeout: 180 seconds)
+T 1751610046 23*	naval_vio/efnet (~naval_vio@45.130.203.18523) has joined
+T 1751610107 24*	naval_vio/efnet (~naval_vio@45.130.203.18524) has left
+T 1751614158 23*	NBA/freenode (~NBA@freenode/user/NBA23) has joined
+T 1751617387 24*	Cadaver/freenode has quit (Ping timeout: 120 seconds)
+T 1751617532 23*	Cadaver/freenode (~Cadaver@2a02:c207:2018:2337::1423) has joined
+T 1751625101 23*	emu163- (greenery@20B1CDF1.5FE97DAA.4141CC51.IP23) has joined
+T 1751626821 24*	ketas/freenode has quit (Ping timeout: 120 seconds)
+T 1751626836 24*	ketas/rizon has quit (Ping timeout: 240 seconds)
+T 1751629898 24*	neoncortex/freenode has quit (Ping timeout: 120 seconds)
+T 1751630019 23*	neoncortex/freenode (~neoncorte@freenode/user/neoncortex23) has joined
+T 1751631038 23*	Cadaver_/freenode (~Cadaver@2a02:c207:2018:2337::1423) has joined
+T 1751631147 24*	Cadaver/freenode has quit (Ping timeout: 120 seconds)
+T 1751638343 24*	Cadaver_/freenode has quit (Ping timeout: 120 seconds)
+T 1751638527 23*	Cadaver/freenode (~Cadaver@2a02:c207:2018:2337::1423) has joined
+T 1751641173 24*	Cadaver/freenode has quit (Ping timeout: 120 seconds)
+T 1751641394 23*	Cadaver/freenode (CaguaMan@Caguama.Tecate.Beer23) has joined
+T 1751643428 24*	emu163- has quit (Ping timeout: 180 seconds)
+T 1751643880 23*	dabs (Owner@nerd-E5EF891D.lightspeed.stlsmo.sbcglobal.net23) has joined
+T 1751649635 24*	neoncortex/freenode has quit (Ping timeout: 120 seconds)
+T 1751649820 23*	neoncortex/freenode (~neoncorte@freenode/user/neoncortex23) has joined
+T 1751650345 23*	L360L4S/freenode (uid708663@freenode/user/L360L4S23) has joined
+T 1751650414 23*	koeuk (koeuk@nerds/user/koeuk23) has joined
+T 1751652302 24*	ScifiSpirit/freenode has quit (Quit: gn)
+T 1751656041 24*	Xiti`/freenode has quit (Quit: Leaving)
+T 1751656042 24*	croissant_ has quit (Quit: Leaving)
+T 1751656421 23*	Xiti/freenode (~Xiti@freenode/user/Xiti23) has joined
+T 1751656541 23*	croissant (croissant@6B54CAE4.943906F3.733A66B9.IP23) has joined
+T 1751656774 23*	qwert/freenode (~qwert@freenode/user/qwert23) has joined
+T 1751657171 23*	guyver (guyver@nerd-EEDB6925.lightspeed.crchtx.sbcglobal.net23) has joined
+T 1751657581 18<guyver18>	hi
+T 1751657906 24*	L360L4S/freenode has quit (Quit: Connection closed for inactivity)
+T 1751659730 23*	Cadaver_/freenode (Cadaver@Caguama.Tecate.Beer23) has joined
+T 1751659812 24*	Cadaver/freenode has quit (Ping timeout: 120 seconds)
+T 1751661837 24*	cinema/efnet has quit (Read error: Operation timed out)
+T 1751661873 23*	cinema/efnet (monster@5.254.40.623) has joined
+T 1751661879 22*	26chronic/efnet gives channel operator status to 18cinema/efnet
+T 1751662127 23*	jimbocuzzi/freenode (~jimbocuzz@freenode/user/jimbocuzzi23) has joined
+T 1751663962 23*	ketas/rizon (~ketas@d003-fea2-0bff-021e-13e7-8437-07d0-2001.dyn.estpak.ee23) has joined
+T 1751663977 23*	ketas/freenode (~ketas@freenode/user/ketas23) has joined
+T 1751664904 24*	neoncortex/freenode has quit (Quit: ZNC 1.8.2+deb3.1+deb12u1 - https://znc.in)
+T 1751665077 24*	dabs has quit (Read error)
+T 1751665273 24*	croissant has quit (Quit: Leaving)
+T 1751665341 24*	Xiti/freenode has quit (Quit: Leaving)
+T 1751665384 24*	jimbocuzzi/freenode has quit (Quit: ChatZilla 0.9.92-rdmsoft [XULRunner 35.0.1/20150122214805])
+T 1751665958 23*	Xiti/freenode (~Xiti@freenode/user/Xiti23) has joined
+T 1751666197 24*	devnull/efnet has quit (Quit: quit)
+T 1751667301 23*	devnull/efnet (~devnull@ec2-52-6-188-193.compute-1.amazonaws.com23) has joined
+T 1751667478 23*	emu163- (greenery@1D64B6B0.72A09973.DBF5165.IP23) has joined
+T 1751669192 24*	Pritski/freenode has quit (Quit: quit)
+T 1751669293 23*	Pritski/freenode (~Pritski@freenode/user/Pritski23) has joined
+T 1751670331 23*	croissant (croissant@6B54CAE4.943906F3.733A66B9.IP23) has joined
+T 1751671773 20*	Disconnected (20)
+T 1751671789 19*	Now talking on 22#chat
+T 1751671789 22*	Topic for 22#chat is: Welcome to #chat | Caution: Valware bites!
+T 1751671789 22*	Topic for 22#chat set by 26ChanServ/technet (24Fri May 28 13:05:02 2021)
+T 1751673602 23*	Xiti`/freenode (~Xiti@freenode/user/Xiti23) has joined
+T 1751673773 24*	Xiti/freenode has quit (Ping timeout: 120 seconds)
+T 1751675004 24*	qwert/freenode has quit (Quit: )
+T 1751675017 23*	qwert/freenode (~qwert@freenode/user/qwert23) has joined
+T 1751675604 23*	bdmg_ (myJebba@87AB3DA6.ED0736E8.64AAA0A5.IP23) has joined
+T 1751675645 24*	koeuk has quit (Quit: Leaving)
+T 1751675920 24*	croissant has quit (Ping timeout: 180 seconds)
+T 1751675993 24*	Xiti`/freenode has quit (Ping timeout: 120 seconds)
+T 1751676260 23*	Xiti/freenode (~Xiti@freenode/user/Xiti23) has joined
+T 1751677273 24*	Xiti/freenode has quit (Ping timeout: 120 seconds)
+T 1751677764 24*	qwert/freenode has quit (Connection closed)
+T 1751678197 23*	Xiti/freenode (~Xiti@freenode/user/Xiti23) has joined

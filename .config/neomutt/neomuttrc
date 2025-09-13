@@ -1,0 +1,61 @@
+##################################
+# Neomutt Configuration for IMAP #
+##################################
+
+set sort = "reverse-date"
+set editor = vim
+
+
+# Your email address and real name
+set realname = "admin"
+set from = "admin@spasm.cafe"
+
+##################################
+# IMAP (for receiving mail)
+##################################
+
+# Use IMAP over SSL
+set imap_user = "admin@spasm.cafe"
+set imap_pass="`gpg --batch -q --decrypt ~/.config/neomutt/admin.gpg`"
+
+# Remote inbox
+set folder = "imaps://imap.spasm.cafe/"
+set spoolfile = "+INBOX"
+set record = "+Sent"
+set postponed = "+Drafts"
+set trash = "+Trash"
+
+# Automatically poll every 300 seconds (5 min)
+set mail_check = 300
+
+##################################
+# SMTP (for sending mail)
+##################################
+
+set smtp_url = "smtp://admin@spasm.cafe@smtp.spasm.cafe:587/"
+set smtp_pass ="`gpg --batch -q --decrypt ~/.config/neomutt/admin.gpg`"
+set ssl_starttls = yes
+set ssl_force_tls = yes
+
+# Save sent messages locally or via IMAP
+set copy = yes
+
+##################################
+# Interface Tweaks (optional)
+##################################
+
+# Show only unread mails
+# set sort = 'reverse-date'
+# set sort_aux = 'last-date-received'
+
+# Enable colors, header hiding, etc.
+set header_cache = "~/.cache/neomutt/headers"
+set message_cachedir = "~/.cache/neomutt/bodies"
+set certificate_file = "~/.cache/neomutt/certificates"
+
+##################################
+# Security
+##################################
+
+# Avoid saving passwords in plain text!
+# Use gpg, keychain, or .netrc for security in real setups

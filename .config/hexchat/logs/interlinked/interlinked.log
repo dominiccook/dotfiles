@@ -1,0 +1,950 @@
+**** BEGIN LOGGING AT Thu Jul  3 13:50:55 2025
+
+Jul 03 13:50:55 *	*** Looking up your hostname...
+Jul 03 13:50:55 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join extended-monitor inspircd.org/poison invite-notify labeled-response message-tags multi-prefix sasl=AUTHCOOKIE,ECDSA-NIST256P-CHALLENGE,EXTERNAL,PLAIN server-time standard-replies sts=duration=31557600,preload tls userhost-in-names 
+Jul 03 13:50:55 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names 
+Jul 03 13:50:55 *	*** If you are having problems connecting due to registration timeouts type /quote PONG me]RQmXAIf or /raw PONG me]RQmXAIf now.
+Jul 03 13:50:55 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names
+Jul 03 13:50:56 *	*** Could not resolve your hostname: Domain not found; using your IP address (2603:8001:7a00:30af:7ca6:6579:1209:cd57) instead.
+**** ENDING LOGGING AT Thu Jul  3 13:50:57 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 13:50:57 2025
+
+Jul 03 13:50:57 *	Welcome to the Interlinked IRC Network dug!~dug___@2603:8001:7a00:30af:7ca6:6579:1209:cd57
+Jul 03 13:50:57 *	Your host is joestar.interlinked.me, running version InspIRCd-3
+Jul 03 13:50:57 *	This server was created 05:11:47 Nov 25 2024
+Jul 03 13:50:57 *	joestar.interlinked.me InspIRCd-3 BHILORSTVWcdghikorswxz ABCDEFHIJKLMNOPQRSTUXZabcdefghijklmnopqrstuvxz :BEFHIJLXZabdefghjkloqvx
+Jul 03 13:50:57 *	ACCEPT=10 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbeg,k,BEFHJLdfjlx,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=24 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Jul 03 13:50:57 *	EXTBAN=,ACGNOQRSTUbcjmnpxz HOSTLEN=80 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=Interlinked :are supported by this server
+Jul 03 13:50:57 *	NICKLEN=14 OVERRIDE=O PREFIX=(qaohv)~&@%+ SAFELIST SECURELIST=86400 SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BHILORSTVWcdghikorwxz WATCH=32 :are supported by this server
+Jul 03 13:50:57 *	WHOX :are supported by this server
+Jul 03 13:50:57 *	There are 60 users and 12 invisible on 5 servers
+Jul 03 13:50:57 *	3 :operator(s) online
+Jul 03 13:50:57 *	1 :unknown connections
+Jul 03 13:50:57 *	60 :channels formed
+Jul 03 13:50:57 *	I have 9 clients and 1 servers
+Jul 03 13:50:57 *	Current local users: 9  Max: 37
+Jul 03 13:50:57 *	Current global users: 72  Max: 80
+Jul 03 13:50:57 *	joestar.interlinked.me message of the day
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	This is my stand...
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	       mmmm
+Jul 03 13:50:57 *	       #       mmmmm  mmmmm    mmm
+Jul 03 13:50:57 *	       #         #    #   "# m"   "
+Jul 03 13:50:57 *	       #         #    #mmmm" #
+Jul 03 13:50:57 *	       "         #    #   "m #
+Jul 03 13:50:57 *	               mm#mm  #    "  "mmm"
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	  mmmm  mmmmmm mmmmm  m    m mmmmmm mmmmm
+Jul 03 13:50:57 *	 #"   " #      #   "# "m  m" #      #   "#    #
+Jul 03 13:50:57 *	 "#mmm  #mmmmm #mmmm"  #  #  #mmmmm #mmmm"    #
+Jul 03 13:50:57 *	     "# #      #   "m  "mm"  #      #   "m    #
+Jul 03 13:50:57 *	 "mmm#" #mmmmm #    "   ##   #mmmmm #    " mmm#
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	Welcome to Interlinked! — A place for friends
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	This server is joestar.interlinked.me — generously donated by Elizafox.
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	There are only a few simple rules:
+Jul 03 13:50:57 *	 1. Don't be a dick.
+Jul 03 13:50:57 *	 2. VHost domains must be an invalid domain or one owned by you
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	To see our detailed Code of Conduct, type /RULES (try /QUOTE RULES or
+Jul 03 13:50:57 *	/RAW RULES if that doesn't work). It's quite boring, but just follow
+Jul 03 13:50:57 *	rule #1 and you'll be fine.
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	============================ GETTING HELP ============================
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- VHosts/cloaks -----
+Jul 03 13:50:57 *	See /HELPOP GETVHOST
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	(If this command doesn't work, try /RAW HELPOP GETVHOST or
+Jul 03 13:50:57 *	/QUOTE HELPOP GETVHOST).
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- Emergency help -----
+Jul 03 13:50:57 *	Check /STATS P to find an oper who is online or join #help.
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- All other inquiries -----
+Jul 03 13:50:57 *	The best way is to use HelpServ. See /HELPOP HELPINFO
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	(If this command doesn't work, try /RAW HELPOP HELPINFO or
+Jul 03 13:50:57 *	/QUOTE HELPOP HELPINFO).
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	============================== CHANNELS ==============================
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- Topical -----
+Jul 03 13:50:57 *	#OmegOS - Retrocomputing
+Jul 03 13:50:57 *	#Adelie - the official home of the Adélie Linux distribution
+Jul 03 13:50:57 *	#code - developers' lounge
+Jul 03 13:50:57 *	#music — Now That's What I Call #Music
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- Off-topic -----
+Jul 03 13:50:57 *	#Sporks — general off-topic weird banter
+Jul 03 13:50:57 *	#lgbt — LGBT-friendly channel
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	=============================== LEGAL ================================
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- GDPR -----
+Jul 03 13:50:57 *	See /GDPR for EU General Data Protection Regulation information.
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	----- Disclaimers -----
+Jul 03 13:50:57 *	Views expressed by the operators, administrators, any other staff,
+Jul 03 13:50:57 *	foundation members, or users, are not official views held by the
+Jul 03 13:50:57 *	Interlinked Foundation.
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	Interlinked is a holding of the Interlinked Foundation, a non-profit
+Jul 03 13:50:57 *	501(c)(3) organization incorporated in Tulsa, Oklahoma, United States.
+Jul 03 13:50:57 *	 
+Jul 03 13:50:57 *	We do not permit open proxies and upon connecting, you will be scanned
+Jul 03 13:50:57 *	for them. If you do not consent to this, then disconnect now.
+Jul 03 13:50:57 *	End of message of the day.
+Jul 03 13:50:57 *	Interlinked-16do5i.748f.kd1e.08siiv.IP :is now your displayed host
+Jul 03 13:50:57 *	dug sets mode +x on dug
+Jul 03 13:50:57 *	*** You are connected to irc.interlinked.me using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Jul 03 13:50:57 -InfoServ-	*** Message(s) of the Day ***
+Jul 03 13:50:57 -InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+Jul 03 13:50:57 -InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+Jul 03 13:50:57 -InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+Jul 03 13:50:57 -InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+Jul 03 13:50:57 -InfoServ-	*** End of Message(s) of the Day ***
+Jul 03 13:50:57 -NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+Jul 03 13:53:00 No channel joined. Try /join #<channel>
+Jul 03 13:53:06 *	*** You cannot view the channel list right now. Please login to an account or try again in 23h57m48s.
+Jul 03 13:53:15 *	*** You cannot view the channel list right now. Please login to an account or try again in 23h57m39s.
+Jul 03 14:25:58 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:25:58 *	Disconnected ()
+Jul 03 14:26:08 *	Looking up irc.interlinked.me
+Jul 03 14:26:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:28 Cycling to next server in Interlinked...
+Jul 03 14:26:28 *	Disconnected ()
+Jul 03 14:26:28 *	Looking up irc.interlinked.me
+Jul 03 14:26:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:38 Cycling to next server in Interlinked...
+Jul 03 14:26:38 *	Disconnected ()
+Jul 03 14:26:38 *	Looking up irc.interlinked.me
+Jul 03 14:26:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:48 Cycling to next server in Interlinked...
+Jul 03 14:26:48 *	Disconnected ()
+Jul 03 14:26:48 *	Looking up irc.interlinked.me
+Jul 03 14:26:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:26:58 Cycling to next server in Interlinked...
+Jul 03 14:26:58 *	Disconnected ()
+Jul 03 14:26:58 *	Looking up irc.interlinked.me
+Jul 03 14:26:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:08 Cycling to next server in Interlinked...
+Jul 03 14:27:08 *	Disconnected ()
+Jul 03 14:27:08 *	Looking up irc.interlinked.me
+Jul 03 14:27:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:18 Cycling to next server in Interlinked...
+Jul 03 14:27:18 *	Disconnected ()
+Jul 03 14:27:18 *	Looking up irc.interlinked.me
+Jul 03 14:27:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:28 Cycling to next server in Interlinked...
+Jul 03 14:27:28 *	Disconnected ()
+Jul 03 14:27:28 *	Looking up irc.interlinked.me
+Jul 03 14:27:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:38 Cycling to next server in Interlinked...
+Jul 03 14:27:38 *	Disconnected ()
+Jul 03 14:27:38 *	Looking up irc.interlinked.me
+Jul 03 14:27:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:48 Cycling to next server in Interlinked...
+Jul 03 14:27:48 *	Disconnected ()
+Jul 03 14:27:48 *	Looking up irc.interlinked.me
+Jul 03 14:27:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:27:58 Cycling to next server in Interlinked...
+Jul 03 14:27:58 *	Disconnected ()
+Jul 03 14:27:58 *	Looking up irc.interlinked.me
+Jul 03 14:27:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:08 Cycling to next server in Interlinked...
+Jul 03 14:28:08 *	Disconnected ()
+Jul 03 14:28:08 *	Looking up irc.interlinked.me
+Jul 03 14:28:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:18 Cycling to next server in Interlinked...
+Jul 03 14:28:18 *	Disconnected ()
+Jul 03 14:28:18 *	Looking up irc.interlinked.me
+Jul 03 14:28:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:28 Cycling to next server in Interlinked...
+Jul 03 14:28:28 *	Disconnected ()
+Jul 03 14:28:28 *	Looking up irc.interlinked.me
+Jul 03 14:28:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:38 Cycling to next server in Interlinked...
+Jul 03 14:28:38 *	Disconnected ()
+Jul 03 14:28:38 *	Looking up irc.interlinked.me
+Jul 03 14:28:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:48 Cycling to next server in Interlinked...
+Jul 03 14:28:48 *	Disconnected ()
+Jul 03 14:28:48 *	Looking up irc.interlinked.me
+Jul 03 14:28:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:28:58 Cycling to next server in Interlinked...
+Jul 03 14:28:58 *	Disconnected ()
+Jul 03 14:28:58 *	Looking up irc.interlinked.me
+Jul 03 14:28:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:08 Cycling to next server in Interlinked...
+Jul 03 14:29:08 *	Disconnected ()
+Jul 03 14:29:08 *	Looking up irc.interlinked.me
+Jul 03 14:29:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:18 Cycling to next server in Interlinked...
+Jul 03 14:29:18 *	Disconnected ()
+Jul 03 14:29:18 *	Looking up irc.interlinked.me
+Jul 03 14:29:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:28 Cycling to next server in Interlinked...
+Jul 03 14:29:28 *	Disconnected ()
+Jul 03 14:29:28 *	Looking up irc.interlinked.me
+Jul 03 14:29:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:38 Cycling to next server in Interlinked...
+Jul 03 14:29:38 *	Disconnected ()
+Jul 03 14:29:38 *	Looking up irc.interlinked.me
+Jul 03 14:29:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:48 Cycling to next server in Interlinked...
+Jul 03 14:29:48 *	Disconnected ()
+Jul 03 14:29:48 *	Looking up irc.interlinked.me
+Jul 03 14:29:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:29:58 Cycling to next server in Interlinked...
+Jul 03 14:29:58 *	Disconnected ()
+Jul 03 14:29:58 *	Looking up irc.interlinked.me
+Jul 03 14:29:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:08 Cycling to next server in Interlinked...
+Jul 03 14:30:08 *	Disconnected ()
+Jul 03 14:30:08 *	Looking up irc.interlinked.me
+Jul 03 14:30:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:18 Cycling to next server in Interlinked...
+Jul 03 14:30:18 *	Disconnected ()
+Jul 03 14:30:18 *	Looking up irc.interlinked.me
+Jul 03 14:30:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:28 Cycling to next server in Interlinked...
+Jul 03 14:30:28 *	Disconnected ()
+Jul 03 14:30:28 *	Looking up irc.interlinked.me
+Jul 03 14:30:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:38 Cycling to next server in Interlinked...
+Jul 03 14:30:38 *	Disconnected ()
+Jul 03 14:30:38 *	Looking up irc.interlinked.me
+Jul 03 14:30:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:48 Cycling to next server in Interlinked...
+Jul 03 14:30:48 *	Disconnected ()
+Jul 03 14:30:48 *	Looking up irc.interlinked.me
+Jul 03 14:30:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:30:58 Cycling to next server in Interlinked...
+Jul 03 14:30:58 *	Disconnected ()
+Jul 03 14:30:58 *	Looking up irc.interlinked.me
+Jul 03 14:30:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:08 Cycling to next server in Interlinked...
+Jul 03 14:31:08 *	Disconnected ()
+Jul 03 14:31:08 *	Looking up irc.interlinked.me
+Jul 03 14:31:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:18 Cycling to next server in Interlinked...
+Jul 03 14:31:18 *	Disconnected ()
+Jul 03 14:31:18 *	Looking up irc.interlinked.me
+Jul 03 14:31:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:28 Cycling to next server in Interlinked...
+Jul 03 14:31:28 *	Disconnected ()
+Jul 03 14:31:28 *	Looking up irc.interlinked.me
+Jul 03 14:31:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:38 Cycling to next server in Interlinked...
+Jul 03 14:31:38 *	Disconnected ()
+Jul 03 14:31:38 *	Looking up irc.interlinked.me
+Jul 03 14:31:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:48 Cycling to next server in Interlinked...
+Jul 03 14:31:48 *	Disconnected ()
+Jul 03 14:31:48 *	Looking up irc.interlinked.me
+Jul 03 14:31:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:31:58 Cycling to next server in Interlinked...
+Jul 03 14:31:58 *	Disconnected ()
+Jul 03 14:31:58 *	Looking up irc.interlinked.me
+Jul 03 14:31:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:08 Cycling to next server in Interlinked...
+Jul 03 14:32:08 *	Disconnected ()
+Jul 03 14:32:08 *	Looking up irc.interlinked.me
+Jul 03 14:32:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:18 Cycling to next server in Interlinked...
+Jul 03 14:32:18 *	Disconnected ()
+Jul 03 14:32:18 *	Looking up irc.interlinked.me
+Jul 03 14:32:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:28 Cycling to next server in Interlinked...
+Jul 03 14:32:28 *	Disconnected ()
+Jul 03 14:32:28 *	Looking up irc.interlinked.me
+Jul 03 14:32:28 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:38 Cycling to next server in Interlinked...
+Jul 03 14:32:38 *	Disconnected ()
+Jul 03 14:32:38 *	Looking up irc.interlinked.me
+Jul 03 14:32:38 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:48 Cycling to next server in Interlinked...
+Jul 03 14:32:48 *	Disconnected ()
+Jul 03 14:32:48 *	Looking up irc.interlinked.me
+Jul 03 14:32:48 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:32:58 Cycling to next server in Interlinked...
+Jul 03 14:32:58 *	Disconnected ()
+Jul 03 14:32:58 *	Looking up irc.interlinked.me
+Jul 03 14:32:58 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:08 Cycling to next server in Interlinked...
+Jul 03 14:33:08 *	Disconnected ()
+Jul 03 14:33:08 *	Looking up irc.interlinked.me
+Jul 03 14:33:08 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:18 Cycling to next server in Interlinked...
+Jul 03 14:33:18 *	Disconnected ()
+Jul 03 14:33:18 *	Looking up irc.interlinked.me
+Jul 03 14:33:18 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:29 Cycling to next server in Interlinked...
+Jul 03 14:33:29 *	Disconnected ()
+Jul 03 14:33:29 *	Looking up irc.interlinked.me
+Jul 03 14:33:29 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:39 Cycling to next server in Interlinked...
+Jul 03 14:33:39 *	Disconnected ()
+Jul 03 14:33:39 *	Looking up irc.interlinked.me
+Jul 03 14:33:39 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:49 Cycling to next server in Interlinked...
+Jul 03 14:33:49 *	Disconnected ()
+Jul 03 14:33:49 *	Looking up irc.interlinked.me
+Jul 03 14:33:49 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:33:59 Cycling to next server in Interlinked...
+Jul 03 14:33:59 *	Disconnected ()
+Jul 03 14:33:59 *	Looking up irc.interlinked.me
+Jul 03 14:33:59 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:34:09 Cycling to next server in Interlinked...
+Jul 03 14:34:09 *	Disconnected ()
+Jul 03 14:34:09 *	Looking up irc.interlinked.me
+Jul 03 14:34:09 *	Connecting to irc.interlinked.me (2604:180:0:26a::2:6697)
+Jul 03 14:34:10 *	* Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:34:10 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:34:10 *	* Subject: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:34:10 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:34:10 *	* Subject: /CN=*.interlinked.me
+Jul 03 14:34:10 *	* Issuer: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:34:10 *	* Certification info:
+Jul 03 14:34:10 *	  Subject:
+Jul 03 14:34:10 *	    CN=*.interlinked.me
+Jul 03 14:34:10 *	  Issuer:
+Jul 03 14:34:10 *	    C=FR
+Jul 03 14:34:10 *	    O=Gandi SAS
+Jul 03 14:34:10 *	    CN=GandiCert
+Jul 03 14:34:10 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 03 14:34:10 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 14:34:10 *	  Valid since Mar 23 00:00:00 2025 GM to Mar 22 23:59:59 2026 GM
+Jul 03 14:34:10 *	* Cipher info:
+Jul 03 14:34:10 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 03 14:34:10 *	Connected. Now logging in.
+Jul 03 14:34:10 *	*** Looking up your hostname...
+Jul 03 14:34:10 *	*** Could not resolve your hostname: Domain not found; using your IP address (2603:8001:7a00:30af:e44:4c7c:2fa2:a4e) instead.
+Jul 03 14:34:10 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join extended-monitor inspircd.org/poison invite-notify labeled-response message-tags multi-prefix sasl=AUTHCOOKIE,ECDSA-NIST256P-CHALLENGE,EXTERNAL,PLAIN server-time standard-replies sts=duration=31557600,preload tls userhost-in-names 
+Jul 03 14:34:10 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names 
+Jul 03 14:34:10 *	*** If you are having problems connecting due to registration timeouts type /quote PONG C]@[ROz^oO or /raw PONG C]@[ROz^oO now.
+Jul 03 14:34:10 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names
+Jul 03 14:34:11 *	Welcome to the Interlinked IRC Network dug!~dug___@2603:8001:7a00:30af:e44:4c7c:2fa2:a4e
+Jul 03 14:34:11 *	Your host is joestar.interlinked.me, running version InspIRCd-3
+Jul 03 14:34:11 *	This server was created 05:11:47 Nov 25 2024
+Jul 03 14:34:11 *	joestar.interlinked.me InspIRCd-3 BHILORSTVWcdghikorswxz ABCDEFHIJKLMNOPQRSTUXZabcdefghijklmnopqrstuvxz :BEFHIJLXZabdefghjkloqvx
+Jul 03 14:34:11 *	ACCEPT=10 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbeg,k,BEFHJLdfjlx,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=24 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Jul 03 14:34:11 *	EXTBAN=,ACGNOQRSTUbcjmnpxz HOSTLEN=80 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=Interlinked :are supported by this server
+Jul 03 14:34:11 *	NICKLEN=14 OVERRIDE=O PREFIX=(qaohv)~&@%+ SAFELIST SECURELIST=86400 SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BHILORSTVWcdghikorwxz WATCH=32 :are supported by this server
+Jul 03 14:34:11 *	WHOX :are supported by this server
+Jul 03 14:34:11 *	There are 60 users and 12 invisible on 5 servers
+Jul 03 14:34:11 *	3 :operator(s) online
+Jul 03 14:34:11 *	1 :unknown connections
+Jul 03 14:34:11 *	60 :channels formed
+Jul 03 14:34:11 *	I have 9 clients and 1 servers
+Jul 03 14:34:11 *	Current local users: 9  Max: 37
+Jul 03 14:34:11 *	Current global users: 72  Max: 80
+Jul 03 14:34:11 *	joestar.interlinked.me message of the day
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	This is my stand...
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	       mmmm
+Jul 03 14:34:11 *	       #       mmmmm  mmmmm    mmm
+Jul 03 14:34:11 *	       #         #    #   "# m"   "
+Jul 03 14:34:11 *	       #         #    #mmmm" #
+Jul 03 14:34:11 *	       "         #    #   "m #
+Jul 03 14:34:11 *	               mm#mm  #    "  "mmm"
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	  mmmm  mmmmmm mmmmm  m    m mmmmmm mmmmm
+Jul 03 14:34:11 *	 #"   " #      #   "# "m  m" #      #   "#    #
+Jul 03 14:34:11 *	 "#mmm  #mmmmm #mmmm"  #  #  #mmmmm #mmmm"    #
+Jul 03 14:34:11 *	     "# #      #   "m  "mm"  #      #   "m    #
+Jul 03 14:34:11 *	 "mmm#" #mmmmm #    "   ##   #mmmmm #    " mmm#
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	Welcome to Interlinked! — A place for friends
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	This server is joestar.interlinked.me — generously donated by Elizafox.
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	There are only a few simple rules:
+Jul 03 14:34:11 *	 1. Don't be a dick.
+Jul 03 14:34:11 *	 2. VHost domains must be an invalid domain or one owned by you
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	To see our detailed Code of Conduct, type /RULES (try /QUOTE RULES or
+Jul 03 14:34:11 *	/RAW RULES if that doesn't work). It's quite boring, but just follow
+Jul 03 14:34:11 *	rule #1 and you'll be fine.
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	============================ GETTING HELP ============================
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- VHosts/cloaks -----
+Jul 03 14:34:11 *	See /HELPOP GETVHOST
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	(If this command doesn't work, try /RAW HELPOP GETVHOST or
+Jul 03 14:34:11 *	/QUOTE HELPOP GETVHOST).
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- Emergency help -----
+Jul 03 14:34:11 *	Check /STATS P to find an oper who is online or join #help.
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- All other inquiries -----
+Jul 03 14:34:11 *	The best way is to use HelpServ. See /HELPOP HELPINFO
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	(If this command doesn't work, try /RAW HELPOP HELPINFO or
+Jul 03 14:34:11 *	/QUOTE HELPOP HELPINFO).
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	============================== CHANNELS ==============================
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- Topical -----
+Jul 03 14:34:11 *	#OmegOS - Retrocomputing
+Jul 03 14:34:11 *	#Adelie - the official home of the Adélie Linux distribution
+Jul 03 14:34:11 *	#code - developers' lounge
+Jul 03 14:34:11 *	#music — Now That's What I Call #Music
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- Off-topic -----
+Jul 03 14:34:11 *	#Sporks — general off-topic weird banter
+Jul 03 14:34:11 *	#lgbt — LGBT-friendly channel
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	=============================== LEGAL ================================
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- GDPR -----
+Jul 03 14:34:11 *	See /GDPR for EU General Data Protection Regulation information.
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	----- Disclaimers -----
+Jul 03 14:34:11 *	Views expressed by the operators, administrators, any other staff,
+Jul 03 14:34:11 *	foundation members, or users, are not official views held by the
+Jul 03 14:34:11 *	Interlinked Foundation.
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	Interlinked is a holding of the Interlinked Foundation, a non-profit
+Jul 03 14:34:11 *	501(c)(3) organization incorporated in Tulsa, Oklahoma, United States.
+Jul 03 14:34:11 *	 
+Jul 03 14:34:11 *	We do not permit open proxies and upon connecting, you will be scanned
+Jul 03 14:34:11 *	for them. If you do not consent to this, then disconnect now.
+Jul 03 14:34:11 *	End of message of the day.
+Jul 03 14:34:11 *	Interlinked-4vi3j1.748f.kd1e.08siiv.IP :is now your displayed host
+Jul 03 14:34:11 *	*** You are connected to irc.interlinked.me using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Jul 03 14:35:58 *	No ping reply for 88 seconds, disconnecting.
+Jul 03 14:35:58 *	Disconnected ()
+Jul 03 14:36:08 *	Looking up irc.interlinked.me
+Jul 03 14:36:26 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:36:36 Cycling to next server in Interlinked...
+Jul 03 14:36:36 *	Disconnected ()
+Jul 03 14:36:36 *	Looking up irc.interlinked.me
+Jul 03 14:36:36 *	Connecting to irc.interlinked.me (2604:180:0:26a::2:6697)
+Jul 03 14:36:37 *	* Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:36:37 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:36:37 *	* Subject: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:36:37 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:36:37 *	* Subject: /CN=*.interlinked.me
+Jul 03 14:36:37 *	* Issuer: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:36:37 *	* Certification info:
+Jul 03 14:36:37 *	  Subject:
+Jul 03 14:36:37 *	    CN=*.interlinked.me
+Jul 03 14:36:37 *	  Issuer:
+Jul 03 14:36:37 *	    C=FR
+Jul 03 14:36:37 *	    O=Gandi SAS
+Jul 03 14:36:37 *	    CN=GandiCert
+Jul 03 14:36:37 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 03 14:36:37 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 14:36:37 *	  Valid since Mar 23 00:00:00 2025 GM to Mar 22 23:59:59 2026 GM
+Jul 03 14:36:37 *	* Cipher info:
+Jul 03 14:36:37 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 03 14:36:37 *	Connected. Now logging in.
+Jul 03 14:36:37 *	*** Looking up your hostname...
+Jul 03 14:36:37 *	*** Could not resolve your hostname: Domain not found; using your IP address (2603:8001:7a00:30af:d330:fcdd:fda2:145f) instead.
+Jul 03 14:36:37 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join extended-monitor inspircd.org/poison invite-notify labeled-response message-tags multi-prefix sasl=AUTHCOOKIE,ECDSA-NIST256P-CHALLENGE,EXTERNAL,PLAIN server-time standard-replies sts=duration=31557600,preload tls userhost-in-names 
+Jul 03 14:36:37 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names 
+Jul 03 14:36:38 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names
+Jul 03 14:36:38 *	*** If you are having problems connecting due to registration timeouts type /quote PONG ]S@x`A\AIy or /raw PONG ]S@x`A\AIy now.
+Jul 03 14:36:40 *	Welcome to the Interlinked IRC Network dug_!~dug___@2603:8001:7a00:30af:d330:fcdd:fda2:145f
+Jul 03 14:36:40 *	Your host is joestar.interlinked.me, running version InspIRCd-3
+Jul 03 14:36:40 *	This server was created 05:11:47 Nov 25 2024
+Jul 03 14:36:40 *	joestar.interlinked.me InspIRCd-3 BHILORSTVWcdghikorswxz ABCDEFHIJKLMNOPQRSTUXZabcdefghijklmnopqrstuvxz :BEFHIJLXZabdefghjkloqvx
+Jul 03 14:36:40 *	ACCEPT=10 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbeg,k,BEFHJLdfjlx,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=24 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Jul 03 14:36:40 *	EXTBAN=,ACGNOQRSTUbcjmnpxz HOSTLEN=80 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=Interlinked :are supported by this server
+Jul 03 14:36:40 *	NICKLEN=14 OVERRIDE=O PREFIX=(qaohv)~&@%+ SAFELIST SECURELIST=86400 SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BHILORSTVWcdghikorwxz WATCH=32 :are supported by this server
+Jul 03 14:36:40 *	WHOX :are supported by this server
+Jul 03 14:36:40 *	There are 61 users and 12 invisible on 5 servers
+Jul 03 14:36:40 *	3 :operator(s) online
+Jul 03 14:36:40 *	1 :unknown connections
+Jul 03 14:36:40 *	60 :channels formed
+Jul 03 14:36:40 *	I have 10 clients and 1 servers
+Jul 03 14:36:40 *	Current local users: 10  Max: 37
+Jul 03 14:36:40 *	Current global users: 73  Max: 80
+Jul 03 14:36:40 *	joestar.interlinked.me message of the day
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	This is my stand...
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	       mmmm
+Jul 03 14:36:40 *	       #       mmmmm  mmmmm    mmm
+Jul 03 14:36:40 *	       #         #    #   "# m"   "
+Jul 03 14:36:40 *	       #         #    #mmmm" #
+Jul 03 14:36:40 *	       "         #    #   "m #
+Jul 03 14:36:40 *	               mm#mm  #    "  "mmm"
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	  mmmm  mmmmmm mmmmm  m    m mmmmmm mmmmm
+Jul 03 14:36:40 *	 #"   " #      #   "# "m  m" #      #   "#    #
+Jul 03 14:36:40 *	 "#mmm  #mmmmm #mmmm"  #  #  #mmmmm #mmmm"    #
+Jul 03 14:36:40 *	     "# #      #   "m  "mm"  #      #   "m    #
+Jul 03 14:36:40 *	 "mmm#" #mmmmm #    "   ##   #mmmmm #    " mmm#
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	Welcome to Interlinked! — A place for friends
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	This server is joestar.interlinked.me — generously donated by Elizafox.
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	There are only a few simple rules:
+Jul 03 14:36:40 *	 1. Don't be a dick.
+Jul 03 14:36:40 *	 2. VHost domains must be an invalid domain or one owned by you
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	To see our detailed Code of Conduct, type /RULES (try /QUOTE RULES or
+Jul 03 14:36:40 *	/RAW RULES if that doesn't work). It's quite boring, but just follow
+Jul 03 14:36:40 *	rule #1 and you'll be fine.
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	============================ GETTING HELP ============================
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- VHosts/cloaks -----
+Jul 03 14:36:40 *	See /HELPOP GETVHOST
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	(If this command doesn't work, try /RAW HELPOP GETVHOST or
+Jul 03 14:36:40 *	/QUOTE HELPOP GETVHOST).
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- Emergency help -----
+Jul 03 14:36:40 *	Check /STATS P to find an oper who is online or join #help.
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- All other inquiries -----
+Jul 03 14:36:40 *	The best way is to use HelpServ. See /HELPOP HELPINFO
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	(If this command doesn't work, try /RAW HELPOP HELPINFO or
+Jul 03 14:36:40 *	/QUOTE HELPOP HELPINFO).
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	============================== CHANNELS ==============================
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- Topical -----
+Jul 03 14:36:40 *	#OmegOS - Retrocomputing
+Jul 03 14:36:40 *	#Adelie - the official home of the Adélie Linux distribution
+Jul 03 14:36:40 *	#code - developers' lounge
+Jul 03 14:36:40 *	#music — Now That's What I Call #Music
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- Off-topic -----
+Jul 03 14:36:40 *	#Sporks — general off-topic weird banter
+Jul 03 14:36:40 *	#lgbt — LGBT-friendly channel
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	=============================== LEGAL ================================
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- GDPR -----
+Jul 03 14:36:40 *	See /GDPR for EU General Data Protection Regulation information.
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	----- Disclaimers -----
+Jul 03 14:36:40 *	Views expressed by the operators, administrators, any other staff,
+Jul 03 14:36:40 *	foundation members, or users, are not official views held by the
+Jul 03 14:36:40 *	Interlinked Foundation.
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	Interlinked is a holding of the Interlinked Foundation, a non-profit
+Jul 03 14:36:40 *	501(c)(3) organization incorporated in Tulsa, Oklahoma, United States.
+Jul 03 14:36:40 *	 
+Jul 03 14:36:40 *	We do not permit open proxies and upon connecting, you will be scanned
+Jul 03 14:36:40 *	for them. If you do not consent to this, then disconnect now.
+Jul 03 14:36:40 *	End of message of the day.
+Jul 03 14:36:40 *	Interlinked-fvc9d4.748f.kd1e.08siiv.IP :is now your displayed host
+Jul 03 14:36:40 *	*** You are connected to irc.interlinked.me using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Jul 03 14:38:28 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:38:28 *	Disconnected ()
+Jul 03 14:38:38 *	Looking up irc.interlinked.me
+Jul 03 14:38:38 *	Connecting to irc.interlinked.me (2604:180:0:26a::2:6697)
+Jul 03 14:38:39 *	* Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:38:39 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:38:39 *	* Subject: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:38:39 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:38:39 *	* Subject: /CN=*.interlinked.me
+Jul 03 14:38:39 *	* Issuer: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:38:39 *	* Certification info:
+Jul 03 14:38:39 *	  Subject:
+Jul 03 14:38:39 *	    CN=*.interlinked.me
+Jul 03 14:38:39 *	  Issuer:
+Jul 03 14:38:39 *	    C=FR
+Jul 03 14:38:39 *	    O=Gandi SAS
+Jul 03 14:38:39 *	    CN=GandiCert
+Jul 03 14:38:39 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 03 14:38:39 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 14:38:39 *	  Valid since Mar 23 00:00:00 2025 GM to Mar 22 23:59:59 2026 GM
+Jul 03 14:38:39 *	* Cipher info:
+Jul 03 14:38:39 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 03 14:38:39 *	Connected. Now logging in.
+Jul 03 14:38:39 *	*** Looking up your hostname...
+Jul 03 14:38:39 *	*** Could not resolve your hostname: Domain not found; using your IP address (2603:8001:7a00:30af:4d0f:31bc:c77b:e49d) instead.
+Jul 03 14:38:39 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join extended-monitor inspircd.org/poison invite-notify labeled-response message-tags multi-prefix sasl=AUTHCOOKIE,ECDSA-NIST256P-CHALLENGE,EXTERNAL,PLAIN server-time standard-replies sts=duration=31557600,preload tls userhost-in-names 
+Jul 03 14:38:39 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names 
+Jul 03 14:38:39 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names
+Jul 03 14:38:41 *	*** If you are having problems connecting due to registration timeouts type /quote PONG YXS[@w~Cp? or /raw PONG YXS[@w~Cp? now.
+Jul 03 14:38:44 *	Welcome to the Interlinked IRC Network dug__!~dug___@2603:8001:7a00:30af:4d0f:31bc:c77b:e49d
+Jul 03 14:38:44 *	Your host is joestar.interlinked.me, running version InspIRCd-3
+Jul 03 14:38:44 *	This server was created 05:11:47 Nov 25 2024
+Jul 03 14:38:44 *	joestar.interlinked.me InspIRCd-3 BHILORSTVWcdghikorswxz ABCDEFHIJKLMNOPQRSTUXZabcdefghijklmnopqrstuvxz :BEFHIJLXZabdefghjkloqvx
+Jul 03 14:38:44 *	ACCEPT=10 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbeg,k,BEFHJLdfjlx,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=24 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Jul 03 14:38:44 *	EXTBAN=,ACGNOQRSTUbcjmnpxz HOSTLEN=80 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=Interlinked :are supported by this server
+Jul 03 14:38:44 *	NICKLEN=14 OVERRIDE=O PREFIX=(qaohv)~&@%+ SAFELIST SECURELIST=86400 SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BHILORSTVWcdghikorwxz WATCH=32 :are supported by this server
+Jul 03 14:38:44 *	WHOX :are supported by this server
+Jul 03 14:38:44 *	There are 61 users and 12 invisible on 5 servers
+Jul 03 14:38:44 *	3 :operator(s) online
+Jul 03 14:38:44 *	1 :unknown connections
+Jul 03 14:38:44 *	60 :channels formed
+Jul 03 14:38:44 *	I have 10 clients and 1 servers
+Jul 03 14:38:44 *	Current local users: 10  Max: 37
+Jul 03 14:38:44 *	Current global users: 73  Max: 80
+Jul 03 14:38:44 *	joestar.interlinked.me message of the day
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	This is my stand...
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	       mmmm
+Jul 03 14:38:44 *	       #       mmmmm  mmmmm    mmm
+Jul 03 14:38:44 *	       #         #    #   "# m"   "
+Jul 03 14:38:44 *	       #         #    #mmmm" #
+Jul 03 14:38:44 *	       "         #    #   "m #
+Jul 03 14:38:44 *	               mm#mm  #    "  "mmm"
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	  mmmm  mmmmmm mmmmm  m    m mmmmmm mmmmm
+Jul 03 14:38:44 *	 #"   " #      #   "# "m  m" #      #   "#    #
+Jul 03 14:38:44 *	 "#mmm  #mmmmm #mmmm"  #  #  #mmmmm #mmmm"    #
+Jul 03 14:38:44 *	     "# #      #   "m  "mm"  #      #   "m    #
+Jul 03 14:38:44 *	 "mmm#" #mmmmm #    "   ##   #mmmmm #    " mmm#
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	Welcome to Interlinked! — A place for friends
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	This server is joestar.interlinked.me — generously donated by Elizafox.
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	There are only a few simple rules:
+Jul 03 14:38:44 *	 1. Don't be a dick.
+Jul 03 14:38:44 *	 2. VHost domains must be an invalid domain or one owned by you
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	To see our detailed Code of Conduct, type /RULES (try /QUOTE RULES or
+Jul 03 14:38:44 *	/RAW RULES if that doesn't work). It's quite boring, but just follow
+Jul 03 14:38:44 *	rule #1 and you'll be fine.
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	============================ GETTING HELP ============================
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- VHosts/cloaks -----
+Jul 03 14:38:44 *	See /HELPOP GETVHOST
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	(If this command doesn't work, try /RAW HELPOP GETVHOST or
+Jul 03 14:38:44 *	/QUOTE HELPOP GETVHOST).
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- Emergency help -----
+Jul 03 14:38:44 *	Check /STATS P to find an oper who is online or join #help.
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- All other inquiries -----
+Jul 03 14:38:44 *	The best way is to use HelpServ. See /HELPOP HELPINFO
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	(If this command doesn't work, try /RAW HELPOP HELPINFO or
+Jul 03 14:38:44 *	/QUOTE HELPOP HELPINFO).
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	============================== CHANNELS ==============================
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- Topical -----
+Jul 03 14:38:44 *	#OmegOS - Retrocomputing
+Jul 03 14:38:44 *	#Adelie - the official home of the Adélie Linux distribution
+Jul 03 14:38:44 *	#code - developers' lounge
+Jul 03 14:38:44 *	#music — Now That's What I Call #Music
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- Off-topic -----
+Jul 03 14:38:44 *	#Sporks — general off-topic weird banter
+Jul 03 14:38:44 *	#lgbt — LGBT-friendly channel
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	=============================== LEGAL ================================
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- GDPR -----
+Jul 03 14:38:44 *	See /GDPR for EU General Data Protection Regulation information.
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	----- Disclaimers -----
+Jul 03 14:38:44 *	Views expressed by the operators, administrators, any other staff,
+Jul 03 14:38:44 *	foundation members, or users, are not official views held by the
+Jul 03 14:38:44 *	Interlinked Foundation.
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	Interlinked is a holding of the Interlinked Foundation, a non-profit
+Jul 03 14:38:44 *	501(c)(3) organization incorporated in Tulsa, Oklahoma, United States.
+Jul 03 14:38:44 *	 
+Jul 03 14:38:44 *	We do not permit open proxies and upon connecting, you will be scanned
+Jul 03 14:38:44 *	for them. If you do not consent to this, then disconnect now.
+Jul 03 14:38:44 *	End of message of the day.
+Jul 03 14:38:44 *	Interlinked-f4u5ge.748f.kd1e.08siiv.IP :is now your displayed host
+Jul 03 14:38:44 *	*** You are connected to irc.interlinked.me using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Jul 03 14:42:58 *	No ping reply for 90 seconds, disconnecting.
+Jul 03 14:42:58 *	Disconnected ()
+Jul 03 14:43:08 *	Looking up irc.interlinked.me
+Jul 03 14:43:23 *	Unknown host. Maybe you misspelled it?
+Jul 03 14:43:33 Cycling to next server in Interlinked...
+Jul 03 14:43:33 *	Disconnected ()
+Jul 03 14:43:33 *	Looking up irc.interlinked.me
+Jul 03 14:43:39 *	Connecting to irc.interlinked.me (2604:180:0:26a::2:6697)
+Jul 03 14:43:47 *	* Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:43:47 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:43:47 *	* Subject: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:43:47 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 14:43:47 *	* Subject: /CN=*.interlinked.me
+Jul 03 14:43:47 *	* Issuer: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 14:43:47 *	* Certification info:
+Jul 03 14:43:47 *	  Subject:
+Jul 03 14:43:47 *	    CN=*.interlinked.me
+Jul 03 14:43:47 *	  Issuer:
+Jul 03 14:43:47 *	    C=FR
+Jul 03 14:43:47 *	    O=Gandi SAS
+Jul 03 14:43:47 *	    CN=GandiCert
+Jul 03 14:43:47 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 03 14:43:47 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 14:43:47 *	  Valid since Mar 23 00:00:00 2025 GM to Mar 22 23:59:59 2026 GM
+Jul 03 14:43:47 *	* Cipher info:
+Jul 03 14:43:47 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 03 14:43:47 *	Connected. Now logging in.
+Jul 03 14:43:48 *	*** Looking up your hostname...
+Jul 03 14:43:48 *	*** Found your hostname (syn-023-240-201-077.res.spectrum.com)
+Jul 03 14:43:48 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join extended-monitor inspircd.org/poison invite-notify labeled-response message-tags multi-prefix sasl=AUTHCOOKIE,ECDSA-NIST256P-CHALLENGE,EXTERNAL,PLAIN server-time standard-replies sts=duration=31557600,preload tls userhost-in-names 
+Jul 03 14:43:48 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names 
+Jul 03 14:43:48 *	*** If you are having problems connecting due to registration timeouts type /quote PONG r@PVRzCNQR or /raw PONG r@PVRzCNQR now.
+Jul 03 14:43:48 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names
+Jul 03 14:43:49 *	Welcome to the Interlinked IRC Network dug!~dug___@syn-023-240-201-077.res.spectrum.com
+Jul 03 14:43:49 *	Your host is stan.interlinked.me, running version InspIRCd-3
+Jul 03 14:43:49 *	This server was created 06:02:26 Feb 22 2025
+Jul 03 14:43:49 *	stan.interlinked.me InspIRCd-3 BHILORSTVWcdghikorswxz ABCDEFHIJKLMNOPQRSTUXZabcdefghijklmnopqrstuvxz :BEFHIJLXZabdefghjkloqvx
+Jul 03 14:43:49 *	ACCEPT=10 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbeg,k,BEFHJLdfjlx,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=24 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Jul 03 14:43:49 *	EXTBAN=,ACGNOQRSTUbcjmnpxz HOSTLEN=80 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=Interlinked :are supported by this server
+Jul 03 14:43:49 *	NICKLEN=14 OVERRIDE=O PREFIX=(qaohv)~&@%+ SAFELIST SECURELIST=86400 SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BHILORSTVWcdghikorwxz WATCH=32 :are supported by this server
+Jul 03 14:43:49 *	WHOX :are supported by this server
+Jul 03 14:43:49 *	There are 61 users and 12 invisible on 5 servers
+Jul 03 14:43:49 *	3 :operator(s) online
+Jul 03 14:43:49 *	1 :unknown connections
+Jul 03 14:43:49 *	60 :channels formed
+Jul 03 14:43:49 *	I have 28 clients and 1 servers
+Jul 03 14:43:49 *	Current local users: 28  Max: 31
+Jul 03 14:43:49 *	Current global users: 73  Max: 80
+Jul 03 14:43:49 *	stan.interlinked.me message of the day
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	Welcome to Interlinked! — A place for friends
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	This server is stan.interlinked.me — generously donated by raven.
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	There are only a few simple rules:
+Jul 03 14:43:49 *	 1. Don't be a dick.
+Jul 03 14:43:49 *	 2. VHost domains must be an invalid domain or one owned by you
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	To see our detailed Code of Conduct, type /RULES (try /QUOTE RULES or
+Jul 03 14:43:49 *	/RAW RULES if that doesn't work). It's quite boring, but just follow
+Jul 03 14:43:49 *	rule #1 and you'll be fine.
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	============================ GETTING HELP ============================
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- VHosts/cloaks -----
+Jul 03 14:43:49 *	See /HELPOP GETVHOST
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	(If this command doesn't work, try /RAW HELPOP GETVHOST or
+Jul 03 14:43:49 *	/QUOTE HELPOP GETVHOST).
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- Emergency help -----
+Jul 03 14:43:49 *	Check /STATS P to find an oper who is online or join #help.
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- All other inquiries -----
+Jul 03 14:43:49 *	The best way is to use HelpServ. See /HELPOP HELPINFO
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	(If this command doesn't work, try /RAW HELPOP HELPINFO or
+Jul 03 14:43:49 *	/QUOTE HELPOP HELPINFO).
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	============================== CHANNELS ==============================
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- Topical -----
+Jul 03 14:43:49 *	#OmegOS - Retrocomputing
+Jul 03 14:43:49 *	#Adelie - the official home of the Adélie Linux distribution
+Jul 03 14:43:49 *	#code - developers' lounge
+Jul 03 14:43:49 *	#music — Now That's What I Call #Music
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- Off-topic -----
+Jul 03 14:43:49 *	#Sporks — general off-topic weird banter
+Jul 03 14:43:49 *	#lgbt — LGBT-friendly channel
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	=============================== LEGAL ================================
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- GDPR -----
+Jul 03 14:43:49 *	See /GDPR for EU General Data Protection Regulation information.
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	----- Disclaimers -----
+Jul 03 14:43:49 *	Views expressed by the operators, administrators, any other staff,
+Jul 03 14:43:49 *	foundation members, or users, are not official views held by the
+Jul 03 14:43:49 *	Interlinked Foundation.
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	Interlinked is a holding of the Interlinked Foundation, a non-profit
+Jul 03 14:43:49 *	501(c)(3) organization incorporated in Tulsa, Oklahoma, United States.
+Jul 03 14:43:49 *	 
+Jul 03 14:43:49 *	We do not permit open proxies and upon connecting, you will be scanned
+Jul 03 14:43:49 *	for them. If you do not consent to this, then disconnect now.
+Jul 03 14:43:49 *	End of message of the day.
+Jul 03 14:43:49 *	Interlinked-0eu.b5q.u777s6.IP :is now your displayed host
+Jul 03 14:43:49 *	*** You are connected to irc.interlinked.me using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'
+Jul 04 16:29:33 *	No ping reply for 155 seconds, disconnecting.
+Jul 04 16:29:33 *	Disconnected ()
+Jul 04 16:29:43 *	Looking up irc.interlinked.me
+Jul 04 16:29:44 *	Connecting to irc.interlinked.me (2604:180:0:26a::2:6697)
+Jul 04 16:29:45 *	* Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 04 16:29:45 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 04 16:29:45 *	* Subject: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 04 16:29:45 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 04 16:29:45 *	* Subject: /CN=*.interlinked.me
+Jul 04 16:29:45 *	* Issuer: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 04 16:29:45 *	* Certification info:
+Jul 04 16:29:45 *	  Subject:
+Jul 04 16:29:45 *	    CN=*.interlinked.me
+Jul 04 16:29:45 *	  Issuer:
+Jul 04 16:29:45 *	    C=FR
+Jul 04 16:29:45 *	    O=Gandi SAS
+Jul 04 16:29:45 *	    CN=GandiCert
+Jul 04 16:29:45 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 04 16:29:45 *	  Sign algorithm sha256WithRSAEncryption
+Jul 04 16:29:45 *	  Valid since Mar 23 00:00:00 2025 GM to Mar 22 23:59:59 2026 GM
+Jul 04 16:29:45 *	* Cipher info:
+Jul 04 16:29:45 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 04 16:29:45 *	Connected. Now logging in.
+Jul 04 16:29:45 *	*** Looking up your hostname...
+Jul 04 16:29:45 *	*** Could not resolve your hostname: Domain not found; using your IP address (2603:8001:7a00:30af:f59f:8551:64be:d335) instead.
+Jul 04 16:29:45 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost echo-message extended-join extended-monitor inspircd.org/poison invite-notify labeled-response message-tags multi-prefix sasl=AUTHCOOKIE,ECDSA-NIST256P-CHALLENGE,EXTERNAL,PLAIN server-time standard-replies sts=duration=31557600,preload tls userhost-in-names 
+Jul 04 16:29:45 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names 
+Jul 04 16:29:45 *	*** If you are having problems connecting due to registration timeouts type /quote PONG izP{^[nKgX or /raw PONG izP{^[nKgX now.
+Jul 04 16:29:45 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join extended-monitor invite-notify multi-prefix server-time userhost-in-names
+Jul 04 16:29:47 *	Welcome to the Interlinked IRC Network dug!~dug___@2603:8001:7a00:30af:f59f:8551:64be:d335
+Jul 04 16:29:47 *	Your host is joestar.interlinked.me, running version InspIRCd-3
+Jul 04 16:29:47 *	This server was created 05:11:47 Nov 25 2024
+Jul 04 16:29:47 *	joestar.interlinked.me InspIRCd-3 BHILORSTVWcdghikorswxz ABCDEFHIJKLMNOPQRSTUXZabcdefghijklmnopqrstuvxz :BEFHIJLXZabdefghjkloqvx
+Jul 04 16:29:47 *	ACCEPT=10 AWAYLEN=200 BOT=B CALLERID=g CASEMAPPING=ascii CHANLIMIT=#:20 CHANMODES=IXZbeg,k,BEFHJLdfjlx,ACDKMNOPQRSTUcimnprstuz CHANNELLEN=24 CHANTYPES=# ELIST=CMNTU ESILENCE=CcdiNnPpTtx EXCEPTS=e :are supported by this server
+Jul 04 16:29:47 *	EXTBAN=,ACGNOQRSTUbcjmnpxz HOSTLEN=80 INVEX=I KEYLEN=32 KICKLEN=255 LINELEN=512 MAXLIST=I:100,X:100,b:100,e:100,g:100 MAXTARGETS=20 MODES=20 MONITOR=30 NAMELEN=128 NAMESX NETWORK=Interlinked :are supported by this server
+Jul 04 16:29:47 *	NICKLEN=14 OVERRIDE=O PREFIX=(qaohv)~&@%+ SAFELIST SECURELIST=86400 SILENCE=32 STATUSMSG=~&@%+ TOPICLEN=390 UHNAMES USERIP USERLEN=10 USERMODES=,,s,BHILORSTVWcdghikorwxz WATCH=32 :are supported by this server
+Jul 04 16:29:47 *	WHOX :are supported by this server
+Jul 04 16:29:47 *	There are 60 users and 12 invisible on 5 servers
+Jul 04 16:29:47 *	3 :operator(s) online
+Jul 04 16:29:47 *	1 :unknown connections
+Jul 04 16:29:47 *	60 :channels formed
+Jul 04 16:29:47 *	I have 9 clients and 1 servers
+Jul 04 16:29:47 *	Current local users: 9  Max: 37
+Jul 04 16:29:47 *	Current global users: 72  Max: 80
+Jul 04 16:29:47 *	joestar.interlinked.me message of the day
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	This is my stand...
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	       mmmm
+Jul 04 16:29:47 *	       #       mmmmm  mmmmm    mmm
+Jul 04 16:29:47 *	       #         #    #   "# m"   "
+Jul 04 16:29:47 *	       #         #    #mmmm" #
+Jul 04 16:29:47 *	       "         #    #   "m #
+Jul 04 16:29:47 *	               mm#mm  #    "  "mmm"
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	  mmmm  mmmmmm mmmmm  m    m mmmmmm mmmmm
+Jul 04 16:29:47 *	 #"   " #      #   "# "m  m" #      #   "#    #
+Jul 04 16:29:47 *	 "#mmm  #mmmmm #mmmm"  #  #  #mmmmm #mmmm"    #
+Jul 04 16:29:47 *	     "# #      #   "m  "mm"  #      #   "m    #
+Jul 04 16:29:47 *	 "mmm#" #mmmmm #    "   ##   #mmmmm #    " mmm#
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	Welcome to Interlinked! — A place for friends
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	This server is joestar.interlinked.me — generously donated by Elizafox.
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	There are only a few simple rules:
+Jul 04 16:29:47 *	 1. Don't be a dick.
+Jul 04 16:29:47 *	 2. VHost domains must be an invalid domain or one owned by you
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	To see our detailed Code of Conduct, type /RULES (try /QUOTE RULES or
+Jul 04 16:29:47 *	/RAW RULES if that doesn't work). It's quite boring, but just follow
+Jul 04 16:29:47 *	rule #1 and you'll be fine.
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	============================ GETTING HELP ============================
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- VHosts/cloaks -----
+Jul 04 16:29:47 *	See /HELPOP GETVHOST
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	(If this command doesn't work, try /RAW HELPOP GETVHOST or
+Jul 04 16:29:47 *	/QUOTE HELPOP GETVHOST).
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- Emergency help -----
+Jul 04 16:29:47 *	Check /STATS P to find an oper who is online or join #help.
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- All other inquiries -----
+Jul 04 16:29:47 *	The best way is to use HelpServ. See /HELPOP HELPINFO
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	(If this command doesn't work, try /RAW HELPOP HELPINFO or
+Jul 04 16:29:47 *	/QUOTE HELPOP HELPINFO).
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	============================== CHANNELS ==============================
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- Topical -----
+Jul 04 16:29:47 *	#OmegOS - Retrocomputing
+Jul 04 16:29:47 *	#Adelie - the official home of the Adélie Linux distribution
+Jul 04 16:29:47 *	#code - developers' lounge
+Jul 04 16:29:47 *	#music — Now That's What I Call #Music
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- Off-topic -----
+Jul 04 16:29:47 *	#Sporks — general off-topic weird banter
+Jul 04 16:29:47 *	#lgbt — LGBT-friendly channel
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	=============================== LEGAL ================================
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- GDPR -----
+Jul 04 16:29:47 *	See /GDPR for EU General Data Protection Regulation information.
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	----- Disclaimers -----
+Jul 04 16:29:47 *	Views expressed by the operators, administrators, any other staff,
+Jul 04 16:29:47 *	foundation members, or users, are not official views held by the
+Jul 04 16:29:47 *	Interlinked Foundation.
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	Interlinked is a holding of the Interlinked Foundation, a non-profit
+Jul 04 16:29:47 *	501(c)(3) organization incorporated in Tulsa, Oklahoma, United States.
+Jul 04 16:29:47 *	 
+Jul 04 16:29:47 *	We do not permit open proxies and upon connecting, you will be scanned
+Jul 04 16:29:47 *	for them. If you do not consent to this, then disconnect now.
+Jul 04 16:29:47 *	End of message of the day.
+Jul 04 16:29:47 *	Interlinked-sldtub.748f.kd1e.08siiv.IP :is now your displayed host
+Jul 04 16:29:47 *	*** You are connected to irc.interlinked.me using TLS (SSL) cipher 'TLSv1.3-TLS_AES_256_GCM_SHA384'

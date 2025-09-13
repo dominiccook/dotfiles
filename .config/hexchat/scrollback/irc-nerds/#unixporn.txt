@@ -1,0 +1,27 @@
+T 1751576398 19*	Now talking on 22#UnixPorn
+T 1751576398 22*	Topic for 22#UnixPorn is: Links, tips and tricks to customizing your desktop, IRC, and other applications. Share your screenshots! (Use https://www.irc-nerds.net/imgur/ if you need to:))
+T 1751576398 22*	Topic for 22#UnixPorn set by 26sorcerer (24Wed Aug 18 09:59:15 2021)
+T 1751577958 20*	Disconnected (20)
+T 1751578472 19*	Now talking on 22#UnixPorn
+T 1751578472 22*	Topic for 22#UnixPorn is: Links, tips and tricks to customizing your desktop, IRC, and other applications. Share your screenshots! (Use https://www.irc-nerds.net/imgur/ if you need to:))
+T 1751578472 22*	Topic for 22#UnixPorn set by 26sorcerer (24Wed Aug 18 09:59:15 2021)
+T 1751578531 20*	You are now known as 18Guest36128
+T 1751578978 20*	Disconnected (20)
+T 1751579022 19*	Now talking on 22#UnixPorn
+T 1751579022 22*	Topic for 22#UnixPorn is: Links, tips and tricks to customizing your desktop, IRC, and other applications. Share your screenshots! (Use https://www.irc-nerds.net/imgur/ if you need to:))
+T 1751579022 22*	Topic for 22#UnixPorn set by 26sorcerer (24Wed Aug 18 09:59:15 2021)
+T 1751579068 24*	Guest36128 has quit (Ping timeout: 180 seconds)
+T 1751579081 20*	You are now known as 18Guest33538
+T 1751614184 24*	nerds has quit (hub.irc-nerds.net storage.dallas.tx.irc-nerds.net)
+T 1751614198 23*	nerds (limnoria@official.network.bot23) has joined
+T 1751614198 22*	26storage.dallas.tx.irc-nerds.net gives voice to 18nerds
+T 1751650414 23*	koeuk (koeuk@nerds/user/koeuk23) has joined
+T 1751657264 23*	guyver (guyver@nerd-EEDB6925.lightspeed.crchtx.sbcglobal.net23) has joined
+T 1751658324 18<guyver18>	hi
+T 1751671773 20*	Disconnected (20)
+T 1751671789 19*	Now talking on 22#UnixPorn
+T 1751671789 22*	Topic for 22#UnixPorn is: Links, tips and tricks to customizing your desktop, IRC, and other applications. Share your screenshots! (Use https://www.irc-nerds.net/imgur/ if you need to:))
+T 1751671789 22*	Topic for 22#UnixPorn set by 26sorcerer (24Wed Aug 18 09:59:15 2021)
+T 1751675645 24*	koeuk has quit (Quit: Leaving)
+T 1751677307 20<dug_>30	hi
+T 1751677307 29*	#UnixPorn :You must have a registered nick (+r) to talk on this channel (#UnixPorn)

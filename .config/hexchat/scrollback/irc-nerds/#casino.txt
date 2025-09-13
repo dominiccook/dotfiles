@@ -1,0 +1,20 @@
+T 1751576879 19*	Now talking on 22#casino
+T 1751576879 22*	Topic for 22#casino is: Welcome to the casino! | Texas Holdem = !holdem | BlackJack = ?blackjack | Uno = !unocmds | Hangman = !hangmanstart | Lotto = !lotto
+T 1751576879 22*	Topic for 22#casino set by 26Zuberlan (24Thu Aug 17 13:54:35 2023)
+T 1751577958 20*	Disconnected (20)
+T 1751578472 19*	Now talking on 22#casino
+T 1751578472 22*	Topic for 22#casino is: Welcome to the casino! | Texas Holdem = !holdem | BlackJack = ?blackjack | Uno = !unocmds | Hangman = !hangmanstart | Lotto = !lotto
+T 1751578472 22*	Topic for 22#casino set by 26Zuberlan (24Thu Aug 17 13:54:35 2023)
+T 1751578531 20*	You are now known as 18Guest36128
+T 1751578978 20*	Disconnected (20)
+T 1751579022 19*	Now talking on 22#casino
+T 1751579022 22*	Topic for 22#casino is: Welcome to the casino! | Texas Holdem = !holdem | BlackJack = ?blackjack | Uno = !unocmds | Hangman = !hangmanstart | Lotto = !lotto
+T 1751579022 22*	Topic for 22#casino set by 26Zuberlan (24Thu Aug 17 13:54:35 2023)
+T 1751579068 24*	Guest36128 has quit (Ping timeout: 180 seconds)
+T 1751579081 20*	You are now known as 18Guest33538
+T 1751670920 23*	awupel (sreino@5673E2D4.313DE73F.136EE61A.IP23) has joined
+T 1751671094 24*	awupel has quit (Banned (Z-Lined): Spam)
+T 1751671773 20*	Disconnected (20)
+T 1751671789 19*	Now talking on 22#casino
+T 1751671789 22*	Topic for 22#casino is: Welcome to the casino! | Texas Holdem = !holdem | BlackJack = ?blackjack | Uno = !unocmds | Hangman = !hangmanstart | Lotto = !lotto
+T 1751671789 22*	Topic for 22#casino set by 26Zuberlan (24Thu Aug 17 13:54:35 2023)

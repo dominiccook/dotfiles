@@ -1,0 +1,37 @@
+**** BEGIN LOGGING AT Thu Jul  3 13:49:28 2025
+
+Jul 03 13:49:28 *	Looking up irc.choopa.net
+**** BEGIN LOGGING AT Thu Jul  3 14:10:57 2025
+
+Jul 03 14:10:57 *	Looking up irc.choopa.net
+Jul 03 14:10:57 *	Connecting to irc.choopa.net (2001:19f0::dead:beef:cafe:6697)
+Jul 03 14:12:49 *	Stopped previous connection attempt (59723)
+Jul 03 14:12:49 *	Looking up irc.choopa.net
+Jul 03 14:12:49 *	Connecting to irc.choopa.net (2001:19f0::dead:beef:cafe:6667)
+Jul 03 14:12:49 *	Connection failed ((167772427) error:0A00010B:SSL routines::wrong version number)
+Jul 03 14:12:49 Are you sure this is a SSL capable server and port?
+Jul 03 14:13:09 *	Looking up irc.choopa.net
+Jul 03 14:13:09 *	Connecting to irc.choopa.net (2001:19f0::dead:beef:cafe:6697)
+Jul 03 14:14:16 *	Stopped previous connection attempt (59769)
+Jul 03 14:14:16 *	Looking up 66.225.225.225
+Jul 03 14:14:16 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:14:17 *	Connection failed ((167772427) error:0A00010B:SSL routines::wrong version number)
+Jul 03 14:14:17 Are you sure this is a SSL capable server and port?
+Jul 03 14:14:28 *	Looking up 66.225.225.225
+Jul 03 14:14:28 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 03 14:14:28 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Sun Jul  6 17:07:47 2025
+
+Jul 06 17:07:47 *	Looking up 66.225.225.225
+Jul 06 17:07:47 *	Connecting to 66.225.225.225 (66.225.225.225:6667)
+Jul 06 17:07:47 *	Connected. Now logging in.
+Jul 06 17:07:47 *	*** Processing connection to irc.deft.com
+Jul 06 17:07:47 *	*** Looking up your hostname...
+Jul 06 17:07:47 *	*** Checking Ident
+Jul 06 17:07:47 *	*** Found your hostname
+Jul 06 17:07:52 *	*** No Ident response
+Jul 06 17:07:52 *	Capabilities supported: multi-prefix
+Jul 06 17:07:52 *	Capabilities requested: multi-prefix 
+Jul 06 17:07:52 *	Capabilities acknowledged: multi-prefix 
+**** ENDING LOGGING AT Sun Jul  6 17:07:52 2025
+

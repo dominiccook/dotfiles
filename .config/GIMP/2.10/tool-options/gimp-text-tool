@@ -1,0 +1,11 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.48627451062202454 0 0.10980392247438431))
+(palette "Color History")
+(font "DejaVu Sans Mono Bold")
+(font-size 3.2941979522184295)
+(font-size-unit millimeters)
+(hint-style full)
+(justify center)
+
+# end of gimp-text-tool options

@@ -1,0 +1,87 @@
+**** BEGIN LOGGING AT Thu Jul  3 13:50:53 2025
+
+Jul 03 13:50:53 *	Stopped previous connection attempt (56967)
+Jul 03 13:50:53 *	Looking up irc.interlinked.me
+Jul 03 13:50:54 *	Connecting to irc.interlinked.me (2604:180:0:26a::2:6697)
+Jul 03 13:50:55 *	* Subject: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 13:50:55 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 13:50:55 *	* Subject: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 13:50:55 *	* Issuer: /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root G2
+Jul 03 13:50:55 *	* Subject: /CN=*.interlinked.me
+Jul 03 13:50:55 *	* Issuer: /C=FR/O=Gandi SAS/CN=GandiCert
+Jul 03 13:50:55 *	* Certification info:
+Jul 03 13:50:55 *	  Subject:
+Jul 03 13:50:55 *	    CN=*.interlinked.me
+Jul 03 13:50:55 *	  Issuer:
+Jul 03 13:50:55 *	    C=FR
+Jul 03 13:50:55 *	    O=Gandi SAS
+Jul 03 13:50:55 *	    CN=GandiCert
+Jul 03 13:50:55 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 03 13:50:55 *	  Sign algorithm sha256WithRSAEncryption
+Jul 03 13:50:55 *	  Valid since Mar 23 00:00:00 2025 GM to Mar 22 23:59:59 2026 GM
+Jul 03 13:50:55 *	* Cipher info:
+Jul 03 13:50:55 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jul 03 13:50:55 *	Connected. Now logging in.
+**** BEGIN LOGGING AT Thu Jul  3 14:34:11 2025
+
+Jul 03 14:34:11 *	dug sets mode +x on dug
+Jul 03 14:34:11 -InfoServ-	*** Message(s) of the Day ***
+Jul 03 14:34:11 -InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+Jul 03 14:34:11 -InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+Jul 03 14:34:11 -InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+Jul 03 14:34:11 -InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+Jul 03 14:34:11 -InfoServ-	*** End of Message(s) of the Day ***
+Jul 03 14:34:11 -NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Thu Jul  3 14:34:17 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:36:37 2025
+
+Jul 03 14:36:37 *	dug is already in use. Retrying with dug_...
+Jul 03 14:36:40 *	dug_ sets mode +x on dug_
+Jul 03 14:36:40 -InfoServ-	*** Message(s) of the Day ***
+Jul 03 14:36:40 -InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+Jul 03 14:36:40 -InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+Jul 03 14:36:40 -InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+Jul 03 14:36:40 -InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+Jul 03 14:36:40 -InfoServ-	*** End of Message(s) of the Day ***
+Jul 03 14:36:40 -NickServ-	Welcome to Interlinked, dug_! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Thu Jul  3 14:36:41 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:38:39 2025
+
+Jul 03 14:38:39 *	dug_ is already in use. Retrying with dug_...
+Jul 03 14:38:39 *	dug_ is already in use. Retrying with dug__...
+Jul 03 14:38:44 *	dug__ sets mode +x on dug__
+Jul 03 14:38:44 -InfoServ-	*** Message(s) of the Day ***
+Jul 03 14:38:44 -InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+Jul 03 14:38:44 -InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+Jul 03 14:38:44 -InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+Jul 03 14:38:44 -InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+Jul 03 14:38:44 -InfoServ-	*** End of Message(s) of the Day ***
+Jul 03 14:38:44 -NickServ-	Welcome to Interlinked, dug__! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Thu Jul  3 14:38:45 2025
+
+**** BEGIN LOGGING AT Thu Jul  3 14:43:49 2025
+
+Jul 03 14:43:49 *	dug sets mode +x on dug
+Jul 03 14:43:49 -InfoServ-	*** Message(s) of the Day ***
+Jul 03 14:43:49 -InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+Jul 03 14:43:49 -InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+Jul 03 14:43:49 -InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+Jul 03 14:43:49 -InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+Jul 03 14:43:49 -InfoServ-	*** End of Message(s) of the Day ***
+Jul 03 14:43:49 -NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Thu Jul  3 14:43:50 2025
+
+**** BEGIN LOGGING AT Fri Jul  4 16:29:49 2025
+
+Jul 04 16:29:47 *	dug sets mode +x on dug
+Jul 04 16:29:47 -InfoServ-	*** Message(s) of the Day ***
+Jul 04 16:29:47 -InfoServ-	[VHosts] Notice from Elizafox, posted 18:45 on 12/14/2020:
+Jul 04 16:29:47 -InfoServ-	If you want a VHost, just use HostServ. For instructions, use the command /HELPOP GETVHOST (if that doesn't work, try /QUOTE HELPOP GETVHOST or /RAW HELPOP GETVHOST). Please make sure you only request a domain you own or is otherwise invalid.
+Jul 04 16:29:47 -InfoServ-	[Getting Help] Notice from Elizafox, posted 18:44 on 12/14/2020:
+Jul 04 16:29:47 -InfoServ-	If you need help from network administration for whatever reason, see /HELPOP HELPINFO for information on ways to get help. If this command doesn't work, try /QUOTE HELPOP HELPINFO or /RAW HELPOP HELPINFO. If none of those work, you can check for available operators with /stats P, or use HelpServ (/msg HelpServ help).
+Jul 04 16:29:47 -InfoServ-	*** End of Message(s) of the Day ***
+Jul 04 16:29:47 -NickServ-	Welcome to Interlinked, dug! Here on Interlinked, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Fri Jul  4 16:29:49 2025
+

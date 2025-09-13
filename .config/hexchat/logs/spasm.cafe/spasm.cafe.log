@@ -1,0 +1,386 @@
+**** BEGIN LOGGING AT Sun May 11 17:39:44 2025
+
+May 11 17:39:44 Cycling to next server in spasm.cafe...
+May 11 17:39:44 *	Disconnected ()
+May 11 17:39:44 *	Looking up spasm.cafe
+May 11 17:39:44 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 17:40:04 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 17:40:04 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 17:40:04 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 17:40:04 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 17:40:04 *	* Subject: /CN=spasm.cafe
+May 11 17:40:04 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 17:40:04 *	* Certification info:
+May 11 17:40:04 *	  Subject:
+May 11 17:40:04 *	    CN=spasm.cafe
+May 11 17:40:04 *	  Issuer:
+May 11 17:40:04 *	    C=US
+May 11 17:40:04 *	    O=Let's Encrypt
+May 11 17:40:04 *	    CN=E5
+May 11 17:40:04 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 17:40:04 *	  Sign algorithm ecdsa-with-SHA384
+May 11 17:40:04 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 17:40:04 *	* Cipher info:
+May 11 17:40:04 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 17:40:04 *	Connected. Now logging in.
+May 11 17:40:04 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+May 11 17:40:04 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+May 11 17:40:04 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+May 11 17:40:04 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+May 11 17:40:05 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+May 11 17:40:05 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+May 11 17:40:09 *	Welcome to the The-Workshop IRC Network bud__
+May 11 17:40:09 *	Your host is spasm.cafe, running version ergo-2.15.0
+May 11 17:40:09 *	This server was created Sun, 11 May 2025 17:29:42 UTC
+May 11 17:40:09 *	spasm.cafe ergo-2.15.0 BERTZios CEIMRUabefhiklmnoqstuv Iabefhkloqv
+May 11 17:40:09 *	AWAYLEN=390 BOT=B CASEMAPPING=ascii CHANLIMIT=#:100 CHANMODES=Ibe,k,fl,CEMRUimnstu CHANNELLEN=64 CHANTYPES=# CHATHISTORY=1000 ELIST=U EXCEPTS EXTBAN=,m FORWARD=f INVEX :are supported by this server
+May 11 17:40:09 *	KICKLEN=390 MAXLIST=beI:100 MAXTARGETS=4 MODES MONITOR=100 MSGREFTYPES=msgid,timestamp NETWORK=The-Workshop NICKLEN=32 PREFIX=(qaohv)~&@%+ SAFELIST STATUSMSG=~&@%+ TARGMAX=NAMES:1,LIST:1,KICK:,WHOIS:1,USERHOST:10,PRIVMSG:4,TAGMSG:4,NOTICE:4,MONITOR:100 TOPICLEN=390 :are supported by this server
+May 11 17:40:09 *	UTF8ONLY WHOX draft/CHATHISTORY=1000 :are supported by this server
+May 11 17:40:09 *	There are 0 users and 4 invisible on 1 server(s)
+May 11 17:40:09 *	0 :IRC Operators online
+May 11 17:40:09 *	2 :unregistered connections
+May 11 17:40:09 *	3 :channels formed
+May 11 17:40:09 *	I have 4 clients and 0 servers
+May 11 17:40:09 *	4 4 :Current local users 4, max 4
+May 11 17:40:09 *	4 4 :Current global users 4, max 4
+May 11 17:40:09 *	- spasm.cafe Message of the day - 
+May 11 17:40:09 *	-      __ __  ______ ___  ______ ___ 
+May 11 17:40:09 *	-   __/ // /_/ ____/ __ \/ ____/ __ \
+May 11 17:40:09 *	-  /_  // __/ __/ / /_/ / / __/ / / /
+May 11 17:40:09 *	- /_  // __/ /___/ _, _/ /_/ / /_/ / 
+May 11 17:40:09 *	-  /_//_/ /_____/_/ |_|\____/\____/  
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- This is the default Ergo MOTD.
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- If motd-formatting is enabled in the config file, you can use the dollarsign character to
+May 11 17:40:09 *	- create special formatting such as bold, italics and color codes.
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- For example, here are a few formatted lines (enable motd-formatting to see these in action):
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- - this is bold text.
+May 11 17:40:09 *	- - this is italics text.
+May 11 17:40:09 *	- - this is red and blue text.
+May 11 17:40:09 *	- - this is red text with a light blue background.
+May 11 17:40:09 *	- - this is a normal escaped dollarsign: $
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- And now a few fun colour charts!
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	-  00  01  02  03  04  05  06  07 
+May 11 17:40:09 *	-  08  09  10  11  12  13  14  15 
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	-  16  17  18  19  20  21  22  23  24  25  26  27 
+May 11 17:40:09 *	-  28  29  30  31  32  33  34  35  36  37  38  39 
+May 11 17:40:09 *	-  40  41  42  43  44  45  46  47  48  49  50  51 
+May 11 17:40:09 *	-  52  53  54  55  56  57  58  59  60  61  62  63 
+May 11 17:40:09 *	-  64  65  66  67  68  69  70  71  72  73  74  75 
+May 11 17:40:09 *	-  76  77  78  79  80  81  82  83  84  85  86  87 
+May 11 17:40:09 *	-  88  89  90  91  92  93  94  95  96  97  98  99 
+May 11 17:40:09 *	- 
+May 11 17:40:09 *	- For more information on using these, see MOTDFORMATTING.md
+May 11 17:40:09 *	End of MOTD command
+May 11 17:40:09 *	+Zi
+May 11 20:06:23 *	No ping reply for 84 seconds, disconnecting.
+May 11 20:06:23 *	Disconnected ()
+May 11 20:06:33 *	Looking up spasm.cafe
+May 11 20:06:34 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 20:07:16 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:07:16 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:07:16 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:07:16 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:07:16 *	* Subject: /CN=spasm.cafe
+May 11 20:07:16 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:07:16 *	* Certification info:
+May 11 20:07:16 *	  Subject:
+May 11 20:07:16 *	    CN=spasm.cafe
+May 11 20:07:16 *	  Issuer:
+May 11 20:07:16 *	    C=US
+May 11 20:07:16 *	    O=Let's Encrypt
+May 11 20:07:16 *	    CN=E5
+May 11 20:07:16 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 20:07:16 *	  Sign algorithm ecdsa-with-SHA384
+May 11 20:07:16 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 20:07:16 *	* Cipher info:
+May 11 20:07:16 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 20:07:16 *	Connected. Now logging in.
+May 11 20:07:55 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+May 11 20:07:55 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+May 11 20:07:55 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+May 11 20:07:55 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+May 11 20:07:55 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+May 11 20:07:55 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+May 11 20:07:55 *	Welcome to the The-Workshop IRC Network bud__
+May 11 20:07:55 *	Your host is spasm.cafe, running version ergo-2.15.0
+May 11 20:07:55 *	This server was created Sun, 11 May 2025 17:29:42 UTC
+May 11 20:07:55 *	spasm.cafe ergo-2.15.0 BERTZios CEIMRUabefhiklmnoqstuv Iabefhkloqv
+May 11 20:07:55 *	AWAYLEN=390 BOT=B CASEMAPPING=ascii CHANLIMIT=#:100 CHANMODES=Ibe,k,fl,CEMRUimnstu CHANNELLEN=64 CHANTYPES=# CHATHISTORY=1000 ELIST=U EXCEPTS EXTBAN=,m FORWARD=f INVEX :are supported by this server
+May 11 20:07:55 *	KICKLEN=390 MAXLIST=beI:100 MAXTARGETS=4 MODES MONITOR=100 MSGREFTYPES=msgid,timestamp NETWORK=The-Workshop NICKLEN=32 PREFIX=(qaohv)~&@%+ SAFELIST STATUSMSG=~&@%+ TARGMAX=NAMES:1,LIST:1,KICK:,WHOIS:1,USERHOST:10,PRIVMSG:4,TAGMSG:4,NOTICE:4,MONITOR:100 TOPICLEN=390 :are supported by this server
+May 11 20:07:55 *	UTF8ONLY WHOX draft/CHATHISTORY=1000 :are supported by this server
+May 11 20:07:55 *	There are 1 users and 3 invisible on 1 server(s)
+May 11 20:07:55 *	0 :IRC Operators online
+May 11 20:07:55 *	1 :unregistered connections
+May 11 20:07:55 *	3 :channels formed
+May 11 20:07:55 *	I have 4 clients and 0 servers
+May 11 20:07:55 *	4 5 :Current local users 4, max 5
+May 11 20:07:55 *	4 5 :Current global users 4, max 5
+May 11 20:07:55 *	- spasm.cafe Message of the day - 
+May 11 20:07:55 *	-      __ __  ______ ___  ______ ___ 
+May 11 20:07:55 *	-   __/ // /_/ ____/ __ \/ ____/ __ \
+May 11 20:07:55 *	-  /_  // __/ __/ / /_/ / / __/ / / /
+May 11 20:07:55 *	- /_  // __/ /___/ _, _/ /_/ / /_/ / 
+May 11 20:07:55 *	-  /_//_/ /_____/_/ |_|\____/\____/  
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- This is the default Ergo MOTD.
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- If motd-formatting is enabled in the config file, you can use the dollarsign character to
+May 11 20:07:55 *	- create special formatting such as bold, italics and color codes.
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- For example, here are a few formatted lines (enable motd-formatting to see these in action):
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- - this is bold text.
+May 11 20:07:55 *	- - this is italics text.
+May 11 20:07:55 *	- - this is red and blue text.
+May 11 20:07:55 *	- - this is red text with a light blue background.
+May 11 20:07:55 *	- - this is a normal escaped dollarsign: $
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- And now a few fun colour charts!
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	-  00  01  02  03  04  05  06  07 
+May 11 20:07:55 *	-  08  09  10  11  12  13  14  15 
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	-  16  17  18  19  20  21  22  23  24  25  26  27 
+May 11 20:07:55 *	-  28  29  30  31  32  33  34  35  36  37  38  39 
+May 11 20:07:55 *	-  40  41  42  43  44  45  46  47  48  49  50  51 
+May 11 20:07:55 *	-  52  53  54  55  56  57  58  59  60  61  62  63 
+May 11 20:07:55 *	-  64  65  66  67  68  69  70  71  72  73  74  75 
+May 11 20:07:55 *	-  76  77  78  79  80  81  82  83  84  85  86  87 
+May 11 20:07:55 *	-  88  89  90  91  92  93  94  95  96  97  98  99 
+May 11 20:07:55 *	- 
+May 11 20:07:55 *	- For more information on using these, see MOTDFORMATTING.md
+May 11 20:07:55 *	End of MOTD command
+May 11 20:07:55 *	+Zi
+May 11 20:08:23 *	No ping reply for 67 seconds, disconnecting.
+May 11 20:08:23 *	Disconnected ()
+May 11 20:08:33 *	Looking up spasm.cafe
+May 11 20:08:33 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 20:08:34 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:08:34 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:08:34 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:08:34 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:08:34 *	* Subject: /CN=spasm.cafe
+May 11 20:08:34 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:08:34 *	* Certification info:
+May 11 20:08:34 *	  Subject:
+May 11 20:08:34 *	    CN=spasm.cafe
+May 11 20:08:34 *	  Issuer:
+May 11 20:08:34 *	    C=US
+May 11 20:08:34 *	    O=Let's Encrypt
+May 11 20:08:34 *	    CN=E5
+May 11 20:08:34 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 20:08:34 *	  Sign algorithm ecdsa-with-SHA384
+May 11 20:08:34 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 20:08:34 *	* Cipher info:
+May 11 20:08:34 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 20:08:34 *	Connected. Now logging in.
+May 11 20:08:34 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+May 11 20:08:34 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+May 11 20:08:34 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+May 11 20:08:34 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+May 11 20:08:35 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+May 11 20:08:35 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+May 11 20:09:34 *	Registration timeout: 1m0s
+May 11 20:09:34 *	Disconnected (Remote host closed socket)
+May 11 20:09:44 Cycling to next server in spasm.cafe...
+May 11 20:09:44 *	Disconnected ()
+May 11 20:09:44 *	Looking up spasm.cafe
+May 11 20:09:44 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 20:11:07 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:11:07 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:11:07 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:11:07 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:11:07 *	* Subject: /CN=spasm.cafe
+May 11 20:11:07 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:11:07 *	* Certification info:
+May 11 20:11:07 *	  Subject:
+May 11 20:11:07 *	    CN=spasm.cafe
+May 11 20:11:07 *	  Issuer:
+May 11 20:11:07 *	    C=US
+May 11 20:11:07 *	    O=Let's Encrypt
+May 11 20:11:07 *	    CN=E5
+May 11 20:11:07 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 20:11:07 *	  Sign algorithm ecdsa-with-SHA384
+May 11 20:11:07 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 20:11:07 *	* Cipher info:
+May 11 20:11:07 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 20:11:07 *	Connected. Now logging in.
+May 11 20:11:07 *	Disconnected (Remote host closed socket)
+May 11 20:11:17 Cycling to next server in spasm.cafe...
+May 11 20:11:17 *	Disconnected ()
+May 11 20:11:17 *	Looking up spasm.cafe
+May 11 20:11:17 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 20:11:17 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:11:17 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:11:17 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:11:17 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:11:17 *	* Subject: /CN=spasm.cafe
+May 11 20:11:17 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:11:17 *	* Certification info:
+May 11 20:11:17 *	  Subject:
+May 11 20:11:17 *	    CN=spasm.cafe
+May 11 20:11:17 *	  Issuer:
+May 11 20:11:17 *	    C=US
+May 11 20:11:17 *	    O=Let's Encrypt
+May 11 20:11:17 *	    CN=E5
+May 11 20:11:17 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 20:11:17 *	  Sign algorithm ecdsa-with-SHA384
+May 11 20:11:17 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 20:11:17 *	* Cipher info:
+May 11 20:11:17 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 20:11:17 *	Connected. Now logging in.
+May 11 20:11:18 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+May 11 20:11:18 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+May 11 20:11:18 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+May 11 20:11:18 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+May 11 20:11:18 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+May 11 20:11:18 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+May 11 20:11:22 *	Welcome to the The-Workshop IRC Network bud__
+May 11 20:11:22 *	Your host is spasm.cafe, running version ergo-2.15.0
+May 11 20:11:22 *	This server was created Sun, 11 May 2025 17:29:42 UTC
+May 11 20:11:22 *	spasm.cafe ergo-2.15.0 BERTZios CEIMRUabefhiklmnoqstuv Iabefhkloqv
+May 11 20:11:22 *	AWAYLEN=390 BOT=B CASEMAPPING=ascii CHANLIMIT=#:100 CHANMODES=Ibe,k,fl,CEMRUimnstu CHANNELLEN=64 CHANTYPES=# CHATHISTORY=1000 ELIST=U EXCEPTS EXTBAN=,m FORWARD=f INVEX :are supported by this server
+May 11 20:11:22 *	KICKLEN=390 MAXLIST=beI:100 MAXTARGETS=4 MODES MONITOR=100 MSGREFTYPES=msgid,timestamp NETWORK=The-Workshop NICKLEN=32 PREFIX=(qaohv)~&@%+ SAFELIST STATUSMSG=~&@%+ TARGMAX=NAMES:1,LIST:1,KICK:,WHOIS:1,USERHOST:10,PRIVMSG:4,TAGMSG:4,NOTICE:4,MONITOR:100 TOPICLEN=390 :are supported by this server
+May 11 20:11:22 *	UTF8ONLY WHOX draft/CHATHISTORY=1000 :are supported by this server
+May 11 20:11:22 *	There are 0 users and 3 invisible on 1 server(s)
+May 11 20:11:22 *	0 :IRC Operators online
+May 11 20:11:22 *	1 :unregistered connections
+May 11 20:11:22 *	3 :channels formed
+May 11 20:11:22 *	I have 3 clients and 0 servers
+May 11 20:11:22 *	3 5 :Current local users 3, max 5
+May 11 20:11:22 *	3 5 :Current global users 3, max 5
+May 11 20:11:22 *	- spasm.cafe Message of the day - 
+May 11 20:11:22 *	-      __ __  ______ ___  ______ ___ 
+May 11 20:11:22 *	-   __/ // /_/ ____/ __ \/ ____/ __ \
+May 11 20:11:22 *	-  /_  // __/ __/ / /_/ / / __/ / / /
+May 11 20:11:22 *	- /_  // __/ /___/ _, _/ /_/ / /_/ / 
+May 11 20:11:22 *	-  /_//_/ /_____/_/ |_|\____/\____/  
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- This is the default Ergo MOTD.
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- If motd-formatting is enabled in the config file, you can use the dollarsign character to
+May 11 20:11:22 *	- create special formatting such as bold, italics and color codes.
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- For example, here are a few formatted lines (enable motd-formatting to see these in action):
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- - this is bold text.
+May 11 20:11:22 *	- - this is italics text.
+May 11 20:11:22 *	- - this is red and blue text.
+May 11 20:11:22 *	- - this is red text with a light blue background.
+May 11 20:11:22 *	- - this is a normal escaped dollarsign: $
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- And now a few fun colour charts!
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	-  00  01  02  03  04  05  06  07 
+May 11 20:11:22 *	-  08  09  10  11  12  13  14  15 
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	-  16  17  18  19  20  21  22  23  24  25  26  27 
+May 11 20:11:22 *	-  28  29  30  31  32  33  34  35  36  37  38  39 
+May 11 20:11:22 *	-  40  41  42  43  44  45  46  47  48  49  50  51 
+May 11 20:11:22 *	-  52  53  54  55  56  57  58  59  60  61  62  63 
+May 11 20:11:22 *	-  64  65  66  67  68  69  70  71  72  73  74  75 
+May 11 20:11:22 *	-  76  77  78  79  80  81  82  83  84  85  86  87 
+May 11 20:11:22 *	-  88  89  90  91  92  93  94  95  96  97  98  99 
+May 11 20:11:22 *	- 
+May 11 20:11:22 *	- For more information on using these, see MOTDFORMATTING.md
+May 11 20:11:22 *	End of MOTD command
+May 11 20:11:22 *	+Zi
+May 11 20:18:23 *	No ping reply for 90 seconds, disconnecting.
+May 11 20:18:23 *	Disconnected ()
+May 11 20:18:33 *	Looking up spasm.cafe
+May 11 20:18:33 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+May 11 20:19:10 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:19:10 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:19:10 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:19:10 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+May 11 20:19:10 *	* Subject: /CN=spasm.cafe
+May 11 20:19:10 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+May 11 20:19:10 *	* Certification info:
+May 11 20:19:10 *	  Subject:
+May 11 20:19:10 *	    CN=spasm.cafe
+May 11 20:19:10 *	  Issuer:
+May 11 20:19:10 *	    C=US
+May 11 20:19:10 *	    O=Let's Encrypt
+May 11 20:19:10 *	    CN=E5
+May 11 20:19:10 *	  Public key algorithm: id-ecPublicKey (256 bits)
+May 11 20:19:10 *	  Sign algorithm ecdsa-with-SHA384
+May 11 20:19:10 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+May 11 20:19:10 *	* Cipher info:
+May 11 20:19:10 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+May 11 20:19:10 *	Connected. Now logging in.
+May 11 20:19:10 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+May 11 20:19:10 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+May 11 20:19:10 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+May 11 20:19:10 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+May 11 20:19:10 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+May 11 20:19:10 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+May 11 20:19:11 *	Welcome to the The-Workshop IRC Network bud__
+May 11 20:19:11 *	Your host is spasm.cafe, running version ergo-2.15.0
+May 11 20:19:11 *	This server was created Sun, 11 May 2025 17:29:42 UTC
+May 11 20:19:11 *	spasm.cafe ergo-2.15.0 BERTZios CEIMRUabefhiklmnoqstuv Iabefhkloqv
+May 11 20:19:11 *	AWAYLEN=390 BOT=B CASEMAPPING=ascii CHANLIMIT=#:100 CHANMODES=Ibe,k,fl,CEMRUimnstu CHANNELLEN=64 CHANTYPES=# CHATHISTORY=1000 ELIST=U EXCEPTS EXTBAN=,m FORWARD=f INVEX :are supported by this server
+May 11 20:19:11 *	KICKLEN=390 MAXLIST=beI:100 MAXTARGETS=4 MODES MONITOR=100 MSGREFTYPES=msgid,timestamp NETWORK=The-Workshop NICKLEN=32 PREFIX=(qaohv)~&@%+ SAFELIST STATUSMSG=~&@%+ TARGMAX=NAMES:1,LIST:1,KICK:,WHOIS:1,USERHOST:10,PRIVMSG:4,TAGMSG:4,NOTICE:4,MONITOR:100 TOPICLEN=390 :are supported by this server
+May 11 20:19:11 *	UTF8ONLY WHOX draft/CHATHISTORY=1000 :are supported by this server
+May 11 20:19:11 *	There are 1 users and 3 invisible on 1 server(s)
+May 11 20:19:11 *	0 :IRC Operators online
+May 11 20:19:11 *	1 :unregistered connections
+May 11 20:19:11 *	3 :channels formed
+May 11 20:19:11 *	I have 4 clients and 0 servers
+May 11 20:19:11 *	4 5 :Current local users 4, max 5
+May 11 20:19:11 *	4 5 :Current global users 4, max 5
+May 11 20:19:11 *	- spasm.cafe Message of the day - 
+May 11 20:19:11 *	-      __ __  ______ ___  ______ ___ 
+May 11 20:19:11 *	-   __/ // /_/ ____/ __ \/ ____/ __ \
+May 11 20:19:11 *	-  /_  // __/ __/ / /_/ / / __/ / / /
+May 11 20:19:11 *	- /_  // __/ /___/ _, _/ /_/ / /_/ / 
+May 11 20:19:11 *	-  /_//_/ /_____/_/ |_|\____/\____/  
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- This is the default Ergo MOTD.
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- If motd-formatting is enabled in the config file, you can use the dollarsign character to
+May 11 20:19:11 *	- create special formatting such as bold, italics and color codes.
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- For example, here are a few formatted lines (enable motd-formatting to see these in action):
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- - this is bold text.
+May 11 20:19:11 *	- - this is italics text.
+May 11 20:19:11 *	- - this is red and blue text.
+May 11 20:19:11 *	- - this is red text with a light blue background.
+May 11 20:19:11 *	- - this is a normal escaped dollarsign: $
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- And now a few fun colour charts!
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	-  00  01  02  03  04  05  06  07 
+May 11 20:19:11 *	-  08  09  10  11  12  13  14  15 
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	-  16  17  18  19  20  21  22  23  24  25  26  27 
+May 11 20:19:11 *	-  28  29  30  31  32  33  34  35  36  37  38  39 
+May 11 20:19:11 *	-  40  41  42  43  44  45  46  47  48  49  50  51 
+May 11 20:19:11 *	-  52  53  54  55  56  57  58  59  60  61  62  63 
+May 11 20:19:11 *	-  64  65  66  67  68  69  70  71  72  73  74  75 
+May 11 20:19:11 *	-  76  77  78  79  80  81  82  83  84  85  86  87 
+May 11 20:19:11 *	-  88  89  90  91  92  93  94  95  96  97  98  99 
+May 11 20:19:11 *	- 
+May 11 20:19:11 *	- For more information on using these, see MOTDFORMATTING.md
+May 11 20:19:11 *	End of MOTD command
+May 11 20:19:11 *	+Zi
+May 12 04:51:15 Checksum plugin unloaded
+May 12 04:51:15 Perl interface unloaded
+May 12 04:51:15 Sysinfo plugin unloaded
+**** ENDING LOGGING AT Mon May 12 04:51:15 2025
+

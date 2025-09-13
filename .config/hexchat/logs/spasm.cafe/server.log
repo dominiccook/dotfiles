@@ -1,0 +1,98 @@
+**** BEGIN LOGGING AT Sun May 11 17:15:24 2025
+
+May 11 17:15:24 *	Looking up spasm.cafe
+**** BEGIN LOGGING AT Sun May 11 17:15:30 2025
+
+May 11 17:15:30 *	Welcome to the The-Workshop IRC Network bud__
+May 11 17:15:30 *	Your host is spasm.cafe, running version ergo-2.15.0
+May 11 17:15:30 *	This server was created Sun, 11 May 2025 17:29:42 UTC
+May 11 17:15:30 *	spasm.cafe ergo-2.15.0 BERTZios CEIMRUabefhiklmnoqstuv Iabefhkloqv
+May 11 17:15:30 *	AWAYLEN=390 BOT=B CASEMAPPING=ascii CHANLIMIT=#:100 CHANMODES=Ibe,k,fl,CEMRUimnstu CHANNELLEN=64 CHANTYPES=# CHATHISTORY=1000 ELIST=U EXCEPTS EXTBAN=,m FORWARD=f INVEX :are supported by this server
+**** BEGIN LOGGING AT Sun Jul  6 17:07:24 2025
+
+Jul 06 17:07:24 *	Looking up spasm.cafe
+Jul 06 17:07:24 *	Connecting to spasm.cafe (2001:19f0:1000:391f:5400:5ff:fe50:fe79:6697)
+Jul 06 17:07:25 *	* Subject: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 06 17:07:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 06 17:07:25 *	* Subject: /C=US/O=Let's Encrypt/CN=E5
+Jul 06 17:07:25 *	* Issuer: /C=US/O=Internet Security Research Group/CN=ISRG Root X1
+Jul 06 17:07:25 *	* Subject: /CN=spasm.cafe
+Jul 06 17:07:25 *	* Issuer: /C=US/O=Let's Encrypt/CN=E5
+Jul 06 17:07:25 *	* Certification info:
+Jul 06 17:07:25 *	  Subject:
+Jul 06 17:07:25 *	    CN=spasm.cafe
+Jul 06 17:07:25 *	  Issuer:
+Jul 06 17:07:25 *	    C=US
+Jul 06 17:07:25 *	    O=Let's Encrypt
+Jul 06 17:07:25 *	    CN=E5
+Jul 06 17:07:25 *	  Public key algorithm: id-ecPublicKey (256 bits)
+Jul 06 17:07:25 *	  Sign algorithm ecdsa-with-SHA384
+Jul 06 17:07:25 *	  Valid since Apr 30 07:32:12 2025 GM to Jul 29 07:32:11 2025 GM
+Jul 06 17:07:25 *	* Cipher info:
+Jul 06 17:07:25 *	  Version: TLSv1.3, cipher TLS_AES_128_GCM_SHA256 (128 bits)
+Jul 06 17:07:25 *	Connected. Now logging in.
+Jul 06 17:07:25 *	Capabilities supported: account-notify account-tag away-notify batch cap-notify chghost draft/account-registration draft/channel-rename draft/chathistory draft/event-playback draft/extended-isupport draft/languages=17,en,~bs,~de,~el,~en-AU,~es,~fi,~fr-FR,~it,~nl,~no,~pl,~pt-BR,~ro,~sq-AL,~tr-TR,~zh-CN draft/message-redaction draft/multiline=max-bytes=4096,max-lines=100 draft/no-implicit-names draft/persistence draft/pre-away draft/read-marker draft/relaymsg=/ echo-message ergo.chat/nope extended-join
+Jul 06 17:07:25 *	Capabilities requested: account-notify account-tag away-notify cap-notify chghost extended-join 
+Jul 06 17:07:25 *	Capabilities supported: extended-monitor invite-notify labeled-response message-tags multi-prefix sasl=PLAIN,EXTERNAL,SCRAM-SHA-256 server-time setname standard-replies sts=duration=2765100,port=6697 userhost-in-names znc.in/playback znc.in/self-message
+Jul 06 17:07:25 *	Capabilities requested: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names 
+Jul 06 17:07:25 *	Capabilities acknowledged: account-notify account-tag away-notify cap-notify chghost extended-join
+Jul 06 17:07:25 *	Capabilities acknowledged: extended-monitor invite-notify multi-prefix server-time setname userhost-in-names
+Jul 06 17:07:27 *	dug is already in use. Retrying with dug_...
+**** ENDING LOGGING AT Sun Jul  6 17:07:28 2025
+
+**** BEGIN LOGGING AT Sun Jul  6 17:07:28 2025
+
+Jul 06 17:07:29 *	Welcome to the The-Workshop IRC Network dug_
+Jul 06 17:07:29 *	Your host is spasm.cafe, running version ergo-2.15.0
+Jul 06 17:07:29 *	This server was created Sun, 11 May 2025 17:29:42 UTC
+Jul 06 17:07:29 *	spasm.cafe ergo-2.15.0 BERTZios CEIMRUabefhiklmnoqstuv Iabefhkloqv
+Jul 06 17:07:29 *	AWAYLEN=390 BOT=B CASEMAPPING=ascii CHANLIMIT=#:100 CHANMODES=Ibe,k,fl,CEMRUimnstu CHANNELLEN=64 CHANTYPES=# CHATHISTORY=1000 ELIST=U EXCEPTS EXTBAN=,m FORWARD=f INVEX :are supported by this server
+Jul 06 17:07:29 *	KICKLEN=390 MAXLIST=beI:100 MAXTARGETS=4 MODES MONITOR=100 MSGREFTYPES=msgid,timestamp NETWORK=The-Workshop NICKLEN=32 PREFIX=(qaohv)~&@%+ SAFELIST STATUSMSG=~&@%+ TARGMAX=NAMES:1,LIST:1,KICK:,WHOIS:1,USERHOST:10,PRIVMSG:4,TAGMSG:4,NOTICE:4,MONITOR:100 TOPICLEN=390 :are supported by this server
+Jul 06 17:07:29 *	UTF8ONLY WHOX draft/CHATHISTORY=1000 :are supported by this server
+Jul 06 17:07:29 *	There are 0 users and 3 invisible on 1 server(s)
+Jul 06 17:07:29 *	0 :IRC Operators online
+Jul 06 17:07:29 *	0 :unregistered connections
+Jul 06 17:07:29 *	4 :channels formed
+Jul 06 17:07:29 *	I have 3 clients and 0 servers
+Jul 06 17:07:29 *	3 5 :Current local users 3, max 5
+Jul 06 17:07:29 *	3 5 :Current global users 3, max 5
+Jul 06 17:07:29 *	- spasm.cafe Message of the day - 
+Jul 06 17:07:29 *	-      __ __  ______ ___  ______ ___ 
+Jul 06 17:07:29 *	-   __/ // /_/ ____/ __ \/ ____/ __ \
+Jul 06 17:07:29 *	-  /_  // __/ __/ / /_/ / / __/ / / /
+Jul 06 17:07:29 *	- /_  // __/ /___/ _, _/ /_/ / /_/ / 
+Jul 06 17:07:29 *	-  /_//_/ /_____/_/ |_|\____/\____/  
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- This is the default Ergo MOTD.
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- If motd-formatting is enabled in the config file, you can use the dollarsign character to
+Jul 06 17:07:29 *	- create special formatting such as bold, italics and color codes.
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- For example, here are a few formatted lines (enable motd-formatting to see these in action):
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- - this is bold text.
+Jul 06 17:07:29 *	- - this is italics text.
+Jul 06 17:07:29 *	- - this is red and blue text.
+Jul 06 17:07:29 *	- - this is red text with a light blue background.
+Jul 06 17:07:29 *	- - this is a normal escaped dollarsign: $
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- And now a few fun colour charts!
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	-  00  01  02  03  04  05  06  07 
+Jul 06 17:07:29 *	-  08  09  10  11  12  13  14  15 
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	-  16  17  18  19  20  21  22  23  24  25  26  27 
+Jul 06 17:07:29 *	-  28  29  30  31  32  33  34  35  36  37  38  39 
+Jul 06 17:07:29 *	-  40  41  42  43  44  45  46  47  48  49  50  51 
+Jul 06 17:07:29 *	-  52  53  54  55  56  57  58  59  60  61  62  63 
+Jul 06 17:07:29 *	-  64  65  66  67  68  69  70  71  72  73  74  75 
+Jul 06 17:07:29 *	-  76  77  78  79  80  81  82  83  84  85  86  87 
+Jul 06 17:07:29 *	-  88  89  90  91  92  93  94  95  96  97  98  99 
+Jul 06 17:07:29 *	- 
+Jul 06 17:07:29 *	- For more information on using these, see MOTDFORMATTING.md
+Jul 06 17:07:29 *	End of MOTD command
+Jul 06 17:07:29 *	+Zi
+**** ENDING LOGGING AT Sun Jul  6 20:53:39 2025
+
