@@ -55,8 +55,19 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
+# ----- Git helpers (silent outside repos) -----
+git_branch() {
+    git branch --show-current 2>/dev/null
+}
+
+git_dirty() {
+    git diff --quiet --ignore-submodules HEAD 2>/dev/null || echo "*"
+}
+
 if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\e[36m\][\[\e[30m\]\[\033[1;5;102m\]\u\[\e[m\]\[\e[36m\]]\[\033[4;36m\]@\h\[\e[m\]\[\033[36m\]:\[\033[01;34m\]\w\[\033[36m\]\$ \[\e[m\]\[\e[10m\]'
+    # ----- Greyscale Git-aware prompt -----
+    PS1='\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\e[38;5;248m\][\[\e[38;5;255m\] дом \[\e[38;5;248m\]]\[\e[38;5;247m\]@\[\e[m\]\[\e[38;5;250m\]\h\[\e[m\]\[\e[38;5;245m\] → \[\e[38;5;255m\]\w\[\e[m\]\[\e[38;5;242m\]$([ -n "$(git_branch)" ] && echo "(\[\e[38;5;250m\]$(git_branch)\[\e[38;5;240m\]$(git_dirty)\[\e[38;5;242m\])")\[\e[m\]\n\[\e[38;5;244m\]\$ \[\e[m\]'
+    # PS1='${debian_chroot:+($debian_chroot)}\[\e[38;5;248m\][\[\e[30m\]\[\e[38;5;255m\] дом \[\e[38;5;248m\]]\[\e[38;5;247m\]@\[\e[m\]\[\e[38;5;250m\]\h\[\e[m\]\[\033[36m\] → \[\e[38;5;145m\]\w\[\033[36m\]\n\[\e[38;5;244m\]\$ \[\e[m\]\[\e[10m\]'
 else
     PS1='${debian_chroot:+($debian_chroot)}[\u\]@\h:\w\$ '
 fi
@@ -84,7 +95,7 @@ if [ -x /usr/bin/dircolors ]; then
 fi
 
 # colored GCC warnings and errors
-#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
 # some more ls aliases
 alias ls='ls -hN --color=auto --group-directories-first'
@@ -121,10 +132,8 @@ fi
 alias dualmon='xrandr --output LVDS-1 --primary --output HDMI-1 --auto --above LVDS-1'
 
 # aliases for editing config files
-alias brc='sudo vim ~/.bashrc'
+alias brc='sudo vim -u ~/.vimrc ~/.bashrc'
 alias vrc='sudo vim ~/.vimrc'
-
-setxkbmap -option caps:swapescape
 
 # --- function to write a new latex article
 article() 
@@ -179,17 +188,11 @@ scrapeURLs()
 export -f scrapeURLs
 
 # --- comfy ---
-alias comfy='mpv --loop-file home/Pictures/comfy_cabin.webm'
-
-# --- set background pattern ---
-xsetroot -mod 13 7
-
-# Created by `pipx` on 2025-03-15 00:09:41
-export PATH="$PATH:/home/dominic/.local/bin"
+alias comfy='mpv --loop-file /home/dominic/Pictures/comfy_cabin.webm'
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/dominic/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+alias fmpy="__conda_setup="$('/home/dominic/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
@@ -199,10 +202,8 @@ else
         export PATH="/home/dominic/anaconda3/bin:$PATH"
     fi
 fi
-unset __conda_setup
+unset __conda_setup & conda activate fm5151 & cd /home/dominic/fm5151/"
 # <<< conda initialize <<<
 
-#python aliases
-alias python='python3'
-
-alias fraggin='ioquake3/ioquake3.x86_64'
+# python alias
+alias py="python3"
