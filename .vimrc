@@ -112,9 +112,9 @@ Plug 'lilydjwg/colorizer'
 " Window chooser
 Plug 't9md/vim-choosewin'
 " Automatically sort python imports
-Plug 'fisadev/vim-isort'
+" Plug 'fisadev/vim-isort'
 " Highlight matching html tags
-Plug 'valloric/MatchTagAlways'
+" Plug 'valloric/MatchTagAlways'
 " Generate html in a simple way
 Plug 'mattn/emmet-vim'
 " Git integration
@@ -135,6 +135,9 @@ Plug 'myusuf3/numbers.vim'
 Plug 'ryanoasis/vim-devicons'
 " Web Dev Live Server
 Plug 'wolandark/vim-live-server.git'
+
+" Jupyter Notebook
+Plug 'dccsillag/magma.vim', { 'do': ':UpdateRemotePlugins' }
 
 if using_vim
     " Consoles as buffers (neovim has its own consoles as buffers)
@@ -463,8 +466,8 @@ if filereadable(expand(custom_configs_path))
 endif
 
 " More vim stuff from luke ---------
-inoremap <Space><Space> <Esc>/<CR>"_c4l
-nnoremap <Space><Space> <Esc>/(<>)<CR>"_c4l
+inoremap ;; <Esc>/<CR>"_c4l
+nnoremap ;; <Esc>/(<>)<CR>"_c4l
 "map <Space><Space> <Esc>/(<>)<CR>"_c4l
 
 set mouse=a
@@ -478,7 +481,7 @@ set title
 
 " latex settings ---------------
 
-execute pathogen#infect()
+"execute pathogen#infect()
 filetype plugin indent on
 
 " --- latex bindings
@@ -493,7 +496,7 @@ autocmd FileType tex inoremap ;dr '((<>)) (<>)<esc>T'hi
 autocmd FileType tex inoremap ;eq \begin{align*}<cr>(<>)<cr>\end{align*}<cr>(<>)<esc>3kA
 autocmd FileType tex inoremap ;ol \begin{enumerate}<cr><cr>\end{enumerate}<cr><cr>(<>)<esc>3kA\item<Space>
 autocmd FileType tex inoremap ;/ /<esc>T<space>dt/i\frac{<esc>pa}{}<space>(<>)<esc><right>xT{i
-autocmd FileType tex inoremap abs \lvert<space>(<>)<space>\rvert<space>(<>)<esc>8b
+"autocmd FileType tex inoremap abs \lvert<space>(<>)<space>\rvert<space>(<>)<esc>8b
 autocmd FileType tex inoremap ;f <esc>xi$<esc>pa$<space>(<>)<esc>
 autocmd FileType tex inoremap ;ni <esc>o\item<space>
 

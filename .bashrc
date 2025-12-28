@@ -190,20 +190,20 @@ export -f scrapeURLs
 # --- comfy ---
 alias comfy='mpv --loop-file /home/dominic/Pictures/comfy_cabin.webm'
 
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-alias fmpy="__conda_setup="$('/home/dominic/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/home/dominic/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/dominic/anaconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/dominic/anaconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup & conda activate fm5151 & cd /home/dominic/fm5151/"
-# <<< conda initialize <<<
+## >>> conda initialize >>>
+## !! Contents within this block are managed by 'conda init' !!
+#__conda_setup="$('/home/dominic/finprom/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+#if [ $? -eq 0 ]; then
+#    eval "$__conda_setup"
+#else
+#    if [ -f "/home/dominic/finprom/anaconda3/etc/profile.d/conda.sh" ]; then
+#        . "/home/dominic/finprom/anaconda3/etc/profile.d/conda.sh"
+#    else
+#        export PATH="/home/dominic/finprom/anaconda3/bin:$PATH"
+#    fi
+#fi
+#unset __conda_setup
+## <<< conda initialize <<<
 
 # python alias
 alias py="python3"
